@@ -1,0 +1,58 @@
+/* Playerport-inspired theme layer for Stendhal web UI */
+
+:root.playerport-theme {
+  --pp-bg: #0b0f14;
+  --pp-panel: #111923;
+  --pp-panel-alt: #0f1520;
+  --pp-border: #304050;
+  --pp-text: #d8e6f6;
+  --pp-accent: #7bc4ff;
+  --pp-good: #7dff9b;
+  --pp-warn: #ffd87a;
+  --pp-bad: #ff8f8f;
+}
+
+.playerport-theme body,
+.playerport-theme #game,
+.playerport-theme .ui-root {
+  background: var(--pp-bg) !important;
+  color: var(--pp-text) !important;
+}
+
+.playerport-theme .panel,
+.playerport-theme .window,
+.playerport-theme .dialog,
+.playerport-theme .sidebar,
+.playerport-theme .chat,
+.playerport-theme .hud {
+  background: linear-gradient(180deg, var(--pp-panel) 0%, var(--pp-panel-alt) 100%) !important;
+  border: 1px solid var(--pp-border) !important;
+  color: var(--pp-text) !important;
+}
+
+.playerport-theme button,
+.playerport-theme .btn {
+  background: #1a2735 !important;
+  color: var(--pp-text) !important;
+  border: 1px solid var(--pp-border) !important;
+}
+
+.playerport-theme button:hover,
+.playerport-theme .btn:hover {
+  border-color: var(--pp-accent) !important;
+  color: #ffffff !important;
+}
+
+/* Prompt/HUD-like utility classes for future Playerport compatibility panel */
+.playerport-prompt {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+  background: #0b1118;
+  border: 1px solid #2a3948;
+  padding: 6px 8px;
+  color: #cfe3f8;
+}
+
+.playerport-prompt .hp { color: var(--pp-bad); }
+.playerport-prompt .mana { color: #8fb7ff; }
+.playerport-prompt .move { color: var(--pp-good); }
+.playerport-prompt .enemy { color: var(--pp-warn); }

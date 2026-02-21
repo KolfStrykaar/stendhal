@@ -1,0 +1,4038 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<spells xmlns="stendhal" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="stendhal ../spells.xsd">
+
+	<spell name="pp_acid_blast">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_acid_breath">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_alter_reality">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_animate_corpse">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_arrow_deflection">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_aura_cleanse">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_bad_luck">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_bark_skin">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_battle_tactics">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_bind_wounds">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_black_cairn">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_blade_barrier">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_blessed_warmth">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_blessed_watchfulness">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_boil_blood">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_break_enchantment">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_breath_of_nature">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_breath_of_the_dead">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_burning_hands">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_call_lightning">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_call_of_the_wild">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_campfire">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_cause_critical">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_cause_discord">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_cause_light">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_cause_serious">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_cavorting_bones">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_chain_lightning">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_chain_repair">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_change_sex">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_chant_of_battle">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_chaos_flux">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_charm_person">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_chill_touch">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_chords_of_dissonance">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_clear_thoughts">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_cloak_of_evil">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_cloak_of_starlight">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_closing_weave">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_coldfire">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_colour_spray">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_company_honor">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_company_might">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_company_valor">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_conjure_food">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_continual_light">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_control_weather">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_convoke_swarm">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_create_anvil">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_create_barrel">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_create_flame">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_create_food">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_create_furnace">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_create_grinder">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_create_rose">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_create_spring">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_create_water">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_cultural_artistry">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_cure_blindness">
+		<implementation class-name="games.stendhal.server.entity.spell.HealingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_cure_critical">
+		<implementation class-name="games.stendhal.server.entity.spell.HealingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_cure_deafness">
+		<implementation class-name="games.stendhal.server.entity.spell.HealingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_cure_disease">
+		<implementation class-name="games.stendhal.server.entity.spell.HealingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_cure_light">
+		<implementation class-name="games.stendhal.server.entity.spell.HealingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_cure_poison">
+		<implementation class-name="games.stendhal.server.entity.spell.HealingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_cure_serious">
+		<implementation class-name="games.stendhal.server.entity.spell.HealingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_curse">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_dancing_strike">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_dargonesti_tongue">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_dark_taint">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_delusions_of_grandeur">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_demonfire">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_detect_evil">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_detect_good">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_detect_hidden">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_detect_invis">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_detect_magic">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_detect_poison">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_detect_presence">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_dimensional_door">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_dimernesti_tongue">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_disarm_traps">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_dispel_evil">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_dispel_good">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_dispel_magic">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_divine_favor">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_draconian_tongue">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_dragon_skin">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_drain_blood">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_drain_rune">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_drow_tongue">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_dwarven_tongue">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_eagle_eye">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_elven_tongue">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_enchant_armor">
+		<implementation class-name="games.stendhal.server.entity.spell.ModifyDefSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_enchant_weapon">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_endure_disease">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_energy_drain">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_ethereal_warrior">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_evade_spell">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_fast_working">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_finger_break">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_fire_breath">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_fireball">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_fireproof">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_fireseed">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_firestorm">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_firetongue">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_flame_rune">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_flaming_shield">
+		<implementation class-name="games.stendhal.server.entity.spell.ModifyDefSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_flank_attack">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_flesh_to_stone">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_flyingswords">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_forest_vision">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_frost_breath">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_frost_rune">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_gas_breath">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_gaseous_form">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_general_purpose">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_giant_strength">
+		<implementation class-name="games.stendhal.server.entity.spell.ModifyAtkSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_god_fire">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_grasping_roots">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_gravity_flux">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_great_wasting">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_gust_of_wind">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_heat_metal">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_herbal_discern">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_heroic_demise">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_high_explosive">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_holy_word">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_horrid_wilting">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_hypnotic_pattern">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_ice_shield">
+		<implementation class-name="games.stendhal.server.entity.spell.ModifyDefSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_iceblast">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_incendiary_cloud">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_intensify_death">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_invisibility">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_kagonesti_tongue">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_kender_tongue">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_key_origin">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_know_alignment">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_leather_repair">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_life_transfer">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_lightning_breath">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_locate_object">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_looking_glass">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_magic_missile">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_mark_of_origin">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_mass_healing">
+		<implementation class-name="games.stendhal.server.entity.spell.HealingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_mass_invis">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_mind_shatter">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_minotaur_tongue">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_mounted_combat">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_natures_embrace">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_natures_warmth">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_nerve_pinch">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_ogre_tongue">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_orb_of_containment">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_pass_door">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_pass_without_trace">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_phantom_armor">
+		<implementation class-name="games.stendhal.server.entity.spell.ModifyDefSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_pine_needles">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_pivot_block">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_plant_growth">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_plate_repair">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_play_music">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_point_blank_shot">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_preserve_dead">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_protection_evil">
+		<implementation class-name="games.stendhal.server.entity.spell.ModifyDefSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_protection_good">
+		<implementation class-name="games.stendhal.server.entity.spell.ModifyDefSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_purifying_fire">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_qualinesti_tongue">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_quiet_movement">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_rabbit_summon">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_rainbow_pattern">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_ravage_bite">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_ray_of_fatigue">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_ray_of_truth">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_remove_curse">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_remove_paralysis">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_renew_bones">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_repair_shield">
+		<implementation class-name="games.stendhal.server.entity.spell.ModifyDefSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_resist_cold">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_rupture_organ">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_seal_door">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_search_water">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_second_backstab">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_set_traps">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_shadow_walk">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_shallow_breath">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_shatter_shield">
+		<implementation class-name="games.stendhal.server.entity.spell.ModifyDefSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_shield_rush">
+		<implementation class-name="games.stendhal.server.entity.spell.ModifyDefSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_shifting_shadows">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_shocking_grasp">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_shocking_rune">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_silvanesti_tongue">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_sleepless_curse">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_solamnic_tongue">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_spiritual_hammer">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_squire_call">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_sticks_to_snakes">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_storm_of_vengeance">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_summon">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_summon_insects">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_sweep_attack">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_teleport">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_thieves_cant">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_thors_hammer">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_truefire">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_undead_disruption">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_undetectable_align">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_unholy_armor">
+		<implementation class-name="games.stendhal.server.entity.spell.ModifyDefSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_unseal_door">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_unseen_servant">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_vampiric_touch">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_vermin_plague">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_weapon_repair">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_wear_chain">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_wear_leather">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_wear_plate">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_wilderness_lore">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_wind_wall">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_word_of_death">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_word_of_recall">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+	<spell name="pp_wrath_of_nature">
+		<implementation class-name="games.stendhal.server.entity.spell.AttackingSpell"/>
+		<nature value="dark"/>
+		<attributes>
+			<mana value="8"/>
+			<cooldown value="4"/>
+			<minimum-level value="1"/>
+			<range value="8"/>
+			<atk value="0"/>
+			<def value="0"/>
+			<amount value="80"/>
+			<regen value="20"/>
+			<rate value="1"/>
+			<lifesteal value="0"/>
+			<modifier value="0.3"/>
+		</attributes>
+	</spell>
+
+</spells>
