@@ -8,11 +8,12 @@
 
 ## Next concrete milestones
 
-1. **Importer action (server admin command)**
-   - Load `player-skills-stendhal.json`
-   - Resolve online player by name
-   - Apply converted skill IDs + values
-   - Report import summary + misses
+1. **Importer action (server admin command)** ✅
+   - Command: `ppimportskills`
+   - Loads `tools/playerport-import/player-skills-stendhal.json` by default
+   - Resolves online player by name
+   - Applies converted skill IDs + values
+   - Reports import summary + misses
 
 2. **Clan bridge**
    - Load `clans-stendhal.json`
