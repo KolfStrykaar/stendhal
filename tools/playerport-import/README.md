@@ -126,3 +126,11 @@ node tools/playerport-import/generate-playerport-map-atlas.mjs
 
 Outputs:
 - `data/conf/zones/playerport_room_atlas.json`
+
+## 14) Run full Playerport import pipeline in one command
+
+```bash
+node tools/playerport-import/run-all-playerport-pipeline.mjs /home/jacob/playerport
+```
+
+This refreshes all generated migration artifacts in sequence.
