@@ -145,3 +145,14 @@ Outputs:
 - `tools/playerport-import/dry-run-report.json`
 
 This provides a non-destructive summary of conversion coverage before running admin import commands.
+
+## 16) Validate generated migration artifacts
+
+```bash
+node tools/playerport-import/validate-generated-artifacts.mjs
+```
+
+Outputs:
+- `tools/playerport-import/validation-report.json`
+
+Checks file presence plus node counts for generated spells/items/creatures payloads.

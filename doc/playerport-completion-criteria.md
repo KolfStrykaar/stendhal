@@ -37,7 +37,7 @@ Project is considered complete when all items below are done:
 - [ ] Quest/script adaptation pass
 
 ## F) Validation & Release
-- [ ] Automated migration validation script (counts, refs, collisions)
+- [x] Automated migration validation script (counts, refs, collisions baseline)
 - [ ] Gameplay sanity scenarios (movement/combat/items/spells)
 - [ ] Staging rollout with rollback playbook
 - [ ] Release notes and migration runbook
