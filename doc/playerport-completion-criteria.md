@@ -38,6 +38,6 @@ Project is considered complete when all items below are done:
 
 ## F) Validation & Release
 - [x] Automated migration validation script (counts, refs, collisions baseline)
-- [ ] Gameplay sanity scenarios (movement/combat/items/spells)
-- [ ] Staging rollout with rollback playbook
-- [ ] Release notes and migration runbook
+- [x] Gameplay sanity scenarios (movement/combat/items/spells)
+- [x] Staging rollout with rollback playbook
+- [x] Release notes and migration runbook
