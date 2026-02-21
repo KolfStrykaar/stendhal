@@ -1,0 +1,1303 @@
+{
+  "generatedAt": "2026-02-21T07:11:41.477Z",
+  "count": 82,
+  "zones": [
+    {
+      "id": "pp_zone_1",
+      "sourceAreaFile": "abanfor.are",
+      "name": "Abanasinian Forest",
+      "vnumRange": {
+        "min": 4250,
+        "max": 4400
+      },
+      "stats": {
+        "rooms": 74,
+        "objects": 1,
+        "mobiles": 3,
+        "resets": 0
+      },
+      "status": "todo-convert-rooms-and-resets"
+    },
+    {
+      "id": "pp_zone_2",
+      "sourceAreaFile": "area0.are",
+      "name": "Tournament Arena",
+      "vnumRange": {
+        "min": 15000,
+        "max": 15010
+      },
+      "stats": {
+        "rooms": 2,
+        "objects": 1,
+        "mobiles": 1,
+        "resets": 0
+      },
+      "status": "todo-convert-rooms-and-resets"
+    },
+    {
+      "id": "pp_zone_3",
+      "sourceAreaFile": "balifor.are",
+      "name": "Balifor",
+      "vnumRange": {
+        "min": 10201,
+        "max": 10500
+      },
+      "stats": {
+        "rooms": 246,
+        "objects": 2,
+        "mobiles": 4,
+        "resets": 13
+      },
+      "status": "todo-convert-rooms-and-resets"
+    },
+    {
+      "id": "pp_zone_4",
+      "sourceAreaFile": "borrow.are",
+      "name": "Borrower refuge",
+      "vnumRange": {
+        "min": 4200,
+        "max": 4249
+      },
+      "stats": {
+        "rooms": 12,
+        "objects": 4,
+        "mobiles": 2,
+        "resets": 4
+      },
+      "status": "todo-convert-rooms-and-resets"
+    },
+    {
+      "id": "pp_zone_5",
+      "sourceAreaFile": "caergoth.are",
+      "name": "Caergoth",
+      "vnumRange": {
+        "min": 14700,
+        "max": 14799
+      },
+      "stats": {
+        "rooms": 17,
+        "objects": 4,
+        "mobiles": 4,
+        "resets": 1
+      },
+      "status": "todo-convert-rooms-and-resets"
+    },
+    {
+      "id": "pp_zone_6",
+      "sourceAreaFile": "chaos.are",
+      "name": "Chaos",
+      "vnumRange": {
+        "min": 13400,
+        "max": 13599
+      },
+      "stats": {
+        "rooms": 7,
+        "objects": 53,
+        "mobiles": 27,
+        "resets": 6
+      },
+      "status": "todo-convert-rooms-and-resets"
+    },
+    {
+      "id": "pp_zone_7",
+      "sourceAreaFile": "clerist.are",
+      "name": "High Clerist Tower",
+      "vnumRange": {
+        "min": 13700,
+        "max": 13900
+      },
+      "stats": {
+        "rooms": 94,
+        "objects": 30,
+        "mobiles": 10,
+        "resets": 109
+      },
+      "status": "todo-convert-rooms-and-resets"
+    },
+    {
+      "id": "pp_zone_8",
+      "sourceAreaFile": "crovtes.are",
+      "name": "Crovax Test Area",
+      "vnumRange": {
+        "min": 18500,
+        "max": 18509
+      },
+      "stats": {
+        "rooms": 11,
+        "objects": 11,
+        "mobiles": 11,
+        "resets": 23
+      },
+      "status": "todo-convert-rooms-and-resets"
+    },
+    {
+      "id": "pp_zone_9",
+      "sourceAreaFile": "crystal.are",
+      "name": "Crystalmir Lake",
+      "vnumRange": {
+        "min": 13300,
+        "max": 13399
+      },
+      "stats": {
+        "rooms": 80,
+        "objects": 19,
+        "mobiles": 16,
+        "resets": 74
+      },
+      "status": "todo-convert-rooms-and-resets"
+    },
+    {
+      "id": "pp_zone_10",
+      "sourceAreaFile": "dargaard.are",
+      "name": "Dargaard Mountains",
+      "vnumRange": {
+        "min": 4801,
+        "max": 4999
+      },
+      "stats": {
+        "rooms": 170,
+        "objects": 26,
+        "mobiles": 29,
+        "resets": 158
+      },
+      "status": "todo-convert-rooms-and-resets"
+    },
+    {
+      "id": "pp_zone_11",
+      "sourceAreaFile": "darkenwo.are",
+      "name": "Darken Wood",
+      "vnumRange": {
+        "min": 2951,
+        "max": 2999
+      },
+      "stats": {
+        "rooms": 45,
+        "objects": 10,
+        "mobiles": 6,
+        "resets": 29
+      },
+      "status": "todo-convert-rooms-and-resets"
+    },
+    {
+      "id": "pp_zone_12",
+      "sourceAreaFile": "darktemp.are",
+      "name": "Dark Temple",
+      "vnumRange": {
+        "min": 151,
+        "max": 199
+      },
+      "stats": {
+        "rooms": 11,
+        "objects": 7,
+        "mobiles": 3,
+        "resets": 20
+      },
+      "status": "todo-convert-rooms-and-resets"
+    },
+    {
+      "id": "pp_zone_13",
+      "sourceAreaFile": "flotsam.are",
+      "name": "Flotsam",
+      "vnumRange": {
+        "min": 14400,
+        "max": 14699
+      },
+      "stats": {
+        "rooms": 174,
+        "objects": 19,
+        "mobiles": 29,
+        "resets": 77
+      },
+      "status": "todo-convert-rooms-and-resets"
+    },
+    {
+      "id": "pp_zone_14",
+      "sourceAreaFile": "forge.are",
+      "name": "The Forge",
+      "vnumRange": {
+        "min": 400,
+        "max": 499
+      },
+      "stats": {
+        "rooms": 13,
+        "objects": 19,
+        "mobiles": 6,
+        "resets": 29
+      },
+      "status": "todo-convert-rooms-and-resets"
+    },
+    {
+      "id": "pp_zone_15",
+      "sourceAreaFile": "forgocav.are",
+      "name": "Forgotten Caverns",
+      "vnumRange": {
+        "min": 19000,
+        "max": 19149
+      },
+      "stats": {
+        "rooms": 147,
+        "objects": 12,
+        "mobiles": 10,
+        "resets": 57
+      },
+      "status": "todo-convert-rooms-and-resets"
+    },
+    {
+      "id": "pp_zone_16",
+      "sourceAreaFile": "garnet.are",
+      "name": "Garnet Mountains",
+      "vnumRange": {
+        "min": 1800,
+        "max": 1999
+      },
+      "stats": {
+        "rooms": 1,
+        "objects": 1,
+        "mobiles": 1,
+        "resets": 0
+      },
+      "status": "todo-convert-rooms-and-resets"
+    },
+    {
+      "id": "pp_zone_17",
+      "sourceAreaFile": "garnetmo.are",
+      "name": "The Garnet Mountains",
+      "vnumRange": {
+        "min": 1800,
+        "max": 1999
+      },
+      "stats": {
+        "rooms": 183,
+        "objects": 123,
+        "mobiles": 34,
+        "resets": 173
+      },
+      "status": "todo-convert-rooms-and-resets"
+    },
+    {
+      "id": "pp_zone_18",
+      "sourceAreaFile": "garret.are",
+      "name": "Garret",
+      "vnumRange": {
+        "min": 5400,
+        "max": 5499
+      },
+      "stats": {
+        "rooms": 101,
+        "objects": 37,
+        "mobiles": 23,
+        "resets": 526
+      },
+      "status": "todo-convert-rooms-and-resets"
+    },
+    {
+      "id": "pp_zone_19",
+      "sourceAreaFile": "grave.are",
+      "name": "Graveyard",
+      "vnumRange": {
+        "min": 3600,
+        "max": 3699
+      },
+      "stats": {
+        "rooms": 34,
+        "objects": 11,
+        "mobiles": 7,
+        "resets": 56
+      },
+      "status": "todo-convert-rooms-and-resets"
+    },
+    {
+      "id": "pp_zone_20",
+      "sourceAreaFile": "grimdel.are",
+      "name": "Grimdel",
+      "vnumRange": {
+        "min": 8700,
+        "max": 8799
+      },
+      "stats": {
+        "rooms": 97,
+        "objects": 27,
+        "mobiles": 22,
+        "resets": 78
+      },
+      "status": "todo-convert-rooms-and-resets"
+    },
+    {
+      "id": "pp_zone_21",
+      "sourceAreaFile": "group.are",
+      "name": "group.are",
+      "vnumRange": null,
+      "stats": {
+        "rooms": 0,
+        "objects": 0,
+        "mobiles": 0,
+        "resets": 0
+      },
+      "status": "todo-convert-rooms-and-resets"
+    },
+    {
+      "id": "pp_zone_22",
+      "sourceAreaFile": "hallknow.are",
+      "name": "Hall of Knowledge",
+      "vnumRange": {
+        "min": 2900,
+        "max": 2950
+      },
+      "stats": {
+        "rooms": 16,
+        "objects": 15,
+        "mobiles": 5,
+        "resets": 31
+      },
+      "status": "todo-convert-rooms-and-resets"
+    },
+    {
+      "id": "pp_zone_23",
+      "sourceAreaFile": "haven.are",
+      "name": "Haven",
+      "vnumRange": {
+        "min": 10501,
+        "max": 10599
+      },
+      "stats": {
+        "rooms": 100,
+        "objects": 30,
+        "mobiles": 19,
+        "resets": 201
+      },
+      "status": "todo-convert-rooms-and-resets"
+    },
+    {
+      "id": "pp_zone_24",
+      "sourceAreaFile": "hct2.are",
+      "name": "High Clerist Tower2",
+      "vnumRange": {
+        "min": 17901,
+        "max": 18051
+      },
+      "stats": {
+        "rooms": 22,
+        "objects": 3,
+        "mobiles": 3,
+        "resets": 12
+      },
+      "status": "todo-convert-rooms-and-resets"
+    },
+    {
+      "id": "pp_zone_25",
+      "sourceAreaFile": "help.are",
+      "name": "help.are",
+      "vnumRange": null,
+      "stats": {
+        "rooms": 7,
+        "objects": 0,
+        "mobiles": 0,
+        "resets": 0
+      },
+      "status": "todo-convert-rooms-and-resets"
+    },
+    {
+      "id": "pp_zone_26",
+      "sourceAreaFile": "helpfile.are",
+      "name": "Help File Area",
+      "vnumRange": {
+        "min": 17901,
+        "max": 17902
+      },
+      "stats": {
+        "rooms": 2,
+        "objects": 2,
+        "mobiles": 1,
+        "resets": 7
+      },
+      "status": "todo-convert-rooms-and-resets"
+    },
+    {
+      "id": "pp_zone_27",
+      "sourceAreaFile": "holyorde.are",
+      "name": "Temple of Holy Order",
+      "vnumRange": {
+        "min": 851,
+        "max": 899
+      },
+      "stats": {
+        "rooms": 13,
+        "objects": 6,
+        "mobiles": 3,
+        "resets": 22
+      },
+      "status": "todo-convert-rooms-and-resets"
+    },
+    {
+      "id": "pp_zone_28",
+      "sourceAreaFile": "immort.are",
+      "name": "immortal area",
+      "vnumRange": {
+        "min": 1200,
+        "max": 1299
+      },
+      "stats": {
+        "rooms": 34,
+        "objects": 78,
+        "mobiles": 30,
+        "resets": 18
+      },
+      "status": "todo-convert-rooms-and-resets"
+    },
+    {
+      "id": "pp_zone_29",
+      "sourceAreaFile": "istar.are",
+      "name": "Istar",
+      "vnumRange": {
+        "min": 5800,
+        "max": 5999
+      },
+      "stats": {
+        "rooms": 193,
+        "objects": 48,
+        "mobiles": 64,
+        "resets": 114
+      },
+      "status": "todo-convert-rooms-and-resets"
+    },
+    {
+      "id": "pp_zone_30",
+      "sourceAreaFile": "kalaman.are",
+      "name": "Kalaman",
+      "vnumRange": {
+        "min": 3800,
+        "max": 3899
+      },
+      "stats": {
+        "rooms": 101,
+        "objects": 27,
+        "mobiles": 24,
+        "resets": 106
+      },
+      "status": "todo-convert-rooms-and-resets"
+    },
+    {
+      "id": "pp_zone_31",
+      "sourceAreaFile": "kaolyn.are",
+      "name": "Kaolyn",
+      "vnumRange": {
+        "min": 13600,
+        "max": 13699
+      },
+      "stats": {
+        "rooms": 101,
+        "objects": 1,
+        "mobiles": 2,
+        "resets": 30
+      },
+      "status": "todo-convert-rooms-and-resets"
+    },
+    {
+      "id": "pp_zone_32",
+      "sourceAreaFile": "kender.are",
+      "name": "kender.are",
+      "vnumRange": null,
+      "stats": {
+        "rooms": 0,
+        "objects": 0,
+        "mobiles": 0,
+        "resets": 0
+      },
+      "status": "todo-convert-rooms-and-resets"
+    },
+    {
+      "id": "pp_zone_33",
+      "sourceAreaFile": "kender1.are",
+      "name": "Kendermore",
+      "vnumRange": {
+        "min": 14900,
+        "max": 14999
+      },
+      "stats": {
+        "rooms": 101,
+        "objects": 74,
+        "mobiles": 29,
+        "resets": 283
+      },
+      "status": "todo-convert-rooms-and-resets"
+    },
+    {
+      "id": "pp_zone_34",
+      "sourceAreaFile": "khalkist.are",
+      "name": "Khalkist Mountains",
+      "vnumRange": {
+        "min": 14201,
+        "max": 14299
+      },
+      "stats": {
+        "rooms": 90,
+        "objects": 5,
+        "mobiles": 3,
+        "resets": 24
+      },
+      "status": "todo-convert-rooms-and-resets"
+    },
+    {
+      "id": "pp_zone_35",
+      "sourceAreaFile": "knigotak.are",
+      "name": "KOT Stronghold",
+      "vnumRange": {
+        "min": 11600,
+        "max": 11699
+      },
+      "stats": {
+        "rooms": 32,
+        "objects": 15,
+        "mobiles": 6,
+        "resets": 53
+      },
+      "status": "todo-convert-rooms-and-resets"
+    },
+    {
+      "id": "pp_zone_36",
+      "sourceAreaFile": "lemish.are",
+      "name": "Lemish",
+      "vnumRange": {
+        "min": 700,
+        "max": 850
+      },
+      "stats": {
+        "rooms": 152,
+        "objects": 64,
+        "mobiles": 47,
+        "resets": 454
+      },
+      "status": "todo-convert-rooms-and-resets"
+    },
+    {
+      "id": "pp_zone_37",
+      "sourceAreaFile": "lemish2.are",
+      "name": "lemish2",
+      "vnumRange": {
+        "min": 700,
+        "max": 850
+      },
+      "stats": {
+        "rooms": 136,
+        "objects": 1,
+        "mobiles": 2,
+        "resets": 22
+      },
+      "status": "todo-convert-rooms-and-resets"
+    },
+    {
+      "id": "pp_zone_38",
+      "sourceAreaFile": "limbo.are",
+      "name": "Limbo",
+      "vnumRange": {
+        "min": 1,
+        "max": 25
+      },
+      "stats": {
+        "rooms": 4,
+        "objects": 25,
+        "mobiles": 14,
+        "resets": 1
+      },
+      "status": "todo-convert-rooms-and-resets"
+    },
+    {
+      "id": "pp_zone_39",
+      "sourceAreaFile": "mariner.are",
+      "name": "Mariner Ship",
+      "vnumRange": {
+        "min": 26,
+        "max": 150
+      },
+      "stats": {
+        "rooms": 12,
+        "objects": 6,
+        "mobiles": 6,
+        "resets": 4
+      },
+      "status": "todo-convert-rooms-and-resets"
+    },
+    {
+      "id": "pp_zone_40",
+      "sourceAreaFile": "marsh.are",
+      "name": "Marshlands",
+      "vnumRange": {
+        "min": 8300,
+        "max": 8399
+      },
+      "stats": {
+        "rooms": 19,
+        "objects": 7,
+        "mobiles": 18,
+        "resets": 52
+      },
+      "status": "todo-convert-rooms-and-resets"
+    },
+    {
+      "id": "pp_zone_41",
+      "sourceAreaFile": "merclan.are",
+      "name": "Mercenary Hall",
+      "vnumRange": {
+        "min": 13200,
+        "max": 13250
+      },
+      "stats": {
+        "rooms": 11,
+        "objects": 8,
+        "mobiles": 4,
+        "resets": 17
+      },
+      "status": "todo-convert-rooms-and-resets"
+    },
+    {
+      "id": "pp_zone_42",
+      "sourceAreaFile": "nature.are",
+      "name": "Temple of Nature",
+      "vnumRange": {
+        "min": 500,
+        "max": 599
+      },
+      "stats": {
+        "rooms": 9,
+        "objects": 5,
+        "mobiles": 3,
+        "resets": 11
+      },
+      "status": "todo-convert-rooms-and-resets"
+    },
+    {
+      "id": "pp_zone_43",
+      "sourceAreaFile": "neraka.are",
+      "name": "Neraka",
+      "vnumRange": {
+        "min": 11000,
+        "max": 11200
+      },
+      "stats": {
+        "rooms": 202,
+        "objects": 67,
+        "mobiles": 38,
+        "resets": 343
+      },
+      "status": "todo-convert-rooms-and-resets"
+    },
+    {
+      "id": "pp_zone_44",
+      "sourceAreaFile": "neraka2.are",
+      "name": "Neraka2",
+      "vnumRange": {
+        "min": 11901,
+        "max": 12300
+      },
+      "stats": {
+        "rooms": 391,
+        "objects": 115,
+        "mobiles": 75,
+        "resets": 534
+      },
+      "status": "todo-convert-rooms-and-resets"
+    },
+    {
+      "id": "pp_zone_45",
+      "sourceAreaFile": "nevermi2.are",
+      "name": "Mt Nevermind upper levels",
+      "vnumRange": {
+        "min": 1600,
+        "max": 1799
+      },
+      "stats": {
+        "rooms": 87,
+        "objects": 31,
+        "mobiles": 23,
+        "resets": 80
+      },
+      "status": "todo-convert-rooms-and-resets"
+    },
+    {
+      "id": "pp_zone_46",
+      "sourceAreaFile": "nevermin.are",
+      "name": "Mt. Nevermind",
+      "vnumRange": {
+        "min": 10800,
+        "max": 10999
+      },
+      "stats": {
+        "rooms": 201,
+        "objects": 67,
+        "mobiles": 35,
+        "resets": 113
+      },
+      "status": "todo-convert-rooms-and-resets"
+    },
+    {
+      "id": "pp_zone_47",
+      "sourceAreaFile": "newport.are",
+      "name": "Newport",
+      "vnumRange": {
+        "min": 9800,
+        "max": 9899
+      },
+      "stats": {
+        "rooms": 101,
+        "objects": 48,
+        "mobiles": 44,
+        "resets": 158
+      },
+      "status": "todo-convert-rooms-and-resets"
+    },
+    {
+      "id": "pp_zone_48",
+      "sourceAreaFile": "palanthu.are",
+      "name": "Palanthas",
+      "vnumRange": {
+        "min": 3000,
+        "max": 3384
+      },
+      "stats": {
+        "rooms": 243,
+        "objects": 217,
+        "mobiles": 121,
+        "resets": 526
+      },
+      "status": "todo-convert-rooms-and-resets"
+    },
+    {
+      "id": "pp_zone_49",
+      "sourceAreaFile": "palroads.are",
+      "name": "Palanthian Roads",
+      "vnumRange": {
+        "min": 900,
+        "max": 1199
+      },
+      "stats": {
+        "rooms": 127,
+        "objects": 22,
+        "mobiles": 19,
+        "resets": 62
+      },
+      "status": "todo-convert-rooms-and-resets"
+    },
+    {
+      "id": "pp_zone_50",
+      "sourceAreaFile": "plaindus.are",
+      "name": "The Plains of Dust",
+      "vnumRange": {
+        "min": 11700,
+        "max": 11900
+      },
+      "stats": {
+        "rooms": 202,
+        "objects": 25,
+        "mobiles": 34,
+        "resets": 63
+      },
+      "status": "todo-convert-rooms-and-resets"
+    },
+    {
+      "id": "pp_zone_51",
+      "sourceAreaFile": "portcall.are",
+      "name": "port o call",
+      "vnumRange": {
+        "min": 17701,
+        "max": 17900
+      },
+      "stats": {
+        "rooms": 201,
+        "objects": 59,
+        "mobiles": 36,
+        "resets": 459
+      },
+      "status": "todo-convert-rooms-and-resets"
+    },
+    {
+      "id": "pp_zone_52",
+      "sourceAreaFile": "proto.are",
+      "name": "proto.are",
+      "vnumRange": null,
+      "stats": {
+        "rooms": 1,
+        "objects": 1,
+        "mobiles": 1,
+        "resets": 0
+      },
+      "status": "todo-convert-rooms-and-resets"
+    },
+    {
+      "id": "pp_zone_53",
+      "sourceAreaFile": "qualfore.are",
+      "name": "Qualinesti Forest",
+      "vnumRange": {
+        "min": 14300,
+        "max": 14399
+      },
+      "stats": {
+        "rooms": 101,
+        "objects": 20,
+        "mobiles": 21,
+        "resets": 120
+      },
+      "status": "todo-convert-rooms-and-resets"
+    },
+    {
+      "id": "pp_zone_54",
+      "sourceAreaFile": "qualino.are",
+      "name": "Qualinost",
+      "vnumRange": {
+        "min": 8800,
+        "max": 9099
+      },
+      "stats": {
+        "rooms": 280,
+        "objects": 60,
+        "mobiles": 48,
+        "resets": 262
+      },
+      "status": "todo-convert-rooms-and-resets"
+    },
+    {
+      "id": "pp_zone_55",
+      "sourceAreaFile": "queshu.are",
+      "name": "Que-Shu",
+      "vnumRange": {
+        "min": 17401,
+        "max": 17500
+      },
+      "stats": {
+        "rooms": 23,
+        "objects": 7,
+        "mobiles": 10,
+        "resets": 18
+      },
+      "status": "todo-convert-rooms-and-resets"
+    },
+    {
+      "id": "pp_zone_56",
+      "sourceAreaFile": "quifael.are",
+      "name": "Quifael's",
+      "vnumRange": {
+        "min": 6900,
+        "max": 6999
+      },
+      "stats": {
+        "rooms": 7,
+        "objects": 1,
+        "mobiles": 1,
+        "resets": 1
+      },
+      "status": "todo-convert-rooms-and-resets"
+    },
+    {
+      "id": "pp_zone_57",
+      "sourceAreaFile": "rom.are",
+      "name": "rom.are",
+      "vnumRange": null,
+      "stats": {
+        "rooms": 0,
+        "objects": 0,
+        "mobiles": 0,
+        "resets": 0
+      },
+      "status": "todo-convert-rooms-and-resets"
+    },
+    {
+      "id": "pp_zone_58",
+      "sourceAreaFile": "school.are",
+      "name": "mud school",
+      "vnumRange": {
+        "min": 3700,
+        "max": 3799
+      },
+      "stats": {
+        "rooms": 69,
+        "objects": 58,
+        "mobiles": 23,
+        "resets": 81
+      },
+      "status": "todo-convert-rooms-and-resets"
+    },
+    {
+      "id": "pp_zone_59",
+      "sourceAreaFile": "searoads.are",
+      "name": "Undersea Roads",
+      "vnumRange": {
+        "min": 3900,
+        "max": 4249
+      },
+      "stats": {
+        "rooms": 343,
+        "objects": 1,
+        "mobiles": 1,
+        "resets": 0
+      },
+      "status": "todo-convert-rooms-and-resets"
+    },
+    {
+      "id": "pp_zone_60",
+      "sourceAreaFile": "shoikan.are",
+      "name": "shoikan grove",
+      "vnumRange": {
+        "min": 9400,
+        "max": 9499
+      },
+      "stats": {
+        "rooms": 71,
+        "objects": 19,
+        "mobiles": 17,
+        "resets": 81
+      },
+      "status": "todo-convert-rooms-and-resets"
+    },
+    {
+      "id": "pp_zone_61",
+      "sourceAreaFile": "shokian.are",
+      "name": "shokian grove",
+      "vnumRange": {
+        "min": 9400,
+        "max": 9499
+      },
+      "stats": {
+        "rooms": 71,
+        "objects": 19,
+        "mobiles": 17,
+        "resets": 81
+      },
+      "status": "todo-convert-rooms-and-resets"
+    },
+    {
+      "id": "pp_zone_62",
+      "sourceAreaFile": "silvanes.are",
+      "name": "Silvanesti",
+      "vnumRange": {
+        "min": 10101,
+        "max": 10200
+      },
+      "stats": {
+        "rooms": 101,
+        "objects": 9,
+        "mobiles": 7,
+        "resets": 62
+      },
+      "status": "todo-convert-rooms-and-resets"
+    },
+    {
+      "id": "pp_zone_63",
+      "sourceAreaFile": "silvanos.are",
+      "name": "Silvanost",
+      "vnumRange": {
+        "min": 17501,
+        "max": 17700
+      },
+      "stats": {
+        "rooms": 186,
+        "objects": 60,
+        "mobiles": 28,
+        "resets": 162
+      },
+      "status": "todo-convert-rooms-and-resets"
+    },
+    {
+      "id": "pp_zone_64",
+      "sourceAreaFile": "solace.are",
+      "name": "Solace",
+      "vnumRange": {
+        "min": 2400,
+        "max": 2700
+      },
+      "stats": {
+        "rooms": 272,
+        "objects": 86,
+        "mobiles": 51,
+        "resets": 302
+      },
+      "status": "todo-convert-rooms-and-resets"
+    },
+    {
+      "id": "pp_zone_65",
+      "sourceAreaFile": "solant.are",
+      "name": "Solanthus",
+      "vnumRange": {
+        "min": 14000,
+        "max": 14150
+      },
+      "stats": {
+        "rooms": 3,
+        "objects": 1,
+        "mobiles": 1,
+        "resets": 0
+      },
+      "status": "todo-convert-rooms-and-resets"
+    },
+    {
+      "id": "pp_zone_66",
+      "sourceAreaFile": "solanthu.are",
+      "name": "Solanthus",
+      "vnumRange": {
+        "min": 5600,
+        "max": 5799
+      },
+      "stats": {
+        "rooms": 198,
+        "objects": 105,
+        "mobiles": 40,
+        "resets": 400
+      },
+      "status": "todo-convert-rooms-and-resets"
+    },
+    {
+      "id": "pp_zone_67",
+      "sourceAreaFile": "southroa.are",
+      "name": "Southern Roads",
+      "vnumRange": {
+        "min": 4600,
+        "max": 4800
+      },
+      "stats": {
+        "rooms": 143,
+        "objects": 12,
+        "mobiles": 6,
+        "resets": 19
+      },
+      "status": "todo-convert-rooms-and-resets"
+    },
+    {
+      "id": "pp_zone_68",
+      "sourceAreaFile": "strmkeep.are",
+      "name": "Storm's Keep",
+      "vnumRange": {
+        "min": 17901,
+        "max": 18075
+      },
+      "stats": {
+        "rooms": 2,
+        "objects": 1,
+        "mobiles": 1,
+        "resets": 0
+      },
+      "status": "todo-convert-rooms-and-resets"
+    },
+    {
+      "id": "pp_zone_69",
+      "sourceAreaFile": "tarsis.are",
+      "name": "Tarsis",
+      "vnumRange": {
+        "min": 15300,
+        "max": 15600
+      },
+      "stats": {
+        "rooms": 299,
+        "objects": 47,
+        "mobiles": 25,
+        "resets": 262
+      },
+      "status": "todo-convert-rooms-and-resets"
+    },
+    {
+      "id": "pp_zone_70",
+      "sourceAreaFile": "thorbar2.are",
+      "name": "Thorbardin2",
+      "vnumRange": {
+        "min": 16000,
+        "max": 16449
+      },
+      "stats": {
+        "rooms": 404,
+        "objects": 136,
+        "mobiles": 65,
+        "resets": 438
+      },
+      "status": "todo-convert-rooms-and-resets"
+    },
+    {
+      "id": "pp_zone_71",
+      "sourceAreaFile": "thorbard.are",
+      "name": "Thorbardin",
+      "vnumRange": {
+        "min": 10600,
+        "max": 10799
+      },
+      "stats": {
+        "rooms": 188,
+        "objects": 83,
+        "mobiles": 48,
+        "resets": 222
+      },
+      "status": "todo-convert-rooms-and-resets"
+    },
+    {
+      "id": "pp_zone_72",
+      "sourceAreaFile": "throtl.are",
+      "name": "Throtl",
+      "vnumRange": {
+        "min": 1500,
+        "max": 1599
+      },
+      "stats": {
+        "rooms": 101,
+        "objects": 1,
+        "mobiles": 41,
+        "resets": 0
+      },
+      "status": "todo-convert-rooms-and-resets"
+    },
+    {
+      "id": "pp_zone_73",
+      "sourceAreaFile": "tohc.are",
+      "name": "Tower of the High Clerist",
+      "vnumRange": {
+        "min": 200,
+        "max": 299
+      },
+      "stats": {
+        "rooms": 52,
+        "objects": 1,
+        "mobiles": 17,
+        "resets": 16
+      },
+      "status": "todo-convert-rooms-and-resets"
+    },
+    {
+      "id": "pp_zone_74",
+      "sourceAreaFile": "tourney.are",
+      "name": "Tournament Arena",
+      "vnumRange": {
+        "min": 15000,
+        "max": 15010
+      },
+      "stats": {
+        "rooms": 11,
+        "objects": 7,
+        "mobiles": 3,
+        "resets": 1
+      },
+      "status": "todo-convert-rooms-and-resets"
+    },
+    {
+      "id": "pp_zone_75",
+      "sourceAreaFile": "undead.are",
+      "name": "Undead Caves",
+      "vnumRange": {
+        "min": 14000,
+        "max": 14050
+      },
+      "stats": {
+        "rooms": 11,
+        "objects": 10,
+        "mobiles": 5,
+        "resets": 25
+      },
+      "status": "todo-convert-rooms-and-resets"
+    },
+    {
+      "id": "pp_zone_76",
+      "sourceAreaFile": "urione.are",
+      "name": "Urione",
+      "vnumRange": {
+        "min": 9500,
+        "max": 9799
+      },
+      "stats": {
+        "rooms": 301,
+        "objects": 99,
+        "mobiles": 44,
+        "resets": 320
+      },
+      "status": "todo-convert-rooms-and-resets"
+    },
+    {
+      "id": "pp_zone_77",
+      "sourceAreaFile": "urione2.are",
+      "name": "Urione2",
+      "vnumRange": {
+        "min": 16450,
+        "max": 17349
+      },
+      "stats": {
+        "rooms": 400,
+        "objects": 16,
+        "mobiles": 30,
+        "resets": 145
+      },
+      "status": "todo-convert-rooms-and-resets"
+    },
+    {
+      "id": "pp_zone_78",
+      "sourceAreaFile": "vingaard.are",
+      "name": "Vingaard Keep",
+      "vnumRange": {
+        "min": 15601,
+        "max": 15800
+      },
+      "stats": {
+        "rooms": 201,
+        "objects": 36,
+        "mobiles": 19,
+        "resets": 268
+      },
+      "status": "todo-convert-rooms-and-resets"
+    },
+    {
+      "id": "pp_zone_79",
+      "sourceAreaFile": "void.are",
+      "name": "The Void",
+      "vnumRange": {
+        "min": 1,
+        "max": 25
+      },
+      "stats": {
+        "rooms": 4,
+        "objects": 26,
+        "mobiles": 15,
+        "resets": 1
+      },
+      "status": "todo-convert-rooms-and-resets"
+    },
+    {
+      "id": "pp_zone_80",
+      "sourceAreaFile": "wayreth.are",
+      "name": "Tower of Wayreth",
+      "vnumRange": {
+        "min": 15164,
+        "max": 15299
+      },
+      "stats": {
+        "rooms": 137,
+        "objects": 35,
+        "mobiles": 19,
+        "resets": 121
+      },
+      "status": "todo-convert-rooms-and-resets"
+    },
+    {
+      "id": "pp_zone_81",
+      "sourceAreaFile": "xaktsaro.are",
+      "name": "Xak-Tsaroth",
+      "vnumRange": {
+        "min": 11201,
+        "max": 11399
+      },
+      "stats": {
+        "rooms": 200,
+        "objects": 108,
+        "mobiles": 53,
+        "resets": 282
+      },
+      "status": "todo-convert-rooms-and-resets"
+    },
+    {
+      "id": "pp_zone_82",
+      "sourceAreaFile": "zebdeep.are",
+      "name": "Zeboim's Deep",
+      "vnumRange": {
+        "min": 2800,
+        "max": 2899
+      },
+      "stats": {
+        "rooms": 98,
+        "objects": 30,
+        "mobiles": 11,
+        "resets": 45
+      },
+      "status": "todo-convert-rooms-and-resets"
+    }
+  ]
+}

@@ -68,3 +68,23 @@ node tools/playerport-import/convert-clans-for-stendhal.mjs
 
 Outputs:
 - `tools/playerport-import/clans-stendhal.json`
+
+## 8) Generate Playerport object item XML seed
+
+```bash
+node tools/playerport-import/generate-stendhal-items-from-playerport-objects.mjs
+```
+
+Outputs:
+- `data/conf/items/playerport_objects.xml`
+
+> Note: this is a migration seed file and is not automatically wired into `items.xml` yet.
+
+## 9) Generate Playerport zone seed from area export
+
+```bash
+node tools/playerport-import/generate-playerport-zones-seed.mjs
+```
+
+Outputs:
+- `data/conf/zones/playerport_seed.json`
