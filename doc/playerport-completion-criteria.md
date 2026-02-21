@@ -28,7 +28,7 @@ Project is considered complete when all items below are done:
 - [x] `ppimportskills` admin command
 - [x] `ppimportclans` admin command
 - [ ] Bulk offline migration loader for DB-backed entities
-- [ ] Dry-run + diff report mode for imports
+- [x] Dry-run + diff report mode for imports
 
 ## E) Zone/World Conversion
 - [ ] Room topology converter (.are -> Stendhal zone data)

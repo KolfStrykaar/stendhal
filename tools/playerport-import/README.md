@@ -134,3 +134,14 @@ node tools/playerport-import/run-all-playerport-pipeline.mjs /home/jacob/playerp
 ```
 
 This refreshes all generated migration artifacts in sequence.
+
+## 15) Dry-run import report (diff/coverage)
+
+```bash
+node tools/playerport-import/dry-run-import-report.mjs
+```
+
+Outputs:
+- `tools/playerport-import/dry-run-report.json`
+
+This provides a non-destructive summary of conversion coverage before running admin import commands.
