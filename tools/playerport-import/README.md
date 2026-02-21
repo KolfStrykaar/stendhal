@@ -157,6 +157,15 @@ Outputs:
 
 Checks file presence plus node counts for generated spells/items/creatures payloads.
 
+## 16b) Validate runtime wiring (curated groups active)
+
+```bash
+node tools/playerport-import/validate-runtime-wiring.mjs
+```
+
+Outputs:
+- `tools/playerport-import/runtime-wiring-report.json`
+
 ## 17) Extract room topology (with directional exits)
 
 ```bash

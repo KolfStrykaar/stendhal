@@ -6,6 +6,7 @@ clans-stendhal.json
 gods-factions-seed.json
 dry-run-report.json
 validation-report.json
+runtime-wiring-report.json
 topology-validation.json
 offline-import-batches.ndjson
 playerport-areas-export.json
