@@ -22,6 +22,7 @@ import { ProgressStatusAction } from "./action/ProgressStatusAction";
 import { ReTellAction } from "./action/ReTellAction";
 import { ScreenCaptureAction } from "./action/ScreenCaptureAction";
 import { SettingsAction } from "./action/SettingsAction";
+import { PlayerportThemeAction } from "./action/PlayerportThemeAction";
 import { SlashActionImpl } from "./action/SlashAction";
 import { TellAction } from "./action/TellAction";
 
@@ -135,7 +136,7 @@ export class SlashActionRepo {
 			"TOOLS": [
 				"progressstatus",
 				"screenshot",
-				"playerport",
+				"playertheme",
 				//"screencap",
 				"atlas",
 				"beginnersguide"
@@ -1100,6 +1101,8 @@ export class SlashActionRepo {
 
 	"progressstatus" = new ProgressStatusAction();
 
+	"playertheme" = new PlayerportThemeAction();
+
 	"playerport": SlashActionImpl = {
 		execute: (_type: string, _params: string[], _remainder: string): boolean => {
 			PlayerportMode.get().toggle();
@@ -1108,7 +1111,7 @@ export class SlashActionRepo {
 		minParams: 0,
 		maxParams: 0,
 		getHelp: function(): string[] {
-			return ["", "Toggle Playerport mode panel (gateway connect/send/stream)."];
+			return ["", "Developer-only fallback panel for gateway debugging."];
 		}
 	};
 

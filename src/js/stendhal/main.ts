@@ -12,6 +12,7 @@
 import { marauroa } from "marauroa";
 import { stendhal } from "./stendhal";
 import { Client } from "./Client";
+import { PlayerportThemeAction } from "./action/PlayerportThemeAction";
 
 declare var require: any;
 (window as any)["Zlib"] = require("marauroa/inflate").Zlib;
@@ -34,6 +35,9 @@ function initGlobals() {
 
 	stendhal.main.init();
 
-	document.addEventListener('DOMContentLoaded', () => stendhal.main.startup());
+	document.addEventListener('DOMContentLoaded', () => {
+		PlayerportThemeAction.applyFromConfig();
+		stendhal.main.startup();
+	});
 	window.addEventListener('error', (error: ErrorEvent) => stendhal.main.onError(error));
 })();
