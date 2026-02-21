@@ -50,3 +50,21 @@ node tools/playerport-import/extract-objects-from-areas.mjs /home/jacob/playerpo
 
 Outputs:
 - `tools/playerport-import/playerport-objects-export.json`
+
+## 6) Convert exported player skills to Stendhal IDs
+
+```bash
+node tools/playerport-import/convert-player-skills-for-stendhal.mjs
+```
+
+Outputs:
+- `tools/playerport-import/player-skills-stendhal.json`
+
+## 7) Convert clan stubs to Stendhal guild import seed
+
+```bash
+node tools/playerport-import/convert-clans-for-stendhal.mjs
+```
+
+Outputs:
+- `tools/playerport-import/clans-stendhal.json`
