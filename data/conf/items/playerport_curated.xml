@@ -1,0 +1,2507 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<items xmlns="stendhal" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="stendhal ../items.xsd">
+
+<item name="pp_obj_10201" clazz="misc">
+		<description value="."/>
+		<title value="."/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="10201"/>
+			<playerport-area value="balifor.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_4200" clazz="armor">
+		<description value="The {CShi{cmm{Rer{ring {dTime {MPortal{x"/>
+		<title value="the {CShi{cmm{Rer{ring {dTime {MPortal{x"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="4200"/>
+			<playerport-area value="borrow.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_4201" clazz="misc">
+		<description value="The {GTerraced{g P{Ci{Mt{x"/>
+		<title value="the Borrower Refuge donation pit."/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="4201"/>
+			<playerport-area value="borrow.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_4202" clazz="armor">
+		<description value="This spring flows through the alcove and its seems to never stop."/>
+		<title value="the {gSpring {xof {BLife{x"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="4202"/>
+			<playerport-area value="borrow.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_14700" clazz="drink">
+		<description value="(no description)"/>
+		<title value="(no short description)"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="14700"/>
+			<playerport-area value="caergoth.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_14702" clazz="misc">
+		<description value="(no description)"/>
+		<title value="(no short description)"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="14702"/>
+			<playerport-area value="caergoth.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_14711" clazz="misc">
+		<description value="A fountain sits here, gushing water."/>
+		<title value="a fountain"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="14711"/>
+			<playerport-area value="caergoth.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_13400" clazz="misc">
+		<description value="A small wooden sign with an important message written on it is posted here."/>
+		<title value="a small wooden sign"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="13400"/>
+			<playerport-area value="chaos.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_13401" clazz="misc">
+		<description value="A small wooden sign with important information on it is posted here."/>
+		<title value="a small wooden sign"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="13401"/>
+			<playerport-area value="chaos.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_13402" clazz="misc">
+		<description value="A small wooden sign with an important message on it is posted here."/>
+		<title value="a small wooden sign"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="13402"/>
+			<playerport-area value="chaos.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_13403" clazz="misc">
+		<description value="A fountain spewing green liquid sits here, waiting to be drunk from."/>
+		<title value="a fountain of {GAbsinthe{x"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="13403"/>
+			<playerport-area value="chaos.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_13404" clazz="armor">
+		<description value="A very nice gold ring."/>
+		<title value="zedd&apos;s Ring"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="13404"/>
+			<playerport-area value="chaos.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_13405" clazz="misc">
+		<description value="An alter stands here."/>
+		<title value="alter to Zeddicus"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="13405"/>
+			<playerport-area value="chaos.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_13406" clazz="misc">
+		<description value="This test item says &quot;pick me up&quot; right on it."/>
+		<title value="a test item"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="13406"/>
+			<playerport-area value="chaos.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_13411" clazz="misc">
+		<description value="A pit for donations is here."/>
+		<title value="pit"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="13411"/>
+			<playerport-area value="chaos.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_13413" clazz="misc">
+		<description value="A bubbling fountain ready to quinch your thirst is here."/>
+		<title value="a fountain"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="13413"/>
+			<playerport-area value="chaos.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_13416" clazz="drink">
+		<description value="A strange bubbling vial lies here."/>
+		<title value="a cure potion"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="13416"/>
+			<playerport-area value="chaos.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_13417" clazz="drink">
+		<description value="A strange white potion lies here."/>
+		<title value="a potion of protection"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="13417"/>
+			<playerport-area value="chaos.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_13419" clazz="drink">
+		<description value="A potion of blessing lies here."/>
+		<title value="a potion of blessing"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="13419"/>
+			<playerport-area value="chaos.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_13420" clazz="weapon">
+		<description value="The shining blade gives off a defensive aura."/>
+		<title value="the Defender"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="13420"/>
+			<playerport-area value="chaos.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_13421" clazz="misc">
+		<description value="A fountain made from pure, untarnished gold sits here."/>
+		<title value="fountain of Greed"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="13421"/>
+			<playerport-area value="chaos.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_13427" clazz="misc">
+		<description value="A potion of antidote sits here."/>
+		<title value="potion of antidote"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="13427"/>
+			<playerport-area value="chaos.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_13428" clazz="misc">
+		<description value="A potion of healing sits here"/>
+		<title value="potion of healing"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="13428"/>
+			<playerport-area value="chaos.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_13429" clazz="misc">
+		<description value="A potion of flying sits here"/>
+		<title value="potion of flying"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="13429"/>
+			<playerport-area value="chaos.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_13430" clazz="armor">
+		<description value="(no description)"/>
+		<title value="(no short description)"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="13430"/>
+			<playerport-area value="chaos.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_13444" clazz="misc">
+		<description value="Mine"/>
+		<title value="mine"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="13444"/>
+			<playerport-area value="chaos.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_13450" clazz="misc">
+		<description value="A brass key lays upon the ground."/>
+		<title value="a brass key"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="13450"/>
+			<playerport-area value="chaos.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_13451" clazz="misc">
+		<description value="A very weathered oak chest sits in the corner."/>
+		<title value="an oak chest"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="13451"/>
+			<playerport-area value="chaos.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_13452" clazz="misc">
+		<description value="A hollowed out tree stump sit here, waiting to be filled."/>
+		<title value="a hollowed out tree stump"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="13452"/>
+			<playerport-area value="chaos.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_13453" clazz="misc">
+		<description value="A Pool of Blood sits here."/>
+		<title value="a Pool of Blood"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="13453"/>
+			<playerport-area value="chaos.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_13460" clazz="misc">
+		<description value="(no description)"/>
+		<title value="(no short description)"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="13460"/>
+			<playerport-area value="chaos.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_13566" clazz="misc">
+		<description value="(no description)"/>
+		<title value="(no short description)"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="13566"/>
+			<playerport-area value="chaos.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_13569" clazz="armor">
+		<description value="A fountain used to clense all ailments sits here"/>
+		<title value="a fountain of cleansing"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="13569"/>
+			<playerport-area value="chaos.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_13570" clazz="misc">
+		<description value="A golden holy symbol of true fiath lies here"/>
+		<title value="a holy symbol of faith"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="13570"/>
+			<playerport-area value="chaos.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_13573" clazz="misc">
+		<description value="A dustpan made of the blackest obsidian lies here"/>
+		<title value="an obsidian dustpan"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="13573"/>
+			<playerport-area value="chaos.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_13576" clazz="misc">
+		<description value="(no description)"/>
+		<title value="(no short description)"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="13576"/>
+			<playerport-area value="chaos.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_13577" clazz="misc">
+		<description value="A summoner&apos;s gem made from the abyss itself lies here"/>
+		<title value="a summoners gem"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="13577"/>
+			<playerport-area value="chaos.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_13578" clazz="misc">
+		<description value="A finely crafted steel claymore lies here"/>
+		<title value="a steel claymore"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="13578"/>
+			<playerport-area value="chaos.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_13579" clazz="weapon">
+		<description value="A wooden sword made for a child lies here"/>
+		<title value="a childs wooden sword"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="13579"/>
+			<playerport-area value="chaos.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_13580" clazz="weapon">
+		<description value="A Double sided axe made of the finest steel lies here"/>
+		<title value="a double sided axe"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="13580"/>
+			<playerport-area value="chaos.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_13581" clazz="misc">
+		<description value="A plump maroon granadilla lies here"/>
+		<title value="a maroon granadilla"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="13581"/>
+			<playerport-area value="chaos.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_13582" clazz="food">
+		<description value="A ripe freshly picked green apple sits here"/>
+		<title value="a ripe green apple"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="13582"/>
+			<playerport-area value="chaos.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_13583" clazz="misc">
+		<description value="A small black pepper lies here"/>
+		<title value="a small black pepper"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="13583"/>
+			<playerport-area value="chaos.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_13584" clazz="misc">
+		<description value="A red summoners key lies here"/>
+		<title value="a summoners key"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="13584"/>
+			<playerport-area value="chaos.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_13585" clazz="weapon">
+		<description value="Frost sits here"/>
+		<title value="frosty"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="13585"/>
+			<playerport-area value="chaos.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_13586" clazz="misc">
+		<description value="Here stands a giant fountain shaped like a dragon."/>
+		<title value="a fountain"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="13586"/>
+			<playerport-area value="chaos.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_13587" clazz="weapon">
+		<description value="Soul Stealer, sword of Zeddicus."/>
+		<title value="zedd&apos;s Sword"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="13587"/>
+			<playerport-area value="chaos.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_13588" clazz="misc">
+		<description value="Average looking robes with intricate designs all over them."/>
+		<title value="zedd&apos;s Robes"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="13588"/>
+			<playerport-area value="chaos.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_13589" clazz="weapon">
+		<description value="A sword that appears to be made out of shadows is here"/>
+		<title value="{b sword of darkness{x"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="13589"/>
+			<playerport-area value="chaos.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_13590" clazz="misc">
+		<description value="A folded black trench coat from the highlands lies here."/>
+		<title value="{Da long black trench coat{x"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="13590"/>
+			<playerport-area value="chaos.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_13591" clazz="misc">
+		<description value="A small metallic token with the emblem of {RC{rh{Ra{ro{Rs{x, the father god, lies here."/>
+		<title value="{D({yGlowing{D) {c({rHumming{c) {ga {RC{rh{Ra{ro{Rs {BT{bo{Bk{be{Bn{x"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="13591"/>
+			<playerport-area value="chaos.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_13592" clazz="misc">
+		<description value="A piece of armor for guarding your body."/>
+		<title value="[(body-guard)]"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="13592"/>
+			<playerport-area value="chaos.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_13593" clazz="misc">
+		<description value="{DA phantom outline of a key flickers here.{x"/>
+		<title value="{Da phantom key{x"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="13593"/>
+			<playerport-area value="chaos.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_13594" clazz="misc">
+		<description value="A black ponytail lies here"/>
+		<title value="{DA black ponytail{x"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="13594"/>
+			<playerport-area value="chaos.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_13595" clazz="misc">
+		<description value="A strange squigly pattern of ink puddles here."/>
+		<title value="{gA {YT{ya{Yt{yt{Yo{yo {ro{Rf {Ba {DP{wo{Wc{Dk{we{Wt{D-{wD{Wi{Dm{we{Wn{Ds{wi{Wo{Dn{x"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="13595"/>
+			<playerport-area value="chaos.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_13596" clazz="drink">
+		<description value="A rainbow colored potion lies here shimmering."/>
+		<title value="a prismatic potion"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="13596"/>
+			<playerport-area value="chaos.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_13597" clazz="weapon">
+		<description value="{DA {Rflaming {Bblue {Dsteel sword known as &apos;{WMarshmellow Roaster{D&apos; lies here.{x"/>
+		<title value="{DA {Bblue {Dsteel sword known as &apos;{WMarshmellow Roaster{D&apos;{x"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="13597"/>
+			<playerport-area value="chaos.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_13598" clazz="armor">
+		<description value="{WA breast plate made of {Bblue steel {Wdesigned to resist marshmellows lies here.{x"/>
+		<title value="{WAnti-Marshmellow {Bblue {Wplate armor{x"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="13598"/>
+			<playerport-area value="chaos.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_13599" clazz="misc">
+		<description value="{DA plane of phase energy formed into the shape of a blade floats here.{x"/>
+		<title value="{ra {Rs{gh{Gi{ym{Ym{be{Br{mi{Mn{Dg {Bp{bh{Ba{bs{Be {rb{Gl{ya{Bd{De{x"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="13599"/>
+			<playerport-area value="chaos.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_13700" clazz="weapon">
+		<description value="A great Solamnic sword lies here, glimmering in the surrounding light."/>
+		<title value="{xGuardian Sword of the Solamnic Knights"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="13700"/>
+			<playerport-area value="clerist.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_13701" clazz="armor">
+		<description value="A great piece of plate armor of the Solamnic Knights lies here."/>
+		<title value="{xGuardian Armor of the Solamnic Knights"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="13701"/>
+			<playerport-area value="clerist.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_13702" clazz="weapon">
+		<description value="A wide-bladed knife sits undisturbed on the floor."/>
+		<title value="a rune-covered knife"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="13702"/>
+			<playerport-area value="clerist.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_13703" clazz="misc">
+		<description value="A well worn table with five chairs sits in the middle of the room."/>
+		<title value="a well worn chair"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="13703"/>
+			<playerport-area value="clerist.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_13704" clazz="misc">
+		<description value="A few long tables with simple stools are scattered about the room."/>
+		<title value="a simple stool"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="13704"/>
+			<playerport-area value="clerist.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_13705" clazz="misc">
+		<description value="A shot of whisky is on the ground here."/>
+		<title value="a shot of whisky"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="13705"/>
+			<playerport-area value="clerist.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_13706" clazz="misc">
+		<description value="A pint of ale is on the ground here."/>
+		<title value="a pint of ale"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="13706"/>
+			<playerport-area value="clerist.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_13707" clazz="misc">
+		<description value="A mug of mead is on the ground here."/>
+		<title value="a mug of mead"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="13707"/>
+			<playerport-area value="clerist.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_13708" clazz="food">
+		<description value="A delicious looking meat wrap is on the ground, getting dirty."/>
+		<title value="a meat wrap"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="13708"/>
+			<playerport-area value="clerist.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_13709" clazz="misc">
+		<description value="A large bowl of vegetable beef stew has been placed on the ground here."/>
+		<title value="a bowl of vegetable beef stew"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="13709"/>
+			<playerport-area value="clerist.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_13710" clazz="misc">
+		<description value="A few shadowy booths, allowing privacy, line the walls."/>
+		<title value="a shadowy booth"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="13710"/>
+			<playerport-area value="clerist.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_13715" clazz="weapon">
+		<description value="A fine broadsword is lying here on the ground."/>
+		<title value="a steel broadsword"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="13715"/>
+			<playerport-area value="clerist.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_13716" clazz="misc">
+		<description value="A steel breastplate emblazoned with the sign of a crown lies here."/>
+		<title value="a steel breastplate"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="13716"/>
+			<playerport-area value="clerist.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_13760" clazz="misc">
+		<description value="A small fountain is here, gently gushing water."/>
+		<title value="a fountain"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="13760"/>
+			<playerport-area value="clerist.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_13767" clazz="armor">
+		<description value="A Pool of {WShimmering Light{x is here."/>
+		<title value="a Pool of {WShimmering Light{x"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="13767"/>
+			<playerport-area value="clerist.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_13768" clazz="misc">
+		<description value="A steel chest for equipment donations sits here."/>
+		<title value="a steel chest"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="13768"/>
+			<playerport-area value="clerist.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_13771" clazz="misc">
+		<description value="A drinking fountain stands in the center of the room, inviting you for a sip."/>
+		<title value="a drinking fountain"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="13771"/>
+			<playerport-area value="clerist.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_13774" clazz="misc">
+		<description value="A pit is here for item donations to the Knighthood."/>
+		<title value="a donation pit"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="13774"/>
+			<playerport-area value="clerist.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_13782" clazz="food">
+		<description value="A light meal of bread, fruit and cheese is here for your refreshment."/>
+		<title value="a light meal"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="13782"/>
+			<playerport-area value="clerist.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_13783" clazz="misc">
+		<description value="A large mahogany table sits at the head of the hall."/>
+		<title value="the High Knight&apos;s table"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="13783"/>
+			<playerport-area value="clerist.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_13784" clazz="misc">
+		<description value="A silver water pitcher sits upon each table, offering refreshment to those gathered here."/>
+		<title value="a silver pitcher"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="13784"/>
+			<playerport-area value="clerist.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_13785" clazz="misc">
+		<description value="A heavy platinum key sits here."/>
+		<title value="a heavy platinum key"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="13785"/>
+			<playerport-area value="clerist.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_13789" clazz="misc">
+		<description value="A fountain of white marble is here."/>
+		<title value="a fountain of white marble"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="13789"/>
+			<playerport-area value="clerist.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_13790" clazz="misc">
+		<description value="A backpack lies here."/>
+		<title value="a travel backpack"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="13790"/>
+			<playerport-area value="clerist.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_13791" clazz="misc">
+		<description value="A wooden desk sits along the south wall of the room."/>
+		<title value="a wooden desk"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="13791"/>
+			<playerport-area value="clerist.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_13792" clazz="misc">
+		<description value="An exquisite desk sits in the middle of the room, cluttered with paper."/>
+		<title value="an exquisite desk"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="13792"/>
+			<playerport-area value="clerist.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_13793" clazz="misc">
+		<description value="An ornately carved chair sits behind the desk."/>
+		<title value="an ornate chair"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="13793"/>
+			<playerport-area value="clerist.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_13794" clazz="misc">
+		<description value="A simple wooden chair sits by the door."/>
+		<title value="a simple wooden chair"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="13794"/>
+			<playerport-area value="clerist.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_13795" clazz="misc">
+		<description value="A small silver key lies here, engraved with a rose."/>
+		<title value="a silver office key"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="13795"/>
+			<playerport-area value="clerist.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_18500" clazz="misc">
+		<description value="Water flows from a large fountain here."/>
+		<title value="a large fountain with a statue in it"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="18500"/>
+			<playerport-area value="crovtes.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_18501" clazz="weapon">
+		<description value="A longsword is lying here humming strange sounds."/>
+		<title value="a longsword"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="18501"/>
+			<playerport-area value="crovtes.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_18502" clazz="misc">
+		<description value="A short bow with some runes inscribed has been droped here."/>
+		<title value="a short bow"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="18502"/>
+			<playerport-area value="crovtes.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_18503" clazz="weapon">
+		<description value="A very sharp looking dagger draws your attention from the ground."/>
+		<title value="a sharp dagger"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="18503"/>
+			<playerport-area value="crovtes.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_18504" clazz="weapon">
+		<description value="A short metalic staff hovers over the ground."/>
+		<title value="a short staff"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="18504"/>
+			<playerport-area value="crovtes.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_18505" clazz="misc">
+		<description value="A shining breastplate has been droped here."/>
+		<title value="a breastplate"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="18505"/>
+			<playerport-area value="crovtes.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_18506" clazz="misc">
+		<description value="A pierce of chain mail is lying on the ground."/>
+		<title value="a chain mail"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="18506"/>
+			<playerport-area value="crovtes.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_18507" clazz="armor">
+		<description value="A brown leather armor has been droped here."/>
+		<title value="a leather armor"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="18507"/>
+			<playerport-area value="crovtes.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_18508" clazz="misc">
+		<description value="A set of grey robes floating around perfectly."/>
+		<title value="a grey robe"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="18508"/>
+			<playerport-area value="crovtes.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_18509" clazz="misc">
+		<description value="A {Ygolden{x perch is here standing against the counter."/>
+		<title value="a parrot&apos;s {yperch{x"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="18509"/>
+			<playerport-area value="crovtes.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_13301" clazz="misc">
+		<description value="A giant Turtle dragon shell lies here."/>
+		<title value="a {gTurtle Dragon{x shell"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="13301"/>
+			<playerport-area value="crystal.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_13302" clazz="misc">
+		<description value="A farming scythe lies here."/>
+		<title value="a Farmer&apos;s scythe"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="13302"/>
+			<playerport-area value="crystal.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_13303" clazz="misc">
+		<description value="A simple wooden staff lies here, decorated with blue feathers."/>
+		<title value="a {Cblue{x-feathered staff"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="13303"/>
+			<playerport-area value="crystal.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_13304" clazz="misc">
+		<description value="A bright silver bracer lies here."/>
+		<title value="a bright {Csilver{x bracer"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="13304"/>
+			<playerport-area value="crystal.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_13305" clazz="misc">
+		<description value="There is a fire pit here, still smoldering."/>
+		<title value="fire pit"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="13305"/>
+			<playerport-area value="crystal.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_13306" clazz="misc">
+		<description value="There is a house key on the ground."/>
+		<title value="a house key"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="13306"/>
+			<playerport-area value="crystal.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_13307" clazz="misc">
+		<description value="There is a coathanger on the ground."/>
+		<title value="a coathanger"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="13307"/>
+			<playerport-area value="crystal.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_13308" clazz="weapon">
+		<description value="There is a silver longsword on the ground."/>
+		<title value="a {Csilver{x longsword"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="13308"/>
+			<playerport-area value="crystal.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_13309" clazz="misc">
+		<description value="A pair of farmer�s longjohns are lying here."/>
+		<title value="a farmer&apos;s longjohns"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="13309"/>
+			<playerport-area value="crystal.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_13310" clazz="misc">
+		<description value="Some ancient gold coins lie piled up in a heap."/>
+		<title value="a heap of ancient gold coins"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="13310"/>
+			<playerport-area value="crystal.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_13311" clazz="misc">
+		<description value="Some ancient gold coins lie piled up in a heap on the floor."/>
+		<title value="a heap of ancient gold coins"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="13311"/>
+			<playerport-area value="crystal.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_13312" clazz="misc">
+		<description value="A small pile of grain lies here."/>
+		<title value="some grain"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="13312"/>
+			<playerport-area value="crystal.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_13313" clazz="armor">
+		<description value="There is a suit of leather armor on the ground."/>
+		<title value="a suit of leather armor"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="13313"/>
+			<playerport-area value="crystal.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_13314" clazz="weapon">
+		<description value="There is a chamorro dagger lying here."/>
+		<title value="a chamorro dagger"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="13314"/>
+			<playerport-area value="crystal.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_13315" clazz="weapon">
+		<description value="There is a long, wicked-looking polearm lying here."/>
+		<title value="a footman&apos;s lance"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="13315"/>
+			<playerport-area value="crystal.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_13316" clazz="misc">
+		<description value="A large pile of skin is lying here."/>
+		<title value="a Humanskin vest"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="13316"/>
+			<playerport-area value="crystal.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_13317" clazz="armor">
+		<description value="A helmet made of leather and iron lies here."/>
+		<title value="a draconian helmet"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="13317"/>
+			<playerport-area value="crystal.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_13318" clazz="misc">
+		<description value="None"/>
+		<title value="unused"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="13318"/>
+			<playerport-area value="crystal.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_4811" clazz="armor">
+		<description value="Some damaged leather armor lies here."/>
+		<title value="crude leather armor"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="4811"/>
+			<playerport-area value="dargaard.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_4812" clazz="armor">
+		<description value="Some old boots are here, covered in dust."/>
+		<title value="dirty worn boots"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="4812"/>
+			<playerport-area value="dargaard.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_4814" clazz="armor">
+		<description value="A bright piece of steel lies here, crudely fashioned into a chestpiece."/>
+		<title value="a shiny armor plate"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="4814"/>
+			<playerport-area value="dargaard.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_4815" clazz="weapon">
+		<description value="A sword has been dropped here."/>
+		<title value="{XRaol&apos;s sword"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="4815"/>
+			<playerport-area value="dargaard.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_4816" clazz="misc">
+		<description value="{R(Burning){x A campfire is here giving off light."/>
+		<title value="the campfire"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="4816"/>
+			<playerport-area value="dargaard.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_4817" clazz="misc">
+		<description value="Some type of old leather rag lies here."/>
+		<title value="a dirty cook&apos;s apron"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="4817"/>
+			<playerport-area value="dargaard.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_4820" clazz="misc">
+		<description value="A harp made of gold lies here."/>
+		<title value="a {Ygolden{x harp"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="4820"/>
+			<playerport-area value="dargaard.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_4821" clazz="food">
+		<description value="A juicy apple lies here."/>
+		<title value="a juicy apple"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="4821"/>
+			<playerport-area value="dargaard.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_4822" clazz="food">
+		<description value="A HUGE apple tree is here."/>
+		<title value="the apple tree"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="4822"/>
+			<playerport-area value="dargaard.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_4826" clazz="food">
+		<description value="A rotten apple lies here."/>
+		<title value="a rotten apple"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="4826"/>
+			<playerport-area value="dargaard.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_4828" clazz="misc">
+		<description value="A broken wooden sign is here"/>
+		<title value="the sign"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="4828"/>
+			<playerport-area value="dargaard.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_4833" clazz="misc">
+		<description value="A dead tree branch pokes up through a crack."/>
+		<title value="a dead tree branch"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="4833"/>
+			<playerport-area value="dargaard.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_4838" clazz="misc">
+		<description value="An enormous dead tree stands here."/>
+		<title value="the dead tree"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="4838"/>
+			<playerport-area value="dargaard.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_4841" clazz="weapon">
+		<description value="A plain-looking longsword is resting here."/>
+		<title value="a plain longsword"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="4841"/>
+			<playerport-area value="dargaard.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_4842" clazz="armor">
+		<description value="A black bow is here."/>
+		<title value="the {WMoon{x Bow"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="4842"/>
+			<playerport-area value="dargaard.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_4853" clazz="weapon">
+		<description value="A club has been thrown here."/>
+		<title value="a {Dblack{x club"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="4853"/>
+			<playerport-area value="dargaard.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_4856" clazz="misc">
+		<description value="A broken human skull is here."/>
+		<title value="a broken skull"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="4856"/>
+			<playerport-area value="dargaard.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_4944" clazz="misc">
+		<description value="A tattoo is here."/>
+		<title value="a tattoo of the {bElite{x {WKnights{x of {DTakhisis{x"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="4944"/>
+			<playerport-area value="dargaard.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_4947" clazz="weapon">
+		<description value="A huge black sword lies here."/>
+		<title value="a {Dblack{x two-handed sword"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="4947"/>
+			<playerport-area value="dargaard.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_4948" clazz="weapon">
+		<description value="A very sharp dagger lies here."/>
+		<title value="a backstabbing dagger"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="4948"/>
+			<playerport-area value="dargaard.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_4952" clazz="misc">
+		<description value="An arcane-looking tunic lies here on the ground."/>
+		<title value="an arcane tunic"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="4952"/>
+			<playerport-area value="dargaard.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_4960" clazz="misc">
+		<description value="A small tent is here."/>
+		<title value="a tent"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="4960"/>
+			<playerport-area value="dargaard.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_4961" clazz="misc">
+		<description value="A tattoo of the {WKnights{x of {DTakhisis{x lies here."/>
+		<title value="a tattoo of the {WKnights{x of {DTakhisis{x"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="4961"/>
+			<playerport-area value="dargaard.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_4962" clazz="armor">
+		<description value="A ring lies here, covered in dust."/>
+		<title value="a hobgoblin ring"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="4962"/>
+			<playerport-area value="dargaard.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_4963" clazz="misc">
+		<description value="A dart lies in the dirt."/>
+		<title value="a dart"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="4963"/>
+			<playerport-area value="dargaard.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_2951" clazz="misc">
+		<description value="A large wooden sign has been posted here."/>
+		<title value="a wooden sign"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="2951"/>
+			<playerport-area value="darkenwo.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_2954" clazz="misc">
+		<description value="A set of bone gauntlets lies here, now where&apos;s the rest of the set?"/>
+		<title value="a set of {yjaundiced {Wbone{x gauntlets"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="2954"/>
+			<playerport-area value="darkenwo.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_2956" clazz="armor">
+		<description value="A pair of bone boots lies here, now where&apos;s the rest of the set?"/>
+		<title value="a pair of {yjaundiced {Wbone{x boots"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="2956"/>
+			<playerport-area value="darkenwo.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_2969" clazz="weapon">
+		<description value="A large bone helm lies here, now where&apos;s the rest of the set?"/>
+		<title value="a {yjaundiced {Wbone{x helm"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="2969"/>
+			<playerport-area value="darkenwo.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_2972" clazz="misc">
+		<description value="A set of bone vambraces lies here, now where&apos;s the rest of the set?"/>
+		<title value="a set of {yjaundiced {Wbone{x vambraces"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="2972"/>
+			<playerport-area value="darkenwo.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_2979" clazz="weapon">
+		<description value="A great trident lies here."/>
+		<title value="the {rTrident{x of {mSubmission{x"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="2979"/>
+			<playerport-area value="darkenwo.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_2980" clazz="misc">
+		<description value="A small cubic box lies here glowing magically."/>
+		<title value="a {Ccubic gate{x"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="2980"/>
+			<playerport-area value="darkenwo.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_2983" clazz="armor">
+		<description value="A bone shield lies here, now where&apos;s the rest of the set?"/>
+		<title value="a {yjaundiced {Wbone{x shield"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="2983"/>
+			<playerport-area value="darkenwo.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_2990" clazz="misc">
+		<description value="A fractured femur lies here on the ground."/>
+		<title value="a fractured femur"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="2990"/>
+			<playerport-area value="darkenwo.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_151" clazz="misc">
+		<description value="An altar to the gods of darkness sits here, filled with offerings."/>
+		<title value="an altar to the {Ddark Gods{x"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="151"/>
+			<playerport-area value="darktemp.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_152" clazz="misc">
+		<description value="A beautiful fountain made of obsidian, flowing with cold water."/>
+		<title value="a water fountain"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="152"/>
+			<playerport-area value="darktemp.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_153" clazz="misc">
+		<description value="A large set of obsidian gates stand here, leading to parts unknown."/>
+		<title value="the obsidian gates"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="153"/>
+			<playerport-area value="darktemp.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_154" clazz="misc">
+		<description value="A pile of dirty, dark colored robes lie here."/>
+		<title value="a set of {ydirty{x {Drobes{x"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="154"/>
+			<playerport-area value="darktemp.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_158" clazz="misc">
+		<description value="A long black wooden staff with a large sickle at the end of it lies here."/>
+		<title value="{xA Sickle Staff of the Black Order"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="158"/>
+			<playerport-area value="darktemp.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_159" clazz="misc">
+		<description value="A black robe lies here in a wrinkled pile on the ground."/>
+		<title value="{xRobe of the Black Order"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="159"/>
+			<playerport-area value="darktemp.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_14410" clazz="weapon">
+		<description value="A heavy steel shortsword lies here in the dust."/>
+		<title value="({DSteel{x) a heavy shortsword"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="14410"/>
+			<playerport-area value="flotsam.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_14428" clazz="weapon">
+		<description value="A blood stained mercenary&apos;s sword lies here unused."/>
+		<title value="({RBlood{x-{RStained{x) a mercenary&apos;s sword"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="14428"/>
+			<playerport-area value="flotsam.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_14438" clazz="weapon">
+		<description value="An iron axe lies in the dust here awaiting a master."/>
+		<title value="an {Diron{x axe"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="14438"/>
+			<playerport-area value="flotsam.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_14439" clazz="weapon">
+		<description value="A battle mace sits here awaiting battle."/>
+		<title value="a battle mace"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="14439"/>
+			<playerport-area value="flotsam.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_14474" clazz="misc">
+		<description value="({DDirty{x) A fountain is here for use by the public."/>
+		<title value="a public fountain"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="14474"/>
+			<playerport-area value="flotsam.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_14491" clazz="weapon">
+		<description value="A long and dark dagger sits here in the dust."/>
+		<title value="({WSharp{x) the {Ddark{x dagger"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="14491"/>
+			<playerport-area value="flotsam.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_14497" clazz="misc">
+		<description value="A murky brew sits here glowing!"/>
+		<title value="a {mmurky{x brew"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="14497"/>
+			<playerport-area value="flotsam.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_14498" clazz="weapon">
+		<description value="A forged longsword sits here unused."/>
+		<title value="({WForged{x) a longsword"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="14498"/>
+			<playerport-area value="flotsam.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_14499" clazz="misc">
+		<description value="A slimy fish sits here ready to be eaten."/>
+		<title value="({GFresh{x) Sea Bass"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="14499"/>
+			<playerport-area value="flotsam.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_14506" clazz="misc">
+		<description value="A worn seashell lies here in the sand."/>
+		<title value="({YExtremely-Powerful{x) Seashell"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="14506"/>
+			<playerport-area value="flotsam.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_14510" clazz="misc">
+		<description value="A statue of an elephant sits here."/>
+		<title value="({WStatue{x) a white elephant"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="14510"/>
+			<playerport-area value="flotsam.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_14523" clazz="food">
+		<description value="A pile of {Bfish{x that the old man caught lies here."/>
+		<title value="a pile of {Bfish{x"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="14523"/>
+			<playerport-area value="flotsam.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_14545" clazz="misc">
+		<description value="A buoyant life vest sits here."/>
+		<title value="({cBuoyant{x) a life vest"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="14545"/>
+			<playerport-area value="flotsam.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_14548" clazz="misc">
+		<description value="A board has been left on the floor here."/>
+		<title value="a {yboard{x"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="14548"/>
+			<playerport-area value="flotsam.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_14549" clazz="weapon">
+		<description value="A long and slim forged dagger lies in the dust here."/>
+		<title value="a forged dagger"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="14549"/>
+			<playerport-area value="flotsam.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_14550" clazz="misc">
+		<description value="A sexy leather bra sits here awaiting a woman."/>
+		<title value="({rSexy{x) {DLeather Bra{x"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="14550"/>
+			<playerport-area value="flotsam.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_14551" clazz="misc">
+		<description value="A sexy leather thong awaits a woman here."/>
+		<title value="({rSexy{x) {DLeather Thong{x"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="14551"/>
+			<playerport-area value="flotsam.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_14553" clazz="weapon">
+		<description value="A long curved weapon lies here in the sand."/>
+		<title value="a pirate&apos;s cutlass"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="14553"/>
+			<playerport-area value="flotsam.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_400" clazz="misc">
+		<description value="A large {Diron{x anvil sits here."/>
+		<title value="an {Diron{x anvil"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="400"/>
+			<playerport-area value="forge.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_401" clazz="misc">
+		<description value="A set of wooden shelves sits on the west wall."/>
+		<title value="a set of wooden shelves"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="401"/>
+			<playerport-area value="forge.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_402" clazz="misc">
+		<description value="A cooling {Bpool{x sits next to the {Diron{x anvil."/>
+		<title value="a {Bcooling{x pool"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="402"/>
+			<playerport-area value="forge.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_403" clazz="armor">
+		<description value="A potion of stammering and stuttering lies here."/>
+		<title value="a potion of stammering and stuttering"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="403"/>
+			<playerport-area value="forge.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_404" clazz="misc">
+		<description value="A pair of massive {Diron{x doors stand between you and sunlight."/>
+		<title value="the massive {Diron{x doors"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="404"/>
+			<playerport-area value="forge.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_405" clazz="drink">
+		<description value="A potion of vitality lies here."/>
+		<title value="a potion of vitality"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="405"/>
+			<playerport-area value="forge.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_406" clazz="drink">
+		<description value="A potion of giant control lies before you."/>
+		<title value="a potion of giant control"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="406"/>
+			<playerport-area value="forge.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_407" clazz="drink">
+		<description value="A potion of divine protection is on the ground here."/>
+		<title value="a potion of divine protection"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="407"/>
+			<playerport-area value="forge.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_408" clazz="misc">
+		<description value="A bar of smelted iron sits here, waiting to be forged into something useful."/>
+		<title value="an iron bar"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="408"/>
+			<playerport-area value="forge.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_409" clazz="misc">
+		<description value="A cut piece of leather suitable for raw material lies here."/>
+		<title value="a piece of leather"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="409"/>
+			<playerport-area value="forge.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_410" clazz="misc">
+		<description value="A bar of smelted silver sits here, waiting to be forged into something useful."/>
+		<title value="a silver bar"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="410"/>
+			<playerport-area value="forge.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_411" clazz="drink">
+		<description value="A potion of recall lies here."/>
+		<title value="a recall potion"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="411"/>
+			<playerport-area value="forge.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_412" clazz="misc">
+		<description value="A bar of smelted steel sits here, waiting to be forged into something useful."/>
+		<title value="a steel bar"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="412"/>
+			<playerport-area value="forge.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_413" clazz="misc">
+		<description value="A blacksmith&apos;s hammer sits here, unused."/>
+		<title value="a blacksmith&apos;s hammer"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="413"/>
+			<playerport-area value="forge.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_414" clazz="food">
+		<description value="A can of mining food rations lies here."/>
+		<title value="some mining food rations"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="414"/>
+			<playerport-area value="forge.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_415" clazz="misc">
+		<description value="A large fountain with a hammer atop an anvil on the center."/>
+		<title value="a large fountain"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="415"/>
+			<playerport-area value="forge.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_420" clazz="weapon">
+		<description value="A large, beautifully crafted Dwarven axe lies here."/>
+		<title value="a Dwarven axe of the Forge"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="420"/>
+			<playerport-area value="forge.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_421" clazz="misc">
+		<description value="A beautifully crafted breastplate of Dwarven make, lies here."/>
+		<title value="a Dwarven breastplate of the Forge"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="421"/>
+			<playerport-area value="forge.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_19000" clazz="misc">
+		<description value="A pool of slime covered with bugs and beetles."/>
+		<title value="a pool of slime"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="19000"/>
+			<playerport-area value="forgocav.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_19001" clazz="misc">
+		<description value="{}"/>
+		<title value="a dark chute"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="19001"/>
+			<playerport-area value="forgocav.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_19002" clazz="misc">
+		<description value="A set of dragon scale arm guards lie here."/>
+		<title value="{Ddragon scale {xarm guards"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="19002"/>
+			<playerport-area value="forgocav.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_19003" clazz="misc">
+		<description value="A necklace of long sharp bat fangs lies here in the dust."/>
+		<title value="a necklace of bat {Wfangs{x"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="19003"/>
+			<playerport-area value="forgocav.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_19004" clazz="misc">
+		<description value="A wooden club with a cracked handle lies here in the dirt."/>
+		<title value="a {ywooden{x club"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="19004"/>
+			<playerport-area value="forgocav.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_19005" clazz="misc">
+		<description value="A bone sharpened to a tip lies here collecting slime."/>
+		<title value="a sharpened {Wbone{x"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="19005"/>
+			<playerport-area value="forgocav.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_19006" clazz="misc">
+		<description value="A long staff made of obsidian lies here on the ground."/>
+		<title value="a {rcharred {Dobsidian{x long staff"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="19006"/>
+			<playerport-area value="forgocav.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_19007" clazz="misc">
+		<description value="A parchment of skin lies here getting trod on."/>
+		<title value="a parchment of {rskin{x"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="19007"/>
+			<playerport-area value="forgocav.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_19008" clazz="misc">
+		<description value="Robe with many hidden pockets lie here on the ground."/>
+		<title value="long {Dblack {xrobes"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="19008"/>
+			<playerport-area value="forgocav.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_19009" clazz="misc">
+		<description value="A crystal rapier lies here glowing like polished glass."/>
+		<title value="a crystal rapier"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="19009"/>
+			<playerport-area value="forgocav.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_19010" clazz="food">
+		<description value="A immweapon is here"/>
+		<title value="a immweapon"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="19010"/>
+			<playerport-area value="forgocav.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_1800" clazz="misc">
+		<description value="A tattoo of a hideous creature sits here, waiting to be branded on."/>
+		<title value="a tattoo of a demon"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="1800"/>
+			<playerport-area value="garnetmo.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_1801" clazz="drink">
+		<description value="A bottle of {Rblood{x churns before your eyes."/>
+		<title value="a bottle of {Rblood{x"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="1801"/>
+			<playerport-area value="garnetmo.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_1802" clazz="drink">
+		<description value="A potion of {mpurple{x liquid bubbles over its beakers&apos; flange, right before your eyes."/>
+		<title value="a healing potion"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="1802"/>
+			<playerport-area value="garnetmo.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_1803" clazz="misc">
+		<description value="A wooden sign lays on the ground here."/>
+		<title value="a wooden sign"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="1803"/>
+			<playerport-area value="garnetmo.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_1804" clazz="drink">
+		<description value="A round vial of a bubbling {Bblue{x liquid foams before you."/>
+		<title value="a potion of ghosts"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="1804"/>
+			<playerport-area value="garnetmo.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_1805" clazz="weapon">
+		<description value="A large archer&apos;s bow lies here."/>
+		<title value="an archer&apos;s bow"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="1805"/>
+			<playerport-area value="garnetmo.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_1806" clazz="misc">
+		<description value="A wooden sign lays on the ground here."/>
+		<title value="a wooden sign"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="1806"/>
+			<playerport-area value="garnetmo.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_1807" clazz="misc">
+		<description value="A well-crafted replica of Raistlin Majere&apos;s staff lies here."/>
+		<title value="({yReplica{x) Raistlin&apos;s staff"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="1807"/>
+			<playerport-area value="garnetmo.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_1808" clazz="misc">
+		<description value="A wooden arrow is here."/>
+		<title value="an arrow"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="1808"/>
+			<playerport-area value="garnetmo.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_1809" clazz="weapon">
+		<description value="A quiver made to hold many arrows, lies here."/>
+		<title value="a quiver"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="1809"/>
+			<playerport-area value="garnetmo.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_1810" clazz="misc">
+		<description value="A tattoo with a bloody scythe design rests on the ground."/>
+		<title value="a tattoo of a {Rbloody scythe{x"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="1810"/>
+			<playerport-area value="garnetmo.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_1811" clazz="drink">
+		<description value="A potion of poison lies here."/>
+		<title value="a potion of poison"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="1811"/>
+			<playerport-area value="garnetmo.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_1812" clazz="misc">
+		<description value="A large staff, once thought to be Hiddukel&apos;s, hovers before you."/>
+		<title value="(Golden)(Ancient) the Staff of Hiddukel"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="1812"/>
+			<playerport-area value="garnetmo.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_1813" clazz="misc">
+		<description value="An empty jar lies here."/>
+		<title value="a jar"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="1813"/>
+			<playerport-area value="garnetmo.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_1814" clazz="misc">
+		<description value="A dim {Bblue{x light glows here."/>
+		<title value="a dim cold light"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="1814"/>
+			<playerport-area value="garnetmo.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_1815" clazz="misc">
+		<description value="A piece of seaweed is floating here in the water."/>
+		<title value="a piece of seaweed"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="1815"/>
+			<playerport-area value="garnetmo.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_1816" clazz="weapon">
+		<description value="A large, sharp dagger glimmers on the ground."/>
+		<title value="a Thieves guardian dagger"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="1816"/>
+			<playerport-area value="garnetmo.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_1817" clazz="armor">
+		<description value="A long flowing green cloak lies here on the ground."/>
+		<title value="a guardian cloak of the Thieves"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="1817"/>
+			<playerport-area value="garnetmo.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_1818" clazz="armor">
+		<description value="A shimmering {Wwhite{x light burns into the ground here."/>
+		<title value="a shimmering {Wwhite{x light"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="1818"/>
+			<playerport-area value="garnetmo.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_1819" clazz="misc">
+		<description value="A large wooden sign with a picture on it is posted here."/>
+		<title value="a large wooden sign"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="1819"/>
+			<playerport-area value="garnetmo.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_1820" clazz="misc">
+		<description value="A thick overgrowth of plants sprout up from the ground here."/>
+		<title value="a thick overgrowth of plants"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="1820"/>
+			<playerport-area value="garnetmo.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_1821" clazz="misc">
+		<description value="A large {Gmoss{x covered boulder sits here."/>
+		<title value="a moss covered boulder"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="1821"/>
+			<playerport-area value="garnetmo.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_1822" clazz="misc">
+		<description value="A large wooden log has fallen, allowing a place to sit."/>
+		<title value="a large log"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="1822"/>
+			<playerport-area value="garnetmo.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_1825" clazz="misc">
+		<description value="A crystal key lies here, shimmering in the presence of light."/>
+		<title value="a crystal key"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="1825"/>
+			<playerport-area value="garnetmo.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_1826" clazz="misc">
+		<description value="A golden key lies here."/>
+		<title value="a golden key"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="1826"/>
+			<playerport-area value="garnetmo.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_1827" clazz="misc">
+		<description value="A {Ygolden{x treasure chest marked with the symbol of Hiddukel sits here."/>
+		<title value="hiddukel&apos;s treasure chest"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="1827"/>
+			<playerport-area value="garnetmo.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_1832" clazz="misc">
+		<description value="A red moon rock magically floats here in the air."/>
+		<title value="({RRed{x) a moon rock"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="1832"/>
+			<playerport-area value="garnetmo.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_1833" clazz="misc">
+		<description value="A plump red berry glistens with just a touch of moisture."/>
+		<title value="a red berry"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="1833"/>
+			<playerport-area value="garnetmo.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_1834" clazz="misc">
+		<description value="A sturdy, oaken staff lies on the ground."/>
+		<title value="a druid staff"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="1834"/>
+			<playerport-area value="garnetmo.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_1835" clazz="misc">
+		<description value="A magical pill lies here."/>
+		<title value="a pill"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="1835"/>
+			<playerport-area value="garnetmo.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_1836" clazz="misc">
+		<description value="A sturdy oak staff, with detailed runes carved into it, lies here."/>
+		<title value="a battlestaff"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="1836"/>
+			<playerport-area value="garnetmo.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_1845" clazz="drink">
+		<description value="A potion filled with a black liquid lies here."/>
+		<title value="a potion of death"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="1845"/>
+			<playerport-area value="garnetmo.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_1850" clazz="drink">
+		<description value="A teleport potion lies here."/>
+		<title value="a teleport potion"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="1850"/>
+			<playerport-area value="garnetmo.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_1854" clazz="weapon">
+		<description value="The skin hide of a leopard lies here, smelling of dead animal."/>
+		<title value="a {Dblack{x-spotted leopard skin"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="1854"/>
+			<playerport-area value="garnetmo.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_1855" clazz="misc">
+		<description value="(no description)"/>
+		<title value="(Corruption)(Ancient) Hiddukel&apos;s Golden Coin"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="1855"/>
+			<playerport-area value="garnetmo.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_1856" clazz="misc">
+		<description value="(no description)"/>
+		<title value="(no short description)"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="1856"/>
+			<playerport-area value="garnetmo.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_1857" clazz="misc">
+		<description value="(no description)"/>
+		<title value="(no short description)"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="1857"/>
+			<playerport-area value="garnetmo.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_1858" clazz="misc">
+		<description value="(no description)"/>
+		<title value="(no short description)"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="1858"/>
+			<playerport-area value="garnetmo.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_1859" clazz="misc">
+		<description value="(no description)"/>
+		<title value="(no short description)"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="1859"/>
+			<playerport-area value="garnetmo.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_1860" clazz="misc">
+		<description value="(no description)"/>
+		<title value="(no short description)"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="1860"/>
+			<playerport-area value="garnetmo.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_1863" clazz="misc">
+		<description value="The eyeball of %s rolls around on the floor."/>
+		<title value="the eyeball of %s"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="1863"/>
+			<playerport-area value="garnetmo.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_1864" clazz="misc">
+		<description value="A pool of spilt blood lies here."/>
+		<title value="a pool of blood"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="1864"/>
+			<playerport-area value="garnetmo.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_1865" clazz="misc">
+		<description value="The ripped off face of %s lies on the floor."/>
+		<title value="the ripped off face of %s"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="1865"/>
+			<playerport-area value="garnetmo.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_1866" clazz="misc">
+		<description value="The torn-out windpipe of %s lies broken on the floor."/>
+		<title value="the torn-out windpipe of %s"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="1866"/>
+			<playerport-area value="garnetmo.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_1867" clazz="misc">
+		<description value="The cracked-open head of %s lies on the floor."/>
+		<title value="the cracked-open head of %s"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="1867"/>
+			<playerport-area value="garnetmo.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_1868" clazz="misc">
+		<description value="The sliced off ear of %s lies on the floor."/>
+		<title value="the sliced off ear of %s"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="1868"/>
+			<playerport-area value="garnetmo.are"/>
+		</attributes>
+	</item>
+<item name="pp_obj_1869" clazz="misc">
+		<description value="The sliced off nose of %s lies on the floor."/>
+		<title value="the sliced off nose of %s"/>
+		<attributes>
+			<weight value="1"/>
+			<value value="1"/>
+			<playerport-vnum value="1869"/>
+			<playerport-area value="garnetmo.are"/>
+		</attributes>
+	</item>
+
+</items>

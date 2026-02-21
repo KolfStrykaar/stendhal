@@ -38,6 +38,8 @@
 	<group uri="items/tokens.xml"/>
 	<group uri="items/tools.xml"/>
 	<group uri="items/whips.xml"/>
+	<group uri="items/playerport_curated.xml"/>
+	<!-- <group uri="items/playerport_objects.xml"/> -->
 
 	<!--
 	<group uri="items/capturetheflag.xml"/>

@@ -51,5 +51,7 @@
 	<group uri="creatures/undead_specter.xml"/>
 	<group uri="creatures/undead_vampire.xml"/>
 	<group uri="creatures/undead_zombie.xml"/>
+	<group uri="creatures/playerport_curated.xml"/>
+	<!-- <group uri="creatures/playerport_mobiles.xml"/> -->
 
 </groups>

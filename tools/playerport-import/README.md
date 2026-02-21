@@ -232,3 +232,21 @@ Outputs:
 - `data/conf/spells/playerport_curated.xml`
 
 Use this file for stricter production rollout instead of the full `playerport.xml` set.
+
+## 25) Build curated Playerport items XML
+
+```bash
+node tools/playerport-import/generate-curated-playerport-items-xml.mjs
+```
+
+Outputs:
+- `data/conf/items/playerport_curated.xml`
+
+## 26) Build curated Playerport creatures XML
+
+```bash
+node tools/playerport-import/generate-curated-playerport-creatures-xml.mjs
+```
+
+Outputs:
+- `data/conf/creatures/playerport_curated.xml`

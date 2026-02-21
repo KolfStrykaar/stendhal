@@ -23,5 +23,6 @@
 
 - Direction update: Stendhal remains the gameplay model (2D world/sprites, native interaction). Playerport text control is now considered debug-only.
 - Added `/playertheme` slash action to apply Playerport-inspired visual styling without changing gameplay model.
+- Runtime switched to curated Playerport subsets for spells/items/creatures (full seeds remain commented fallback groups).
 
 Remaining heavy lift is deep semantic conversion (room topology, resets, scripted behavior, and full mechanics parity).

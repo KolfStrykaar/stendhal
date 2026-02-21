@@ -1,0 +1,2347 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<creatures xmlns="stendhal" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="stendhal ../creatures.xsd">
+
+<creature name="pp_mob_4250">
+		<description value="This mercenary has been hired to patrol the roads."/>
+		<title value="A hired mercenary"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="4250"/>
+			<playerport-area value="abanfor.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_4251">
+		<description value="This assassin is doing the dirty work of rich nobles."/>
+		<title value="a hired {Dassassin{x"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="4251"/>
+			<playerport-area value="abanfor.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_10201">
+		<description value="A fat and bloated rat scurries about."/>
+		<title value="a bloated rat"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="10201"/>
+			<playerport-area value="balifor.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_10202">
+		<description value="A cloaked figure stands here, counting money."/>
+		<title value="a shady bookie"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="10202"/>
+			<playerport-area value="balifor.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_10203">
+		<description value="A Balifor city guard stands here, scanning for trouble."/>
+		<title value="a Balifor guard"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="10203"/>
+			<playerport-area value="balifor.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_4200">
+		<description value="The {MMarvelous{r Cleric{x of{Y Branchala{x"/>
+		<title value="The {MMarvelous{r Cleric{x of{Y Branchala{x"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="4200"/>
+			<playerport-area value="borrow.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_14700">
+		<description value="(no long description)"/>
+		<title value="(no short description)"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="14700"/>
+			<playerport-area value="caergoth.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_14702">
+		<description value="Guarding these gates is a loyal Knight of the Crown."/>
+		<title value="Knight of the Crown"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="14702"/>
+			<playerport-area value="caergoth.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_14709">
+		<description value="A robed figure stands behind the counter examining various potions."/>
+		<title value="Michael, the shopkeeper"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="14709"/>
+			<playerport-area value="caergoth.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_13400">
+		<description value="A small goblin slinks around here, looking for someone to raid."/>
+		<title value="a Mon&apos;s goblin raider"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="13400"/>
+			<playerport-area value="chaos.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_13401">
+		<description value="{WAn enourmously large man made of marshmellows is here, buisily crushing things.{x"/>
+		<title value="{Wthe Stay-Puff marshmellow man{x"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="13401"/>
+			<playerport-area value="chaos.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_13412">
+		<description value="A cleric stands here waiting to help the injured."/>
+		<title value="A cleric"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="13412"/>
+			<playerport-area value="chaos.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_13418">
+		<description value="Gilas the shopkeeper waits by the counter for your order."/>
+		<title value="Gilas the shopkeeper"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="13418"/>
+			<playerport-area value="chaos.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_13420">
+		<description value="A skeletal figure walks toward you, covered in charred Solamnic armor"/>
+		<title value="Death Knight"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="13420"/>
+			<playerport-area value="chaos.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_13421">
+		<description value="(no long description)"/>
+		<title value="(no short description)"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="13421"/>
+			<playerport-area value="chaos.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_13422">
+		<description value="A shady figure stands here, waiting to sell you something.......good..."/>
+		<title value="shady figure"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="13422"/>
+			<playerport-area value="chaos.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_13447">
+		<description value="(no long description)"/>
+		<title value="(no short description)"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="13447"/>
+			<playerport-area value="chaos.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_13450">
+		<description value="A barbarian shaman sits upon the ground meditating."/>
+		<title value="A barbarian shaman"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="13450"/>
+			<playerport-area value="chaos.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_13460">
+		<description value="(no long description)"/>
+		<title value="(no short description)"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="13460"/>
+			<playerport-area value="chaos.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_13566">
+		<description value="A poor farmer goes about his mundane existence in life"/>
+		<title value="a poor farmer"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="13566"/>
+			<playerport-area value="chaos.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_13569">
+		<description value="A guild cleric stands here, his face shrouded by a cowl."/>
+		<title value="a guild cleric"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="13569"/>
+			<playerport-area value="chaos.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_13570">
+		<description value="Faizel the wise stoops over his books, waiting to train the young and impatient."/>
+		<title value="faizel the wise"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="13570"/>
+			<playerport-area value="chaos.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_13571">
+		<description value="A mystical unicorn stands here in all its majesty"/>
+		<title value="a mystical unicorn"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="13571"/>
+			<playerport-area value="chaos.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_13572">
+		<description value="A slinky ferret runs over to you"/>
+		<title value="a slinky ferret"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="13572"/>
+			<playerport-area value="chaos.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_13573">
+		<description value="Jexharan the store owner walks around the room with a dustpan and brush in his hands."/>
+		<title value="jexharan the store owner"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="13573"/>
+			<playerport-area value="chaos.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_13574">
+		<description value="The savage royal baboon bares it&apos;s sharp teeth as you approach"/>
+		<title value="a savage royal baboon"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="13574"/>
+			<playerport-area value="chaos.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_13577">
+		<description value="Mayor Astenaarde turns to face you, and begins to chant in the tongue of magic"/>
+		<title value="The wiley mayor Astenaarde"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="13577"/>
+			<playerport-area value="chaos.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_13578">
+		<description value="A town guard awaiting troublemakers, stares at you"/>
+		<title value="a Town guard patrolling the area"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="13578"/>
+			<playerport-area value="chaos.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_13580">
+		<description value="Iagaremis the smith stands over his anvil making new weapons."/>
+		<title value="Iagaremis the smith"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="13580"/>
+			<playerport-area value="chaos.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_13582">
+		<description value="Sarah the green grocer goes about polishing the apples for people to buy"/>
+		<title value="Sarah the green grocer"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="13582"/>
+			<playerport-area value="chaos.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_13584">
+		<description value="Izazul has come to take your soul and banish it to hell"/>
+		<title value="Izazul the demon"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="13584"/>
+			<playerport-area value="chaos.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_13587">
+		<description value="A man dressed in robes is here praying, probably a healer."/>
+		<title value="a healer"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="13587"/>
+			<playerport-area value="chaos.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_13590">
+		<description value="An old man sits with his legs crossed."/>
+		<title value="an old man"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="13590"/>
+			<playerport-area value="chaos.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_13592">
+		<description value="A pudgy man with a pleasant smile looks at you."/>
+		<title value="a shopkeeper"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="13592"/>
+			<playerport-area value="chaos.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_13599">
+		<description value="It will kill you"/>
+		<title value="it will kill you"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="13599"/>
+			<playerport-area value="chaos.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_13700">
+		<description value="A Guardian of the Solamnic Headquarters stands here at attention."/>
+		<title value="{xA Solamnic Guardian"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="13700"/>
+			<playerport-area value="clerist.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_13701">
+		<description value="The Innkeeper stands here, cleaning glasses."/>
+		<title value="the Innkeeper"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="13701"/>
+			<playerport-area value="clerist.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_13702">
+		<description value="A sullen bard is here, drinking away his problems."/>
+		<title value="the bard"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="13702"/>
+			<playerport-area value="clerist.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_13715">
+		<description value="A Knight of the Crown stands here guarding the gate."/>
+		<title value="the Knight of the Crown"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="13715"/>
+			<playerport-area value="clerist.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_13764">
+		<description value="A Priest of Habbakuk is here, tending to wounded knights."/>
+		<title value="the Priest of Habbakuk"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="13764"/>
+			<playerport-area value="clerist.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_13779">
+		<description value="A Knight of the Sword is here, healing the wounded."/>
+		<title value="a Knight of the Sword"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="13779"/>
+			<playerport-area value="clerist.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_13782">
+		<description value="A Priest of {WPaladine{x is here, giving blessings and comfort to the knights."/>
+		<title value="Priest of {WPaladine{x"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="13782"/>
+			<playerport-area value="clerist.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_13789">
+		<description value="A {WKnight{x of the {rRose{x stands here, guarding the door."/>
+		<title value="Sir Fenwithe"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="13789"/>
+			<playerport-area value="clerist.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_13790">
+		<description value="Amber stands here, ready to sell you the wares of the world."/>
+		<title value="Amber"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="13790"/>
+			<playerport-area value="clerist.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_18500">
+		<description value="A cleric stands here shouting about his god."/>
+		<title value="a cleric"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="18500"/>
+			<playerport-area value="crovtes.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_18501">
+		<description value="A winged creature with a fire aura glides around."/>
+		<title value="a {rfire{x Mephit"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="18501"/>
+			<playerport-area value="crovtes.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_18502">
+		<description value="An old mage is here writing on a book."/>
+		<title value="an old mage"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="18502"/>
+			<playerport-area value="crovtes.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_18503">
+		<description value="A giant red looks dangerous watching you carefully."/>
+		<title value="a giant {rfire{x ant"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="18503"/>
+			<playerport-area value="crovtes.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_18504">
+		<description value="A heavy armored warhorse stands here looking imponent."/>
+		<title value="a heavy armored warhorse"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="18504"/>
+			<playerport-area value="crovtes.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_18505">
+		<description value="A man standing behind the counter."/>
+		<title value="Alcino"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="18505"/>
+			<playerport-area value="crovtes.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_18506">
+		<description value="A dwarf blacksmith is here taking care of his weapons."/>
+		<title value="a rough dwarf"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="18506"/>
+			<playerport-area value="crovtes.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_18507">
+		<description value="A tall shopkeeper is behind the counter looking nervously at you."/>
+		<title value="a tall shopkeeper"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="18507"/>
+			<playerport-area value="crovtes.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_18508">
+		<description value="A young attractive woman is here staring at you."/>
+		<title value="a young woman"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="18508"/>
+			<playerport-area value="crovtes.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_18509">
+		<description value="A {Rcol{Yo{Grfull{x parrot is here talking with customers."/>
+		<title value="a {Rcol{Yo{Grfull{x parrot"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="18509"/>
+			<playerport-area value="crovtes.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_13301">
+		<description value="Goldmoon is singing a beautiful song here."/>
+		<title value="{xGoldmoon"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="13301"/>
+			<playerport-area value="crystal.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_13302">
+		<description value="Fewmaster Toede is here, looking self-important."/>
+		<title value="Fewmaster Toede"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="13302"/>
+			<playerport-area value="crystal.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_13303">
+		<description value="Riverwind the Plainsman is standing here."/>
+		<title value="{xRiverwind"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="13303"/>
+			<playerport-area value="crystal.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_13304">
+		<description value="A robed figure is standing here."/>
+		<title value="a Baaz draconian"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="13304"/>
+			<playerport-area value="crystal.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_13305">
+		<description value="A farmer is standing here looking after his workers..."/>
+		<title value="the farmer"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="13305"/>
+			<playerport-area value="crystal.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_13306">
+		<description value="A farm worker is here harvesting grain."/>
+		<title value="the farm worker"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="13306"/>
+			<playerport-area value="crystal.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_13307">
+		<description value="There is a barracuda swimming around you...it looks hungry.."/>
+		<title value="the barracuda"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="13307"/>
+			<playerport-area value="crystal.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_13308">
+		<description value="There is a very large Turtle dragon here."/>
+		<title value="the Turtle dragon"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="13308"/>
+			<playerport-area value="crystal.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_13309">
+		<description value="The farmer&apos;s guard dog is here guarding whatever he&apos;s supposed to guard."/>
+		<title value="the farmer�s guard dog"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="13309"/>
+			<playerport-area value="crystal.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_13310">
+		<description value="A strange-looking fish swims past."/>
+		<title value="a strange fish"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="13310"/>
+			<playerport-area value="crystal.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_13311">
+		<description value="A small hobgoblin seems to be searching for something."/>
+		<title value="a hobgoblin flunky"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="13311"/>
+			<playerport-area value="crystal.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_13312">
+		<description value="A beautiful white stag is here."/>
+		<title value="the White Stag"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="13312"/>
+			<playerport-area value="crystal.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_13313">
+		<description value="An old worn out bear is here."/>
+		<title value="an old bear"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="13313"/>
+			<playerport-area value="crystal.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_13314">
+		<description value="A large rat is here eating grain."/>
+		<title value="a large rat"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="13314"/>
+			<playerport-area value="crystal.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_13315">
+		<description value="A small field mouse runs across your foot."/>
+		<title value="a field mouse"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="13315"/>
+			<playerport-area value="crystal.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_4803">
+		<description value="A small butterfly is here."/>
+		<title value="a small butterfly"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="4803"/>
+			<playerport-area value="dargaard.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_4808">
+		<description value="A small dragonfly is flying here."/>
+		<title value="a small dragonfly"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="4808"/>
+			<playerport-area value="dargaard.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_4811">
+		<description value="A hobgoblin guard stands here."/>
+		<title value="a hobgoblin guard"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="4811"/>
+			<playerport-area value="dargaard.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_4812">
+		<description value="A Hobgoblin is here, grinning at you."/>
+		<title value="a hobgoblin"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="4812"/>
+			<playerport-area value="dargaard.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_4813">
+		<description value="A small hobgoblin is here."/>
+		<title value="a hobgoblin infant"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="4813"/>
+			<playerport-area value="dargaard.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_4814">
+		<description value="A Hobgoblin Elite Guard stands here."/>
+		<title value="a hobgoblin elite guard"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="4814"/>
+			<playerport-area value="dargaard.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_4815">
+		<description value="Raol, son of the hobgoblin leader, stands here."/>
+		<title value="{xRaol"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="4815"/>
+			<playerport-area value="dargaard.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_4816">
+		<description value="A hobgoblin cook is here, roasting some animal."/>
+		<title value="the hobgoblin cook"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="4816"/>
+			<playerport-area value="dargaard.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_4818">
+		<description value="A hobgoblin female is watering her plants."/>
+		<title value="a hobgoblin female"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="4818"/>
+			<playerport-area value="dargaard.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_4822">
+		<description value="A bard rests in the shade of the tree."/>
+		<title value="{xDal, the bard"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="4822"/>
+			<playerport-area value="dargaard.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_4837">
+		<description value="A cockroach lies here."/>
+		<title value="a cockroach"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="4837"/>
+			<playerport-area value="dargaard.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_4838">
+		<description value="A crow is resting on the dead tree&apos;s branch."/>
+		<title value="the crow"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="4838"/>
+			<playerport-area value="dargaard.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_4840">
+		<description value="A zombie is here."/>
+		<title value="a zombie"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="4840"/>
+			<playerport-area value="dargaard.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_4841">
+		<description value="A skeleton with a sword is here."/>
+		<title value="a skeleton"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="4841"/>
+			<playerport-area value="dargaard.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_4842">
+		<description value="A skeleton archer stands here, bow cocked and arrow notched."/>
+		<title value="a skeleton archer"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="4842"/>
+			<playerport-area value="dargaard.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_4845">
+		<description value="A brown wyvern is here."/>
+		<title value="a brown wyvern"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="4845"/>
+			<playerport-area value="dargaard.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_4853">
+		<description value="An undead cleric stands here."/>
+		<title value="the undead cleric"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="4853"/>
+			<playerport-area value="dargaard.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_4858">
+		<description value="A shadow"/>
+		<title value="a shadow"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="4858"/>
+			<playerport-area value="dargaard.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_4869">
+		<description value="A cloaked man is here."/>
+		<title value="a cloaked man"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="4869"/>
+			<playerport-area value="dargaard.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_4938">
+		<description value="A hobgoblin infant is here."/>
+		<title value="a hobgoblin infant"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="4938"/>
+			<playerport-area value="dargaard.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_4939">
+		<description value="A female hobgoblin is here."/>
+		<title value="a hobgoblin female"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="4939"/>
+			<playerport-area value="dargaard.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_4944">
+		<description value="An important hobgoblin warrior is here."/>
+		<title value="a hobgoblin warrior"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="4944"/>
+			<playerport-area value="dargaard.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_4947">
+		<description value="Rolgusk, the Hobgoblin leader is here."/>
+		<title value="{xRolgusk"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="4947"/>
+			<playerport-area value="dargaard.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_4948">
+		<description value="A hobgoblin assassin is hiding here."/>
+		<title value="a hobgoblin assassin"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="4948"/>
+			<playerport-area value="dargaard.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_4952">
+		<description value="A hobgoblin shaman is here, casting bones."/>
+		<title value="a hobgoblin shaman"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="4952"/>
+			<playerport-area value="dargaard.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_4958">
+		<description value="A very large hobgoblin is here."/>
+		<title value="Vuk the hobgoblin"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="4958"/>
+			<playerport-area value="dargaard.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_4960">
+		<description value="A hobgoblin is here, looking at you."/>
+		<title value="a hobgoblin"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="4960"/>
+			<playerport-area value="dargaard.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_4962">
+		<description value="A large hobgoblin guard stands here."/>
+		<title value="a hobgoblin guard"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="4962"/>
+			<playerport-area value="dargaard.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_2951">
+		<description value="The Forest Guardian stands here."/>
+		<title value="forest guardian"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="2951"/>
+			<playerport-area value="darkenwo.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_2952">
+		<description value="A large and beautiful {WWhite{x Stag stands here munching on some grass."/>
+		<title value="a {WWhite{x Stag"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="2952"/>
+			<playerport-area value="darkenwo.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_2979">
+		<description value="The Grimbough Tree stands here, waiting to devour you."/>
+		<title value="the Grimbough Tree"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="2979"/>
+			<playerport-area value="darkenwo.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_2990">
+		<description value="A Centaur of Keening Wind is here looking for a fight."/>
+		<title value="a Centaur of Keening Wind"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="2990"/>
+			<playerport-area value="darkenwo.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_2994">
+		<description value="The Forestmaster of Darken Wood stands here with a sad look."/>
+		<title value="the Forestmaster"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="2994"/>
+			<playerport-area value="darkenwo.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_151">
+		<description value="A cleric in dark gray robes stands here healing his brethren."/>
+		<title value="Rewnoyk, the dark cleric of {DMorgion{x"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="151"/>
+			<playerport-area value="darktemp.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_158">
+		<description value="A dark cleric of the Black Order stands guard over the Dark Temple here."/>
+		<title value="a dark cleric of the Black Order"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="158"/>
+			<playerport-area value="darktemp.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_14401">
+		<description value="A Knight of Takhisis is here awaiting orders."/>
+		<title value="a Knight of Takhisis"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="14401"/>
+			<playerport-area value="flotsam.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_14410">
+		<description value="A Flotsam City Guard stands here letting trouble happen."/>
+		<title value="a Flotsam City Guard"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="14410"/>
+			<playerport-area value="flotsam.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_14416">
+		<description value="A giant Flotsam city guard stands here blocking your way!"/>
+		<title value="a City Guard"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="14416"/>
+			<playerport-area value="flotsam.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_14420">
+		<description value="A Flotsam citizen stands here looking out for trouble."/>
+		<title value="a Flotsam citizen"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="14420"/>
+			<playerport-area value="flotsam.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_14428">
+		<description value="A hired mercenary stands here looking for someone..."/>
+		<title value="a hired mercenary"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="14428"/>
+			<playerport-area value="flotsam.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_14455">
+		<description value="({yDrunk{X) A sailor staggers by here."/>
+		<title value="a drunk sailor"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="14455"/>
+			<playerport-area value="flotsam.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_14456">
+		<description value="A Flotsam city guard is keeping watch over the street here."/>
+		<title value="a Flotsam City Guard"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="14456"/>
+			<playerport-area value="flotsam.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_14459">
+		<description value="A fat merchant stands here counting his money."/>
+		<title value="a fat merchant"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="14459"/>
+			<playerport-area value="flotsam.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_14468">
+		<description value="A Flotsam citizen walks by here."/>
+		<title value="a Flotsam citizen"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="14468"/>
+			<playerport-area value="flotsam.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_14485">
+		<description value="A clever kender is here borrowing objects from people."/>
+		<title value="a clever kender"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="14485"/>
+			<playerport-area value="flotsam.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_14491">
+		<description value="A hidden thief stares at your pockets!"/>
+		<title value="a hidden thief"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="14491"/>
+			<playerport-area value="flotsam.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_14492">
+		<description value="A minotaur thug is waiting for his next victim."/>
+		<title value="a minotaur thug"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="14492"/>
+			<playerport-area value="flotsam.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_14497">
+		<description value="Juli the elf mage stands here selling her brews."/>
+		<title value="Juli the elf mage"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="14497"/>
+			<playerport-area value="flotsam.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_14498">
+		<description value="Gringor the blacksmith stands here with his weapons ready for sale."/>
+		<title value="Gringor"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="14498"/>
+			<playerport-area value="flotsam.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_14499">
+		<description value="An old {csailor{X stands here ready to sell you the latest catch."/>
+		<title value="an old sailor"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="14499"/>
+			<playerport-area value="flotsam.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_14509">
+		<description value="A {Dminotaur{x cleric stand here ready to heal you for a price!"/>
+		<title value="a {Dminotaur{x cleric"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="14509"/>
+			<playerport-area value="flotsam.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_14510">
+		<description value="A merchant stands here looking over his goods."/>
+		<title value="a merchant"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="14510"/>
+			<playerport-area value="flotsam.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_14523">
+		<description value="An old fisherman is here casting out to sea."/>
+		<title value="an old fisherman"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="14523"/>
+			<playerport-area value="flotsam.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_14530">
+		<description value="A young sailor is here carrying some heavy rope."/>
+		<title value="a young sailor"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="14530"/>
+			<playerport-area value="flotsam.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_14533">
+		<description value="A {rred-robed{x mage stands here contemplating her skills."/>
+		<title value="a {rred-robed{x mage"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="14533"/>
+			<playerport-area value="flotsam.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_14535">
+		<description value="The Rock Gate guard is willing to let you in for a small &quot;gift&quot;."/>
+		<title value="the Rock Gate guard"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="14535"/>
+			<playerport-area value="flotsam.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_14545">
+		<description value="An old sailor is here waiting to take your order."/>
+		<title value="an old {cSailor{x"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="14545"/>
+			<playerport-area value="flotsam.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_14546">
+		<description value="A small worm is on the lookout for some nice dirt here."/>
+		<title value="a {Yworm{x"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="14546"/>
+			<playerport-area value="flotsam.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_14549">
+		<description value="Rangor the Blacksmith is here making weapons to sell."/>
+		<title value="Rangor"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="14549"/>
+			<playerport-area value="flotsam.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_14550">
+		<description value="Miss Gwen is here looking after her &quot;daughters&quot;."/>
+		<title value="Miss Gwen"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="14550"/>
+			<playerport-area value="flotsam.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_14551">
+		<description value="{MMissy{x the harlot is here to serve you!"/>
+		<title value="{MMissy{x the harlot"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="14551"/>
+			<playerport-area value="flotsam.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_14552">
+		<description value="A sailor is here washing the deck."/>
+		<title value="a sailor"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="14552"/>
+			<playerport-area value="flotsam.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_14553">
+		<description value="The Captain of the Phoenix is standing here watching over his crew."/>
+		<title value="Captain of the Phoenix"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="14553"/>
+			<playerport-area value="flotsam.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_400">
+		<description value="A cleric of Reorx is here blessing the weapons made."/>
+		<title value="the cleric of Reorx"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="400"/>
+			<playerport-area value="forge.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_401">
+		<description value="An old dwarf is here, selling smithy stuff."/>
+		<title value="an old dwarf"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="401"/>
+			<playerport-area value="forge.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_402">
+		<description value="A Dwarven bartender is here, waiting for your order."/>
+		<title value="a Dwarven bartender"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="402"/>
+			<playerport-area value="forge.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_410">
+		<description value="A stocky Dwarf stands here guarding The Forge from intruders."/>
+		<title value="a Guardian of the Forge"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="410"/>
+			<playerport-area value="forge.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_411">
+		<description value="The great Drodge Firestone stands on a stool, waiting to sell you something."/>
+		<title value="Drodge Firestone"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="411"/>
+			<playerport-area value="forge.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_19000">
+		<description value="(no long description)"/>
+		<title value="(no short description)"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="19000"/>
+			<playerport-area value="forgocav.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_19001">
+		<description value="A drooling elven zombie moans at you."/>
+		<title value="an elven zombie"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="19001"/>
+			<playerport-area value="forgocav.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_19002">
+		<description value="A group of skeletal bats hang here upsidedown."/>
+		<title value="a group of skeletal bats"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="19002"/>
+			<playerport-area value="forgocav.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_19003">
+		<description value="A flesh golem constructed of various bodies is here, dripping with blood."/>
+		<title value="a flesh golem"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="19003"/>
+			<playerport-area value="forgocav.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_19004">
+		<description value="A golem stands here, made purely of rock and stone."/>
+		<title value="a rock golem"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="19004"/>
+			<playerport-area value="forgocav.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_19005">
+		<description value="A phantom floats here things seem to pass right through it."/>
+		<title value="a transparent phantom"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="19005"/>
+			<playerport-area value="forgocav.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_19006">
+		<description value="A frail looking skeleton stands before you, bones held together by some unknown power."/>
+		<title value="a frail skeleton"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="19006"/>
+			<playerport-area value="forgocav.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_19007">
+		<description value="A minotaur casting necromancer spells stands before you."/>
+		<title value="a minotaur necromancer"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="19007"/>
+			<playerport-area value="forgocav.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_19083">
+		<description value="An enormous Black Dragon towers above you."/>
+		<title value="a Black Dragon"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="19083"/>
+			<playerport-area value="forgocav.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_1803">
+		<description value="Perched upon a tree branch, stands a small humming bird."/>
+		<title value="a small humming bird"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="1803"/>
+			<playerport-area value="garnetmo.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_1804">
+		<description value="A deformed man with a foul smell stands here waiting to sell you a few things."/>
+		<title value="a deformed shopkeeper"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="1804"/>
+			<playerport-area value="garnetmo.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_1806">
+		<description value="A well-dressed thief stands here, eyeballing your money pouch."/>
+		<title value="a well-dressed thief"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="1806"/>
+			<playerport-area value="garnetmo.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_1815">
+		<description value="An enslaved demon rests his sunken, hollow eyes upon you."/>
+		<title value="an enslaved demon"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="1815"/>
+			<playerport-area value="garnetmo.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_1816">
+		<description value="A well-cloaked thief stands here, keeping a watchful eye over the Hall."/>
+		<title value="a well-cloaked thief"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="1816"/>
+			<playerport-area value="garnetmo.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_1825">
+		<description value="An ancient guardian dragon of the future stares you down with it&apos;s black eyes..."/>
+		<title value="an ancient guardian dragon"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="1825"/>
+			<playerport-area value="garnetmo.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_1826">
+		<description value="A Priestess of Hiddukel stands here, showing off her beauty."/>
+		<title value="a Priestess of Hiddukel"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="1826"/>
+			<playerport-area value="garnetmo.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_1832">
+		<description value="A kobold squats here, plaing a game of rocks with his friends."/>
+		<title value="a kobold"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="1832"/>
+			<playerport-area value="garnetmo.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_1848">
+		<description value="A large bear tries to take a bite out of your hide."/>
+		<title value="a large bear"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="1848"/>
+			<playerport-area value="garnetmo.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_1854">
+		<description value="A large leopard stands here feeding off of its last victim."/>
+		<title value="a large leopard"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="1854"/>
+			<playerport-area value="garnetmo.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_1872">
+		<description value="A white snowflake blows by your face harsly..."/>
+		<title value="a {Wwhite{x snowflake"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="1872"/>
+			<playerport-area value="garnetmo.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_1884">
+		<description value="An ice demon stands here, keeping himself well concealed in the icy road."/>
+		<title value="an ice demon"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="1884"/>
+			<playerport-area value="garnetmo.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_1895">
+		<description value="A large, fearsome looking ice dragon stands here, prepared for anything."/>
+		<title value="an {Wice {Cdragon{x"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="1895"/>
+			<playerport-area value="garnetmo.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_1904">
+		<description value="A maiden slave stands here, waiting to take your order."/>
+		<title value="a maiden slave"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="1904"/>
+			<playerport-area value="garnetmo.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_1910">
+		<description value="A mirror image of yourself stands here, waiting to aid you in your training."/>
+		<title value="a mirror image of yourself"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="1910"/>
+			<playerport-area value="garnetmo.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_1911">
+		<description value="A female slave stands here, sharing the pain."/>
+		<title value="a female slave"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="1911"/>
+			<playerport-area value="garnetmo.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_1915">
+		<description value="The Executioner stands here, waiting for you to make one wrong move."/>
+		<title value="the Executioner"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="1915"/>
+			<playerport-area value="garnetmo.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_1916">
+		<description value="A male slave stands here in anguish."/>
+		<title value="a male slave"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="1916"/>
+			<playerport-area value="garnetmo.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_1919">
+		<description value="A beautiful maiden, has been changed to the walls."/>
+		<title value="a chained maiden"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="1919"/>
+			<playerport-area value="garnetmo.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_1924">
+		<description value="A tax collector stands here wanting your gold, now!"/>
+		<title value="the tax collector"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="1924"/>
+			<playerport-area value="garnetmo.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_1926">
+		<description value="A Priestess of Hiddukel stands here waiting to please you."/>
+		<title value="a Priestess of Hiddukel"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="1926"/>
+			<playerport-area value="garnetmo.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_1927">
+		<description value="A wandering bandit stands here waiting for easy pickings."/>
+		<title value="a wandering bandit"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="1927"/>
+			<playerport-area value="garnetmo.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_1930">
+		<description value="An injured man with blood seeping from many cuts rests up against the wagon."/>
+		<title value="an injured man"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="1930"/>
+			<playerport-area value="garnetmo.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_1931">
+		<description value="A thief lies in waiting."/>
+		<title value="a thief"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="1931"/>
+			<playerport-area value="garnetmo.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_1943">
+		<description value="A shepherd sits here, taking a break from the long hike."/>
+		<title value="a shepherd"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="1943"/>
+			<playerport-area value="garnetmo.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_1945">
+		<description value="A black sheep stands here, munching on some grass."/>
+		<title value="a black sheep"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="1945"/>
+			<playerport-area value="garnetmo.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_1971">
+		<description value="A Dwarven miner stands here, picking at the walls for valuable ore."/>
+		<title value="a Dwarven miner"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="1971"/>
+			<playerport-area value="garnetmo.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_1972">
+		<description value="A Dwarven guard stands here, ready to protect the foreman if needed."/>
+		<title value="a Dwarven guard"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="1972"/>
+			<playerport-area value="garnetmo.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_1973">
+		<description value="A Dwarven gladiator awaits his turn to fight in the arena."/>
+		<title value="a Dwarven gladiator"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="1973"/>
+			<playerport-area value="garnetmo.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_1974">
+		<description value="A Dwarven cook stands here impatiently waiting for you to make up your mind."/>
+		<title value="a Dwarven cook"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="1974"/>
+			<playerport-area value="garnetmo.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_1976">
+		<description value="A Dwarven foreman delegates all the authority among the miners down here."/>
+		<title value="a Dwarven foreman"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="1976"/>
+			<playerport-area value="garnetmo.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_1977">
+		<description value="A straw dummy stands here, waiting to take everything you got."/>
+		<title value="a straw dummy"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="1977"/>
+			<playerport-area value="garnetmo.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_1978">
+		<description value="An anti-theft dummy sits in the middle of the room."/>
+		<title value="an anti-theft dummy"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="1978"/>
+			<playerport-area value="garnetmo.are"/>
+		</attributes>
+	</creature>
+<creature name="pp_mob_5400">
+		<description value="The banker is here, hard at work."/>
+		<title value="the banker"/>
+		<attributes>
+			<level value="1"/>
+			<hp value="20"/>
+			<atk value="5"/>
+			<def value="5"/>
+			<xp value="10"/>
+			<playerport-vnum value="5400"/>
+			<playerport-area value="garret.are"/>
+		</attributes>
+	</creature>
+
+</creatures>

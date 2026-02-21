@@ -22,8 +22,10 @@ node tools/playerport-import/dry-run-import-report.mjs
 ## 3) Deploy generated seed files
 - `data/conf/spells/playerport.xml` (full compatibility)
 - `data/conf/spells/playerport_curated.xml` (recommended production subset)
-- `data/conf/items/playerport_objects.xml`
-- `data/conf/creatures/playerport_mobiles.xml`
+- `data/conf/items/playerport_objects.xml` (full seed)
+- `data/conf/items/playerport_curated.xml` (recommended production subset; wired in `items.xml`)
+- `data/conf/creatures/playerport_mobiles.xml` (full seed)
+- `data/conf/creatures/playerport_curated.xml` (recommended production subset; wired in `creatures.xml`)
 - `data/conf/zones/playerport_seed.json`
 - `data/conf/zones/playerport_room_atlas.json`
 - `data/conf/playerport/*.json`
