@@ -1,0 +1,3233 @@
+{
+  "description": "Playerport-compatible skill registry seed for Stendhal integration",
+  "generatedAt": "2026-02-21T06:54:26.732Z",
+  "skills": [
+    {
+      "legacyName": "acid blast",
+      "stendhalId": "pp_acid_blast",
+      "maxSeen": 100,
+      "importedFromPlayers": 173,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "acid breath",
+      "stendhalId": "pp_acid_breath",
+      "maxSeen": 100,
+      "importedFromPlayers": 48,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "acrobatics",
+      "stendhalId": "pp_acrobatics",
+      "maxSeen": 100,
+      "importedFromPlayers": 39,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "aid",
+      "stendhalId": "pp_aid",
+      "maxSeen": 100,
+      "importedFromPlayers": 175,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "alarm",
+      "stendhalId": "pp_alarm",
+      "maxSeen": 100,
+      "importedFromPlayers": 65,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "alter reality",
+      "stendhalId": "pp_alter_reality",
+      "maxSeen": 100,
+      "importedFromPlayers": 36,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "ambush",
+      "stendhalId": "pp_ambush",
+      "maxSeen": 100,
+      "importedFromPlayers": 37,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "animate corpse",
+      "stendhalId": "pp_animate_corpse",
+      "maxSeen": 100,
+      "importedFromPlayers": 57,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "apprehend",
+      "stendhalId": "pp_apprehend",
+      "maxSeen": 100,
+      "importedFromPlayers": 17,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "armor",
+      "stendhalId": "pp_armor",
+      "maxSeen": 100,
+      "importedFromPlayers": 199,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "arrow deflection",
+      "stendhalId": "pp_arrow_deflection",
+      "maxSeen": 100,
+      "importedFromPlayers": 221,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "assassinate",
+      "stendhalId": "pp_assassinate",
+      "maxSeen": 100,
+      "importedFromPlayers": 46,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "attunement",
+      "stendhalId": "pp_attunement",
+      "maxSeen": 100,
+      "importedFromPlayers": 51,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "aura cleanse",
+      "stendhalId": "pp_aura_cleanse",
+      "maxSeen": 100,
+      "importedFromPlayers": 54,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "axe",
+      "stendhalId": "pp_axe",
+      "maxSeen": 100,
+      "importedFromPlayers": 189,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "backstab",
+      "stendhalId": "pp_backstab",
+      "maxSeen": 100,
+      "importedFromPlayers": 89,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "backup",
+      "stendhalId": "pp_backup",
+      "maxSeen": 100,
+      "importedFromPlayers": 52,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "bad luck",
+      "stendhalId": "pp_bad_luck",
+      "maxSeen": 100,
+      "importedFromPlayers": 28,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "badberry",
+      "stendhalId": "pp_badberry",
+      "maxSeen": 100,
+      "importedFromPlayers": 33,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "banish",
+      "stendhalId": "pp_banish",
+      "maxSeen": 100,
+      "importedFromPlayers": 26,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "bark skin",
+      "stendhalId": "pp_bark_skin",
+      "maxSeen": 100,
+      "importedFromPlayers": 33,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "bash",
+      "stendhalId": "pp_bash",
+      "maxSeen": 100,
+      "importedFromPlayers": 195,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "battle tactics",
+      "stendhalId": "pp_battle_tactics",
+      "maxSeen": 100,
+      "importedFromPlayers": 452,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "battlecry",
+      "stendhalId": "pp_battlecry",
+      "maxSeen": 100,
+      "importedFromPlayers": 48,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "battlestaff",
+      "stendhalId": "pp_battlestaff",
+      "maxSeen": 100,
+      "importedFromPlayers": 41,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "battletide",
+      "stendhalId": "pp_battletide",
+      "maxSeen": 100,
+      "importedFromPlayers": 41,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "bearcall",
+      "stendhalId": "pp_bearcall",
+      "maxSeen": 100,
+      "importedFromPlayers": 37,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "beastspite",
+      "stendhalId": "pp_beastspite",
+      "maxSeen": 100,
+      "importedFromPlayers": 33,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "berserk",
+      "stendhalId": "pp_berserk",
+      "maxSeen": 100,
+      "importedFromPlayers": 160,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "bind wounds",
+      "stendhalId": "pp_bind_wounds",
+      "maxSeen": 100,
+      "importedFromPlayers": 140,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "binding",
+      "stendhalId": "pp_binding",
+      "maxSeen": 100,
+      "importedFromPlayers": 51,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "black cairn",
+      "stendhalId": "pp_black_cairn",
+      "maxSeen": 100,
+      "importedFromPlayers": 54,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "blackjack",
+      "stendhalId": "pp_blackjack",
+      "maxSeen": 100,
+      "importedFromPlayers": 49,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "blade barrier",
+      "stendhalId": "pp_blade_barrier",
+      "maxSeen": 100,
+      "importedFromPlayers": 41,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "bless",
+      "stendhalId": "pp_bless",
+      "maxSeen": 100,
+      "importedFromPlayers": 54,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "blessed warmth",
+      "stendhalId": "pp_blessed_warmth",
+      "maxSeen": 100,
+      "importedFromPlayers": 54,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "blessed watchfulness",
+      "stendhalId": "pp_blessed_watchfulness",
+      "maxSeen": 100,
+      "importedFromPlayers": 54,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "blindness",
+      "stendhalId": "pp_blindness",
+      "maxSeen": 100,
+      "importedFromPlayers": 175,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "boil blood",
+      "stendhalId": "pp_boil_blood",
+      "maxSeen": 100,
+      "importedFromPlayers": 48,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "boobytrap",
+      "stendhalId": "pp_boobytrap",
+      "maxSeen": 100,
+      "importedFromPlayers": 49,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "bow",
+      "stendhalId": "pp_bow",
+      "maxSeen": 100,
+      "importedFromPlayers": 154,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "brainjar",
+      "stendhalId": "pp_brainjar",
+      "maxSeen": 100,
+      "importedFromPlayers": 39,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "bravado",
+      "stendhalId": "pp_bravado",
+      "maxSeen": 100,
+      "importedFromPlayers": 39,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "break enchantment",
+      "stendhalId": "pp_break_enchantment",
+      "maxSeen": 100,
+      "importedFromPlayers": 51,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "break weapon",
+      "stendhalId": "pp_break_weapon",
+      "maxSeen": 100,
+      "importedFromPlayers": 140,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "breakneck",
+      "stendhalId": "pp_breakneck",
+      "maxSeen": 100,
+      "importedFromPlayers": 88,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "breath of nature",
+      "stendhalId": "pp_breath_of_nature",
+      "maxSeen": 100,
+      "importedFromPlayers": 33,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "breath of the dead",
+      "stendhalId": "pp_breath_of_the_dead",
+      "maxSeen": 100,
+      "importedFromPlayers": 48,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "brew",
+      "stendhalId": "pp_brew",
+      "maxSeen": 100,
+      "importedFromPlayers": 215,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "burning hands",
+      "stendhalId": "pp_burning_hands",
+      "maxSeen": 100,
+      "importedFromPlayers": 162,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "butcher",
+      "stendhalId": "pp_butcher",
+      "maxSeen": 100,
+      "importedFromPlayers": 59,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "call lightning",
+      "stendhalId": "pp_call_lightning",
+      "maxSeen": 100,
+      "importedFromPlayers": 54,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "call of the wild",
+      "stendhalId": "pp_call_of_the_wild",
+      "maxSeen": 100,
+      "importedFromPlayers": 53,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "calm",
+      "stendhalId": "pp_calm",
+      "maxSeen": 100,
+      "importedFromPlayers": 76,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "caltrops",
+      "stendhalId": "pp_caltrops",
+      "maxSeen": 100,
+      "importedFromPlayers": 140,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "camouflage",
+      "stendhalId": "pp_camouflage",
+      "maxSeen": 100,
+      "importedFromPlayers": 37,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "campfire",
+      "stendhalId": "pp_campfire",
+      "maxSeen": 100,
+      "importedFromPlayers": 37,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "cancellation",
+      "stendhalId": "pp_cancellation",
+      "maxSeen": 100,
+      "importedFromPlayers": 88,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "cantrip",
+      "stendhalId": "pp_cantrip",
+      "maxSeen": 100,
+      "importedFromPlayers": 173,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "cause critical",
+      "stendhalId": "pp_cause_critical",
+      "maxSeen": 100,
+      "importedFromPlayers": 54,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "cause discord",
+      "stendhalId": "pp_cause_discord",
+      "maxSeen": 100,
+      "importedFromPlayers": 36,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "cause light",
+      "stendhalId": "pp_cause_light",
+      "maxSeen": 100,
+      "importedFromPlayers": 54,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "cause serious",
+      "stendhalId": "pp_cause_serious",
+      "maxSeen": 100,
+      "importedFromPlayers": 88,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "cavorting bones",
+      "stendhalId": "pp_cavorting_bones",
+      "maxSeen": 100,
+      "importedFromPlayers": 48,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "chain lightning",
+      "stendhalId": "pp_chain_lightning",
+      "maxSeen": 100,
+      "importedFromPlayers": 17,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "chain repair",
+      "stendhalId": "pp_chain_repair",
+      "maxSeen": 100,
+      "importedFromPlayers": 46,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "change sex",
+      "stendhalId": "pp_change_sex",
+      "maxSeen": 100,
+      "importedFromPlayers": 49,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "chant of battle",
+      "stendhalId": "pp_chant_of_battle",
+      "maxSeen": 100,
+      "importedFromPlayers": 39,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "chaos flux",
+      "stendhalId": "pp_chaos_flux",
+      "maxSeen": 100,
+      "importedFromPlayers": 51,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "charge",
+      "stendhalId": "pp_charge",
+      "maxSeen": 100,
+      "importedFromPlayers": 30,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "charm person",
+      "stendhalId": "pp_charm_person",
+      "maxSeen": 100,
+      "importedFromPlayers": 51,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "chill touch",
+      "stendhalId": "pp_chill_touch",
+      "maxSeen": 100,
+      "importedFromPlayers": 72,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "chords of dissonance",
+      "stendhalId": "pp_chords_of_dissonance",
+      "maxSeen": 100,
+      "importedFromPlayers": 39,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "circlestab",
+      "stendhalId": "pp_circlestab",
+      "maxSeen": 100,
+      "importedFromPlayers": 89,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "clear thoughts",
+      "stendhalId": "pp_clear_thoughts",
+      "maxSeen": 100,
+      "importedFromPlayers": 78,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "cleave",
+      "stendhalId": "pp_cleave",
+      "maxSeen": 100,
+      "importedFromPlayers": 140,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "cloak of evil",
+      "stendhalId": "pp_cloak_of_evil",
+      "maxSeen": 100,
+      "importedFromPlayers": 36,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "cloak of starlight",
+      "stendhalId": "pp_cloak_of_starlight",
+      "maxSeen": 100,
+      "importedFromPlayers": 49,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "closing weave",
+      "stendhalId": "pp_closing_weave",
+      "maxSeen": 100,
+      "importedFromPlayers": 54,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "coldfire",
+      "stendhalId": "pp_coldfire",
+      "maxSeen": 100,
+      "importedFromPlayers": 48,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "coldlight",
+      "stendhalId": "pp_coldlight",
+      "maxSeen": 100,
+      "importedFromPlayers": 48,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "colour spray",
+      "stendhalId": "pp_colour_spray",
+      "maxSeen": 100,
+      "importedFromPlayers": 36,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "common",
+      "stendhalId": "pp_common",
+      "maxSeen": 100,
+      "importedFromPlayers": 482,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "company honor",
+      "stendhalId": "pp_company_honor",
+      "maxSeen": 100,
+      "importedFromPlayers": 69,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "company might",
+      "stendhalId": "pp_company_might",
+      "maxSeen": 100,
+      "importedFromPlayers": 69,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "company valor",
+      "stendhalId": "pp_company_valor",
+      "maxSeen": 100,
+      "importedFromPlayers": 69,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "conjure food",
+      "stendhalId": "pp_conjure_food",
+      "maxSeen": 100,
+      "importedFromPlayers": 54,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "continual light",
+      "stendhalId": "pp_continual_light",
+      "maxSeen": 100,
+      "importedFromPlayers": 36,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "control weather",
+      "stendhalId": "pp_control_weather",
+      "maxSeen": 100,
+      "importedFromPlayers": 54,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "convoke swarm",
+      "stendhalId": "pp_convoke_swarm",
+      "maxSeen": 100,
+      "importedFromPlayers": 54,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "counter",
+      "stendhalId": "pp_counter",
+      "maxSeen": 100,
+      "importedFromPlayers": 243,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "create anvil",
+      "stendhalId": "pp_create_anvil",
+      "maxSeen": 100,
+      "importedFromPlayers": 46,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "create barrel",
+      "stendhalId": "pp_create_barrel",
+      "maxSeen": 100,
+      "importedFromPlayers": 46,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "create flame",
+      "stendhalId": "pp_create_flame",
+      "maxSeen": 100,
+      "importedFromPlayers": 46,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "create food",
+      "stendhalId": "pp_create_food",
+      "maxSeen": 100,
+      "importedFromPlayers": 91,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "create furnace",
+      "stendhalId": "pp_create_furnace",
+      "maxSeen": 100,
+      "importedFromPlayers": 46,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "create grinder",
+      "stendhalId": "pp_create_grinder",
+      "maxSeen": 100,
+      "importedFromPlayers": 46,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "create rose",
+      "stendhalId": "pp_create_rose",
+      "maxSeen": 100,
+      "importedFromPlayers": 52,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "create spring",
+      "stendhalId": "pp_create_spring",
+      "maxSeen": 100,
+      "importedFromPlayers": 91,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "create water",
+      "stendhalId": "pp_create_water",
+      "maxSeen": 100,
+      "importedFromPlayers": 54,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "critical strike",
+      "stendhalId": "pp_critical_strike",
+      "maxSeen": 100,
+      "importedFromPlayers": 169,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "crush",
+      "stendhalId": "pp_crush",
+      "maxSeen": 100,
+      "importedFromPlayers": 17,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "cultural artistry",
+      "stendhalId": "pp_cultural_artistry",
+      "maxSeen": 100,
+      "importedFromPlayers": 46,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "cure blindness",
+      "stendhalId": "pp_cure_blindness",
+      "maxSeen": 100,
+      "importedFromPlayers": 54,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "cure critical",
+      "stendhalId": "pp_cure_critical",
+      "maxSeen": 100,
+      "importedFromPlayers": 54,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "cure deafness",
+      "stendhalId": "pp_cure_deafness",
+      "maxSeen": 100,
+      "importedFromPlayers": 54,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "cure disease",
+      "stendhalId": "pp_cure_disease",
+      "maxSeen": 100,
+      "importedFromPlayers": 54,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "cure light",
+      "stendhalId": "pp_cure_light",
+      "maxSeen": 100,
+      "importedFromPlayers": 54,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "cure poison",
+      "stendhalId": "pp_cure_poison",
+      "maxSeen": 100,
+      "importedFromPlayers": 54,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "cure serious",
+      "stendhalId": "pp_cure_serious",
+      "maxSeen": 100,
+      "importedFromPlayers": 54,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "curse",
+      "stendhalId": "pp_curse",
+      "maxSeen": 100,
+      "importedFromPlayers": 85,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "cutthroat",
+      "stendhalId": "pp_cutthroat",
+      "maxSeen": 100,
+      "importedFromPlayers": 46,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "dagger",
+      "stendhalId": "pp_dagger",
+      "maxSeen": 100,
+      "importedFromPlayers": 363,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "dancing strike",
+      "stendhalId": "pp_dancing_strike",
+      "maxSeen": 100,
+      "importedFromPlayers": 39,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "dargonesti tongue",
+      "stendhalId": "pp_dargonesti_tongue",
+      "maxSeen": 100,
+      "importedFromPlayers": 174,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "dark taint",
+      "stendhalId": "pp_dark_taint",
+      "maxSeen": 100,
+      "importedFromPlayers": 72,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "darkness",
+      "stendhalId": "pp_darkness",
+      "maxSeen": 100,
+      "importedFromPlayers": 36,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "deadeye",
+      "stendhalId": "pp_deadeye",
+      "maxSeen": 100,
+      "importedFromPlayers": 48,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "deafness",
+      "stendhalId": "pp_deafness",
+      "maxSeen": 100,
+      "importedFromPlayers": 78,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "deathblade",
+      "stendhalId": "pp_deathblade",
+      "maxSeen": 100,
+      "importedFromPlayers": 46,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "deathgrip",
+      "stendhalId": "pp_deathgrip",
+      "maxSeen": 100,
+      "importedFromPlayers": 173,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "delusions of grandeur",
+      "stendhalId": "pp_delusions_of_grandeur",
+      "maxSeen": 100,
+      "importedFromPlayers": 36,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "demand",
+      "stendhalId": "pp_demand",
+      "maxSeen": 100,
+      "importedFromPlayers": 115,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "demonfire",
+      "stendhalId": "pp_demonfire",
+      "maxSeen": 100,
+      "importedFromPlayers": 85,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "detect evil",
+      "stendhalId": "pp_detect_evil",
+      "maxSeen": 100,
+      "importedFromPlayers": 54,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "detect good",
+      "stendhalId": "pp_detect_good",
+      "maxSeen": 100,
+      "importedFromPlayers": 199,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "detect hidden",
+      "stendhalId": "pp_detect_hidden",
+      "maxSeen": 100,
+      "importedFromPlayers": 109,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "detect invis",
+      "stendhalId": "pp_detect_invis",
+      "maxSeen": 100,
+      "importedFromPlayers": 168,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "detect magic",
+      "stendhalId": "pp_detect_magic",
+      "maxSeen": 100,
+      "importedFromPlayers": 162,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "detect poison",
+      "stendhalId": "pp_detect_poison",
+      "maxSeen": 100,
+      "importedFromPlayers": 260,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "detect presence",
+      "stendhalId": "pp_detect_presence",
+      "maxSeen": 100,
+      "importedFromPlayers": 154,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "dimensional door",
+      "stendhalId": "pp_dimensional_door",
+      "maxSeen": 100,
+      "importedFromPlayers": 54,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "dimernesti tongue",
+      "stendhalId": "pp_dimernesti_tongue",
+      "maxSeen": 100,
+      "importedFromPlayers": 170,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "dirt kicking",
+      "stendhalId": "pp_dirt_kicking",
+      "maxSeen": 100,
+      "importedFromPlayers": 237,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "disarm",
+      "stendhalId": "pp_disarm",
+      "maxSeen": 100,
+      "importedFromPlayers": 283,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "disarm traps",
+      "stendhalId": "pp_disarm_traps",
+      "maxSeen": 100,
+      "importedFromPlayers": 80,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "disguise",
+      "stendhalId": "pp_disguise",
+      "maxSeen": 100,
+      "importedFromPlayers": 49,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "disintegrate",
+      "stendhalId": "pp_disintegrate",
+      "maxSeen": 100,
+      "importedFromPlayers": 48,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "dismantle",
+      "stendhalId": "pp_dismantle",
+      "maxSeen": 100,
+      "importedFromPlayers": 46,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "dispel evil",
+      "stendhalId": "pp_dispel_evil",
+      "maxSeen": 100,
+      "importedFromPlayers": 54,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "dispel good",
+      "stendhalId": "pp_dispel_good",
+      "maxSeen": 100,
+      "importedFromPlayers": 54,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "dispel magic",
+      "stendhalId": "pp_dispel_magic",
+      "maxSeen": 100,
+      "importedFromPlayers": 221,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "displacement",
+      "stendhalId": "pp_displacement",
+      "maxSeen": 100,
+      "importedFromPlayers": 36,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "divine favor",
+      "stendhalId": "pp_divine_favor",
+      "maxSeen": 100,
+      "importedFromPlayers": 17,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "dodge",
+      "stendhalId": "pp_dodge",
+      "maxSeen": 100,
+      "importedFromPlayers": 452,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "doppelganger",
+      "stendhalId": "pp_doppelganger",
+      "maxSeen": 100,
+      "importedFromPlayers": 36,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "draconian tongue",
+      "stendhalId": "pp_draconian_tongue",
+      "maxSeen": 100,
+      "importedFromPlayers": 198,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "dragon skin",
+      "stendhalId": "pp_dragon_skin",
+      "maxSeen": 100,
+      "importedFromPlayers": 36,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "drain blood",
+      "stendhalId": "pp_drain_blood",
+      "maxSeen": 100,
+      "importedFromPlayers": 72,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "drain rune",
+      "stendhalId": "pp_drain_rune",
+      "maxSeen": 100,
+      "importedFromPlayers": 48,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "drow tongue",
+      "stendhalId": "pp_drow_tongue",
+      "maxSeen": 100,
+      "importedFromPlayers": 183,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "druidstaff",
+      "stendhalId": "pp_druidstaff",
+      "maxSeen": 100,
+      "importedFromPlayers": 33,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "dual wield",
+      "stendhalId": "pp_dual_wield",
+      "maxSeen": 100,
+      "importedFromPlayers": 243,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "dwarven tongue",
+      "stendhalId": "pp_dwarven_tongue",
+      "maxSeen": 100,
+      "importedFromPlayers": 181,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "eagle eye",
+      "stendhalId": "pp_eagle_eye",
+      "maxSeen": 100,
+      "importedFromPlayers": 45,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "earpunch",
+      "stendhalId": "pp_earpunch",
+      "maxSeen": 100,
+      "importedFromPlayers": 88,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "earthmeld",
+      "stendhalId": "pp_earthmeld",
+      "maxSeen": 100,
+      "importedFromPlayers": 33,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "earthquake",
+      "stendhalId": "pp_earthquake",
+      "maxSeen": 100,
+      "importedFromPlayers": 88,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "eavesdrop",
+      "stendhalId": "pp_eavesdrop",
+      "maxSeen": 100,
+      "importedFromPlayers": 89,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "elven tongue",
+      "stendhalId": "pp_elven_tongue",
+      "maxSeen": 100,
+      "importedFromPlayers": 313,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "empowerment",
+      "stendhalId": "pp_empowerment",
+      "maxSeen": 100,
+      "importedFromPlayers": 62,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "enchant armor",
+      "stendhalId": "pp_enchant_armor",
+      "maxSeen": 100,
+      "importedFromPlayers": 51,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "enchant weapon",
+      "stendhalId": "pp_enchant_weapon",
+      "maxSeen": 100,
+      "importedFromPlayers": 75,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "endure",
+      "stendhalId": "pp_endure",
+      "maxSeen": 100,
+      "importedFromPlayers": 189,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "endure disease",
+      "stendhalId": "pp_endure_disease",
+      "maxSeen": 100,
+      "importedFromPlayers": 119,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "energy drain",
+      "stendhalId": "pp_energy_drain",
+      "maxSeen": 100,
+      "importedFromPlayers": 85,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "enervation",
+      "stendhalId": "pp_enervation",
+      "maxSeen": 100,
+      "importedFromPlayers": 48,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "enhanced damage",
+      "stendhalId": "pp_enhanced_damage",
+      "maxSeen": 100,
+      "importedFromPlayers": 452,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "enlarge",
+      "stendhalId": "pp_enlarge",
+      "maxSeen": 100,
+      "importedFromPlayers": 62,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "enlightenment",
+      "stendhalId": "pp_enlightenment",
+      "maxSeen": 100,
+      "importedFromPlayers": 54,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "entangle",
+      "stendhalId": "pp_entangle",
+      "maxSeen": 100,
+      "importedFromPlayers": 33,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "entwine",
+      "stendhalId": "pp_entwine",
+      "maxSeen": 100,
+      "importedFromPlayers": 39,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "envenom",
+      "stendhalId": "pp_envenom",
+      "maxSeen": 100,
+      "importedFromPlayers": 257,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "ethereal warrior",
+      "stendhalId": "pp_ethereal_warrior",
+      "maxSeen": 100,
+      "importedFromPlayers": 36,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "evade",
+      "stendhalId": "pp_evade",
+      "maxSeen": 100,
+      "importedFromPlayers": 73,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "evade spell",
+      "stendhalId": "pp_evade_spell",
+      "maxSeen": 100,
+      "importedFromPlayers": 49,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "eversharp",
+      "stendhalId": "pp_eversharp",
+      "maxSeen": 100,
+      "importedFromPlayers": 46,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "execute",
+      "stendhalId": "pp_execute",
+      "maxSeen": 100,
+      "importedFromPlayers": 39,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "eyerub",
+      "stendhalId": "pp_eyerub",
+      "maxSeen": 100,
+      "importedFromPlayers": 481,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "farsight",
+      "stendhalId": "pp_farsight",
+      "maxSeen": 100,
+      "importedFromPlayers": 71,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "fast healing",
+      "stendhalId": "pp_fast_healing",
+      "maxSeen": 100,
+      "importedFromPlayers": 481,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "fast working",
+      "stendhalId": "pp_fast_working",
+      "maxSeen": 100,
+      "importedFromPlayers": 46,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "fear",
+      "stendhalId": "pp_fear",
+      "maxSeen": 100,
+      "importedFromPlayers": 48,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "feeblemind",
+      "stendhalId": "pp_feeblemind",
+      "maxSeen": 100,
+      "importedFromPlayers": 51,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "finger break",
+      "stendhalId": "pp_finger_break",
+      "maxSeen": 100,
+      "importedFromPlayers": 140,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "fire breath",
+      "stendhalId": "pp_fire_breath",
+      "maxSeen": 100,
+      "importedFromPlayers": 73,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "fireball",
+      "stendhalId": "pp_fireball",
+      "maxSeen": 100,
+      "importedFromPlayers": 60,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "fireproof",
+      "stendhalId": "pp_fireproof",
+      "maxSeen": 100,
+      "importedFromPlayers": 70,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "fireseed",
+      "stendhalId": "pp_fireseed",
+      "maxSeen": 100,
+      "importedFromPlayers": 33,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "firestorm",
+      "stendhalId": "pp_firestorm",
+      "maxSeen": 100,
+      "importedFromPlayers": 54,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "firetongue",
+      "stendhalId": "pp_firetongue",
+      "maxSeen": 100,
+      "importedFromPlayers": 28,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "flail",
+      "stendhalId": "pp_flail",
+      "maxSeen": 100,
+      "importedFromPlayers": 248,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "flame rune",
+      "stendhalId": "pp_flame_rune",
+      "maxSeen": 100,
+      "importedFromPlayers": 51,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "flameblade",
+      "stendhalId": "pp_flameblade",
+      "maxSeen": 100,
+      "importedFromPlayers": 46,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "flamestrike",
+      "stendhalId": "pp_flamestrike",
+      "maxSeen": 100,
+      "importedFromPlayers": 88,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "flaming shield",
+      "stendhalId": "pp_flaming_shield",
+      "maxSeen": 100,
+      "importedFromPlayers": 51,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "flank attack",
+      "stendhalId": "pp_flank_attack",
+      "maxSeen": 100,
+      "importedFromPlayers": 118,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "flash",
+      "stendhalId": "pp_flash",
+      "maxSeen": 100,
+      "importedFromPlayers": 47,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "flesh to stone",
+      "stendhalId": "pp_flesh_to_stone",
+      "maxSeen": 100,
+      "importedFromPlayers": 51,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "fletching",
+      "stendhalId": "pp_fletching",
+      "maxSeen": 100,
+      "importedFromPlayers": 46,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "flyingswords",
+      "stendhalId": "pp_flyingswords",
+      "maxSeen": 100,
+      "importedFromPlayers": 41,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "forest vision",
+      "stendhalId": "pp_forest_vision",
+      "maxSeen": 100,
+      "importedFromPlayers": 37,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "forgedeath",
+      "stendhalId": "pp_forgedeath",
+      "maxSeen": 100,
+      "importedFromPlayers": 48,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "forget",
+      "stendhalId": "pp_forget",
+      "maxSeen": 100,
+      "importedFromPlayers": 48,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "fourth attack",
+      "stendhalId": "pp_fourth_attack",
+      "maxSeen": 100,
+      "importedFromPlayers": 160,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "frenzy",
+      "stendhalId": "pp_frenzy",
+      "maxSeen": 100,
+      "importedFromPlayers": 160,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "frost breath",
+      "stendhalId": "pp_frost_breath",
+      "maxSeen": 100,
+      "importedFromPlayers": 73,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "frost rune",
+      "stendhalId": "pp_frost_rune",
+      "maxSeen": 100,
+      "importedFromPlayers": 51,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "fumble",
+      "stendhalId": "pp_fumble",
+      "maxSeen": 100,
+      "importedFromPlayers": 51,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "garble",
+      "stendhalId": "pp_garble",
+      "maxSeen": 100,
+      "importedFromPlayers": 51,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "gas breath",
+      "stendhalId": "pp_gas_breath",
+      "maxSeen": 100,
+      "importedFromPlayers": 73,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "gaseous form",
+      "stendhalId": "pp_gaseous_form",
+      "maxSeen": 100,
+      "importedFromPlayers": 32,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "gate",
+      "stendhalId": "pp_gate",
+      "maxSeen": 100,
+      "importedFromPlayers": 118,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "general purpose",
+      "stendhalId": "pp_general_purpose",
+      "maxSeen": 100,
+      "importedFromPlayers": 17,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "giant strength",
+      "stendhalId": "pp_giant_strength",
+      "maxSeen": 100,
+      "importedFromPlayers": 86,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "gift",
+      "stendhalId": "pp_gift",
+      "maxSeen": 100,
+      "importedFromPlayers": 49,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "glamour",
+      "stendhalId": "pp_glamour",
+      "maxSeen": 100,
+      "importedFromPlayers": 70,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "glide",
+      "stendhalId": "pp_glide",
+      "maxSeen": 100,
+      "importedFromPlayers": 68,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "glitterdust",
+      "stendhalId": "pp_glitterdust",
+      "maxSeen": 100,
+      "importedFromPlayers": 54,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "god fire",
+      "stendhalId": "pp_god_fire",
+      "maxSeen": 100,
+      "importedFromPlayers": 54,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "goodberry",
+      "stendhalId": "pp_goodberry",
+      "maxSeen": 100,
+      "importedFromPlayers": 33,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "grasping roots",
+      "stendhalId": "pp_grasping_roots",
+      "maxSeen": 100,
+      "importedFromPlayers": 37,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "gravity flux",
+      "stendhalId": "pp_gravity_flux",
+      "maxSeen": 100,
+      "importedFromPlayers": 51,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "great wasting",
+      "stendhalId": "pp_great_wasting",
+      "maxSeen": 100,
+      "importedFromPlayers": 48,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "guard",
+      "stendhalId": "pp_guard",
+      "maxSeen": 100,
+      "importedFromPlayers": 160,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "gust of wind",
+      "stendhalId": "pp_gust_of_wind",
+      "maxSeen": 100,
+      "importedFromPlayers": 54,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "haggle",
+      "stendhalId": "pp_haggle",
+      "maxSeen": 100,
+      "importedFromPlayers": 250,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "hand to hand",
+      "stendhalId": "pp_hand_to_hand",
+      "maxSeen": 100,
+      "importedFromPlayers": 349,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "harm",
+      "stendhalId": "pp_harm",
+      "maxSeen": 100,
+      "importedFromPlayers": 85,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "haste",
+      "stendhalId": "pp_haste",
+      "maxSeen": 100,
+      "importedFromPlayers": 91,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "headbutt",
+      "stendhalId": "pp_headbutt",
+      "maxSeen": 100,
+      "importedFromPlayers": 88,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "heal",
+      "stendhalId": "pp_heal",
+      "maxSeen": 100,
+      "importedFromPlayers": 54,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "heat metal",
+      "stendhalId": "pp_heat_metal",
+      "maxSeen": 100,
+      "importedFromPlayers": 51,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "herbal discern",
+      "stendhalId": "pp_herbal_discern",
+      "maxSeen": 100,
+      "importedFromPlayers": 53,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "heroic demise",
+      "stendhalId": "pp_heroic_demise",
+      "maxSeen": 100,
+      "importedFromPlayers": 142,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "hide",
+      "stendhalId": "pp_hide",
+      "maxSeen": 100,
+      "importedFromPlayers": 137,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "high explosive",
+      "stendhalId": "pp_high_explosive",
+      "maxSeen": 100,
+      "importedFromPlayers": 17,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "holy word",
+      "stendhalId": "pp_holy_word",
+      "maxSeen": 100,
+      "importedFromPlayers": 54,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "horrid wilting",
+      "stendhalId": "pp_horrid_wilting",
+      "maxSeen": 100,
+      "importedFromPlayers": 48,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "hunt",
+      "stendhalId": "pp_hunt",
+      "maxSeen": 100,
+      "importedFromPlayers": 17,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "hypnotic pattern",
+      "stendhalId": "pp_hypnotic_pattern",
+      "maxSeen": 100,
+      "importedFromPlayers": 36,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "ice shield",
+      "stendhalId": "pp_ice_shield",
+      "maxSeen": 100,
+      "importedFromPlayers": 17,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "iceblast",
+      "stendhalId": "pp_iceblast",
+      "maxSeen": 100,
+      "importedFromPlayers": 78,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "identify",
+      "stendhalId": "pp_identify",
+      "maxSeen": 100,
+      "importedFromPlayers": 68,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "illusion",
+      "stendhalId": "pp_illusion",
+      "maxSeen": 100,
+      "importedFromPlayers": 36,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "immolation",
+      "stendhalId": "pp_immolation",
+      "maxSeen": 100,
+      "importedFromPlayers": 33,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "impale",
+      "stendhalId": "pp_impale",
+      "maxSeen": 100,
+      "importedFromPlayers": 66,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "incendiary cloud",
+      "stendhalId": "pp_incendiary_cloud",
+      "maxSeen": 100,
+      "importedFromPlayers": 65,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "infravision",
+      "stendhalId": "pp_infravision",
+      "maxSeen": 100,
+      "importedFromPlayers": 234,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "instruct",
+      "stendhalId": "pp_instruct",
+      "maxSeen": 100,
+      "importedFromPlayers": 480,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "intensify death",
+      "stendhalId": "pp_intensify_death",
+      "maxSeen": 100,
+      "importedFromPlayers": 57,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "invigorate",
+      "stendhalId": "pp_invigorate",
+      "maxSeen": 100,
+      "importedFromPlayers": 54,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "invisibility",
+      "stendhalId": "pp_invisibility",
+      "maxSeen": 100,
+      "importedFromPlayers": 173,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "invul",
+      "stendhalId": "pp_invul",
+      "maxSeen": 100,
+      "importedFromPlayers": 17,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "jab",
+      "stendhalId": "pp_jab",
+      "maxSeen": 100,
+      "importedFromPlayers": 154,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "joust",
+      "stendhalId": "pp_joust",
+      "maxSeen": 100,
+      "importedFromPlayers": 142,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "kagonesti tongue",
+      "stendhalId": "pp_kagonesti_tongue",
+      "maxSeen": 100,
+      "importedFromPlayers": 201,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "kender tongue",
+      "stendhalId": "pp_kender_tongue",
+      "maxSeen": 100,
+      "importedFromPlayers": 182,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "key origin",
+      "stendhalId": "pp_key_origin",
+      "maxSeen": 100,
+      "importedFromPlayers": 46,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "kick",
+      "stendhalId": "pp_kick",
+      "maxSeen": 100,
+      "importedFromPlayers": 283,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "knock",
+      "stendhalId": "pp_knock",
+      "maxSeen": 100,
+      "importedFromPlayers": 162,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "know alignment",
+      "stendhalId": "pp_know_alignment",
+      "maxSeen": 100,
+      "importedFromPlayers": 199,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "leather repair",
+      "stendhalId": "pp_leather_repair",
+      "maxSeen": 100,
+      "importedFromPlayers": 46,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "levitate",
+      "stendhalId": "pp_levitate",
+      "maxSeen": 100,
+      "importedFromPlayers": 86,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "life transfer",
+      "stendhalId": "pp_life_transfer",
+      "maxSeen": 100,
+      "importedFromPlayers": 191,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "lightning breath",
+      "stendhalId": "pp_lightning_breath",
+      "maxSeen": 100,
+      "importedFromPlayers": 73,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "locate object",
+      "stendhalId": "pp_locate_object",
+      "maxSeen": 100,
+      "importedFromPlayers": 51,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "lock",
+      "stendhalId": "pp_lock",
+      "maxSeen": 100,
+      "importedFromPlayers": 172,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "looking glass",
+      "stendhalId": "pp_looking_glass",
+      "maxSeen": 100,
+      "importedFromPlayers": 36,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "lore",
+      "stendhalId": "pp_lore",
+      "maxSeen": 100,
+      "importedFromPlayers": 217,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "luck",
+      "stendhalId": "pp_luck",
+      "maxSeen": 100,
+      "importedFromPlayers": 28,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "lull",
+      "stendhalId": "pp_lull",
+      "maxSeen": 100,
+      "importedFromPlayers": 39,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "lunge",
+      "stendhalId": "pp_lunge",
+      "maxSeen": 100,
+      "importedFromPlayers": 118,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "mace",
+      "stendhalId": "pp_mace",
+      "maxSeen": 100,
+      "importedFromPlayers": 272,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "magic missile",
+      "stendhalId": "pp_magic_missile",
+      "maxSeen": 100,
+      "importedFromPlayers": 173,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "mark of origin",
+      "stendhalId": "pp_mark_of_origin",
+      "maxSeen": 100,
+      "importedFromPlayers": 137,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "mass healing",
+      "stendhalId": "pp_mass_healing",
+      "maxSeen": 100,
+      "importedFromPlayers": 54,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "mass invis",
+      "stendhalId": "pp_mass_invis",
+      "maxSeen": 100,
+      "importedFromPlayers": 36,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "masterwork",
+      "stendhalId": "pp_masterwork",
+      "maxSeen": 100,
+      "importedFromPlayers": 47,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "meditation",
+      "stendhalId": "pp_meditation",
+      "maxSeen": 100,
+      "importedFromPlayers": 262,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "mend",
+      "stendhalId": "pp_mend",
+      "maxSeen": 100,
+      "importedFromPlayers": 46,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "mind shatter",
+      "stendhalId": "pp_mind_shatter",
+      "maxSeen": 100,
+      "importedFromPlayers": 62,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "minotaur tongue",
+      "stendhalId": "pp_minotaur_tongue",
+      "maxSeen": 100,
+      "importedFromPlayers": 189,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "mirror",
+      "stendhalId": "pp_mirror",
+      "maxSeen": 100,
+      "importedFromPlayers": 36,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "mooncloak",
+      "stendhalId": "pp_mooncloak",
+      "maxSeen": 100,
+      "importedFromPlayers": 54,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "mount",
+      "stendhalId": "pp_mount",
+      "maxSeen": 100,
+      "importedFromPlayers": 481,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "mounted combat",
+      "stendhalId": "pp_mounted_combat",
+      "maxSeen": 100,
+      "importedFromPlayers": 184,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "mountjack",
+      "stendhalId": "pp_mountjack",
+      "maxSeen": 100,
+      "importedFromPlayers": 60,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "natures embrace",
+      "stendhalId": "pp_natures_embrace",
+      "maxSeen": 100,
+      "importedFromPlayers": 33,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "natures warmth",
+      "stendhalId": "pp_natures_warmth",
+      "maxSeen": 100,
+      "importedFromPlayers": 33,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "nerve pinch",
+      "stendhalId": "pp_nerve_pinch",
+      "maxSeen": 100,
+      "importedFromPlayers": 140,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "nexus",
+      "stendhalId": "pp_nexus",
+      "maxSeen": 100,
+      "importedFromPlayers": 54,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "nightmare",
+      "stendhalId": "pp_nightmare",
+      "maxSeen": 100,
+      "importedFromPlayers": 48,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "ogre tongue",
+      "stendhalId": "pp_ogre_tongue",
+      "maxSeen": 100,
+      "importedFromPlayers": 181,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "orb of containment",
+      "stendhalId": "pp_orb_of_containment",
+      "maxSeen": 100,
+      "importedFromPlayers": 235,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "pacify",
+      "stendhalId": "pp_pacify",
+      "maxSeen": 100,
+      "importedFromPlayers": 39,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "paralysis",
+      "stendhalId": "pp_paralysis",
+      "maxSeen": 100,
+      "importedFromPlayers": 48,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "pardon",
+      "stendhalId": "pp_pardon",
+      "maxSeen": 100,
+      "importedFromPlayers": 30,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "parry",
+      "stendhalId": "pp_parry",
+      "maxSeen": 100,
+      "importedFromPlayers": 391,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "pass door",
+      "stendhalId": "pp_pass_door",
+      "maxSeen": 100,
+      "importedFromPlayers": 51,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "pass without trace",
+      "stendhalId": "pp_pass_without_trace",
+      "maxSeen": 100,
+      "importedFromPlayers": 33,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "peek",
+      "stendhalId": "pp_peek",
+      "maxSeen": 100,
+      "importedFromPlayers": 78,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "phantom armor",
+      "stendhalId": "pp_phantom_armor",
+      "maxSeen": 100,
+      "importedFromPlayers": 36,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "pick lock",
+      "stendhalId": "pp_pick_lock",
+      "maxSeen": 100,
+      "importedFromPlayers": 106,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "pickpocket",
+      "stendhalId": "pp_pickpocket",
+      "maxSeen": 100,
+      "importedFromPlayers": 49,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "pillify",
+      "stendhalId": "pp_pillify",
+      "maxSeen": 100,
+      "importedFromPlayers": 70,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "pine needles",
+      "stendhalId": "pp_pine_needles",
+      "maxSeen": 100,
+      "importedFromPlayers": 33,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "pivot block",
+      "stendhalId": "pp_pivot_block",
+      "maxSeen": 100,
+      "importedFromPlayers": 59,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "plague",
+      "stendhalId": "pp_plague",
+      "maxSeen": 100,
+      "importedFromPlayers": 85,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "plant growth",
+      "stendhalId": "pp_plant_growth",
+      "maxSeen": 100,
+      "importedFromPlayers": 33,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "plate repair",
+      "stendhalId": "pp_plate_repair",
+      "maxSeen": 100,
+      "importedFromPlayers": 46,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "play music",
+      "stendhalId": "pp_play_music",
+      "maxSeen": 100,
+      "importedFromPlayers": 39,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "point-blank shot",
+      "stendhalId": "pp_point_blank_shot",
+      "maxSeen": 100,
+      "importedFromPlayers": 37,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "poison",
+      "stendhalId": "pp_poison",
+      "maxSeen": 100,
+      "importedFromPlayers": 48,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "polearm",
+      "stendhalId": "pp_polearm",
+      "maxSeen": 100,
+      "importedFromPlayers": 235,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "polish",
+      "stendhalId": "pp_polish",
+      "maxSeen": 100,
+      "importedFromPlayers": 69,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "preach",
+      "stendhalId": "pp_preach",
+      "maxSeen": 100,
+      "importedFromPlayers": 54,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "preservation",
+      "stendhalId": "pp_preservation",
+      "maxSeen": 100,
+      "importedFromPlayers": 48,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "preserve dead",
+      "stendhalId": "pp_preserve_dead",
+      "maxSeen": 100,
+      "importedFromPlayers": 48,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "protection evil",
+      "stendhalId": "pp_protection_evil",
+      "maxSeen": 100,
+      "importedFromPlayers": 196,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "protection good",
+      "stendhalId": "pp_protection_good",
+      "maxSeen": 100,
+      "importedFromPlayers": 48,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "pry",
+      "stendhalId": "pp_pry",
+      "maxSeen": 100,
+      "importedFromPlayers": 17,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "purify",
+      "stendhalId": "pp_purify",
+      "maxSeen": 100,
+      "importedFromPlayers": 70,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "purifying fire",
+      "stendhalId": "pp_purifying_fire",
+      "maxSeen": 100,
+      "importedFromPlayers": 46,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "qualinesti tongue",
+      "stendhalId": "pp_qualinesti_tongue",
+      "maxSeen": 100,
+      "importedFromPlayers": 242,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "quench",
+      "stendhalId": "pp_quench",
+      "maxSeen": 100,
+      "importedFromPlayers": 54,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "quicksand",
+      "stendhalId": "pp_quicksand",
+      "maxSeen": 100,
+      "importedFromPlayers": 33,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "quiet movement",
+      "stendhalId": "pp_quiet_movement",
+      "maxSeen": 100,
+      "importedFromPlayers": 58,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "rabbit summon",
+      "stendhalId": "pp_rabbit_summon",
+      "maxSeen": 100,
+      "importedFromPlayers": 54,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "rainbow pattern",
+      "stendhalId": "pp_rainbow_pattern",
+      "maxSeen": 100,
+      "importedFromPlayers": 36,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "rally",
+      "stendhalId": "pp_rally",
+      "maxSeen": 100,
+      "importedFromPlayers": 39,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "ravage bite",
+      "stendhalId": "pp_ravage_bite",
+      "maxSeen": 100,
+      "importedFromPlayers": 39,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "ray of fatigue",
+      "stendhalId": "pp_ray_of_fatigue",
+      "maxSeen": 100,
+      "importedFromPlayers": 48,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "ray of truth",
+      "stendhalId": "pp_ray_of_truth",
+      "maxSeen": 100,
+      "importedFromPlayers": 54,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "recall",
+      "stendhalId": "pp_recall",
+      "maxSeen": 100,
+      "importedFromPlayers": 482,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "recharge",
+      "stendhalId": "pp_recharge",
+      "maxSeen": 100,
+      "importedFromPlayers": 88,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "redirect",
+      "stendhalId": "pp_redirect",
+      "maxSeen": 100,
+      "importedFromPlayers": 39,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "refresh",
+      "stendhalId": "pp_refresh",
+      "maxSeen": 100,
+      "importedFromPlayers": 144,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "regeneration",
+      "stendhalId": "pp_regeneration",
+      "maxSeen": 100,
+      "importedFromPlayers": 54,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "relegate",
+      "stendhalId": "pp_relegate",
+      "maxSeen": 100,
+      "importedFromPlayers": 54,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "remove curse",
+      "stendhalId": "pp_remove_curse",
+      "maxSeen": 100,
+      "importedFromPlayers": 54,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "remove paralysis",
+      "stendhalId": "pp_remove_paralysis",
+      "maxSeen": 100,
+      "importedFromPlayers": 85,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "renew bones",
+      "stendhalId": "pp_renew_bones",
+      "maxSeen": 100,
+      "importedFromPlayers": 48,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "repair shield",
+      "stendhalId": "pp_repair_shield",
+      "maxSeen": 100,
+      "importedFromPlayers": 46,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "repulsion",
+      "stendhalId": "pp_repulsion",
+      "maxSeen": 100,
+      "importedFromPlayers": 54,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "rescue",
+      "stendhalId": "pp_rescue",
+      "maxSeen": 100,
+      "importedFromPlayers": 118,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "reserved",
+      "stendhalId": "pp_reserved",
+      "maxSeen": 100,
+      "importedFromPlayers": 17,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "resist cold",
+      "stendhalId": "pp_resist_cold",
+      "maxSeen": 100,
+      "importedFromPlayers": 48,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "riposte",
+      "stendhalId": "pp_riposte",
+      "maxSeen": 100,
+      "importedFromPlayers": 59,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "runeblade",
+      "stendhalId": "pp_runeblade",
+      "maxSeen": 100,
+      "importedFromPlayers": 46,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "rupture organ",
+      "stendhalId": "pp_rupture_organ",
+      "maxSeen": 100,
+      "importedFromPlayers": 39,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "salvation",
+      "stendhalId": "pp_salvation",
+      "maxSeen": 100,
+      "importedFromPlayers": 26,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "sanctuary",
+      "stendhalId": "pp_sanctuary",
+      "maxSeen": 100,
+      "importedFromPlayers": 54,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "sate",
+      "stendhalId": "pp_sate",
+      "maxSeen": 100,
+      "importedFromPlayers": 54,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "scout",
+      "stendhalId": "pp_scout",
+      "maxSeen": 100,
+      "importedFromPlayers": 125,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "scribe",
+      "stendhalId": "pp_scribe",
+      "maxSeen": 100,
+      "importedFromPlayers": 215,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "scrolls",
+      "stendhalId": "pp_scrolls",
+      "maxSeen": 100,
+      "importedFromPlayers": 250,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "scrye",
+      "stendhalId": "pp_scrye",
+      "maxSeen": 100,
+      "importedFromPlayers": 36,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "seal door",
+      "stendhalId": "pp_seal_door",
+      "maxSeen": 100,
+      "importedFromPlayers": 101,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "search water",
+      "stendhalId": "pp_search_water",
+      "maxSeen": 100,
+      "importedFromPlayers": 37,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "second attack",
+      "stendhalId": "pp_second_attack",
+      "maxSeen": 100,
+      "importedFromPlayers": 452,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "second backstab",
+      "stendhalId": "pp_second_backstab",
+      "maxSeen": 100,
+      "importedFromPlayers": 78,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "sequester",
+      "stendhalId": "pp_sequester",
+      "maxSeen": 100,
+      "importedFromPlayers": 36,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "serenade",
+      "stendhalId": "pp_serenade",
+      "maxSeen": 100,
+      "importedFromPlayers": 39,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "set traps",
+      "stendhalId": "pp_set_traps",
+      "maxSeen": 100,
+      "importedFromPlayers": 37,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "shackles",
+      "stendhalId": "pp_shackles",
+      "maxSeen": 100,
+      "importedFromPlayers": 17,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "shadow walk",
+      "stendhalId": "pp_shadow_walk",
+      "maxSeen": 100,
+      "importedFromPlayers": 48,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "shallow breath",
+      "stendhalId": "pp_shallow_breath",
+      "maxSeen": 100,
+      "importedFromPlayers": 51,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "sharpen",
+      "stendhalId": "pp_sharpen",
+      "maxSeen": 100,
+      "importedFromPlayers": 111,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "shatter shield",
+      "stendhalId": "pp_shatter_shield",
+      "maxSeen": 100,
+      "importedFromPlayers": 179,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "shield",
+      "stendhalId": "pp_shield",
+      "maxSeen": 100,
+      "importedFromPlayers": 47,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "shield block",
+      "stendhalId": "pp_shield_block",
+      "maxSeen": 100,
+      "importedFromPlayers": 283,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "shield rush",
+      "stendhalId": "pp_shield_rush",
+      "maxSeen": 100,
+      "importedFromPlayers": 39,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "shifting shadows",
+      "stendhalId": "pp_shifting_shadows",
+      "maxSeen": 100,
+      "importedFromPlayers": 36,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "shocking grasp",
+      "stendhalId": "pp_shocking_grasp",
+      "maxSeen": 100,
+      "importedFromPlayers": 60,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "shocking rune",
+      "stendhalId": "pp_shocking_rune",
+      "maxSeen": 100,
+      "importedFromPlayers": 51,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "shrink",
+      "stendhalId": "pp_shrink",
+      "maxSeen": 100,
+      "importedFromPlayers": 75,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "sidestep",
+      "stendhalId": "pp_sidestep",
+      "maxSeen": 100,
+      "importedFromPlayers": 39,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "silence",
+      "stendhalId": "pp_silence",
+      "maxSeen": 100,
+      "importedFromPlayers": 73,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "silvanesti tongue",
+      "stendhalId": "pp_silvanesti_tongue",
+      "maxSeen": 100,
+      "importedFromPlayers": 266,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "singing",
+      "stendhalId": "pp_singing",
+      "maxSeen": 100,
+      "importedFromPlayers": 39,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "sleep",
+      "stendhalId": "pp_sleep",
+      "maxSeen": 100,
+      "importedFromPlayers": 51,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "sleepless curse",
+      "stendhalId": "pp_sleepless_curse",
+      "maxSeen": 100,
+      "importedFromPlayers": 51,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "slow",
+      "stendhalId": "pp_slow",
+      "maxSeen": 100,
+      "importedFromPlayers": 51,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "smith",
+      "stendhalId": "pp_smith",
+      "maxSeen": 100,
+      "importedFromPlayers": 47,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "smother",
+      "stendhalId": "pp_smother",
+      "maxSeen": 100,
+      "importedFromPlayers": 162,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "sneak",
+      "stendhalId": "pp_sneak",
+      "maxSeen": 100,
+      "importedFromPlayers": 151,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "solamnic tongue",
+      "stendhalId": "pp_solamnic_tongue",
+      "maxSeen": 100,
+      "importedFromPlayers": 30,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "sparkshot",
+      "stendhalId": "pp_sparkshot",
+      "maxSeen": 100,
+      "importedFromPlayers": 33,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "spear",
+      "stendhalId": "pp_spear",
+      "maxSeen": 100,
+      "importedFromPlayers": 240,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "spiritual hammer",
+      "stendhalId": "pp_spiritual_hammer",
+      "maxSeen": 100,
+      "importedFromPlayers": 54,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "spook",
+      "stendhalId": "pp_spook",
+      "maxSeen": 100,
+      "importedFromPlayers": 36,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "squire call",
+      "stendhalId": "pp_squire_call",
+      "maxSeen": 100,
+      "importedFromPlayers": 17,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "staff",
+      "stendhalId": "pp_staff",
+      "maxSeen": 100,
+      "importedFromPlayers": 452,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "stainless",
+      "stendhalId": "pp_stainless",
+      "maxSeen": 100,
+      "importedFromPlayers": 46,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "stalk",
+      "stendhalId": "pp_stalk",
+      "maxSeen": 100,
+      "importedFromPlayers": 46,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "staves",
+      "stendhalId": "pp_staves",
+      "maxSeen": 100,
+      "importedFromPlayers": 199,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "steal",
+      "stendhalId": "pp_steal",
+      "maxSeen": 100,
+      "importedFromPlayers": 60,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "sticks to snakes",
+      "stendhalId": "pp_sticks_to_snakes",
+      "maxSeen": 100,
+      "importedFromPlayers": 33,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "stonespirit",
+      "stendhalId": "pp_stonespirit",
+      "maxSeen": 100,
+      "importedFromPlayers": 33,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "storm of vengeance",
+      "stendhalId": "pp_storm_of_vengeance",
+      "maxSeen": 100,
+      "importedFromPlayers": 70,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "strangle",
+      "stendhalId": "pp_strangle",
+      "maxSeen": 100,
+      "importedFromPlayers": 46,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "strip",
+      "stendhalId": "pp_strip",
+      "maxSeen": 100,
+      "importedFromPlayers": 49,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "subdue",
+      "stendhalId": "pp_subdue",
+      "maxSeen": 100,
+      "importedFromPlayers": 17,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "summon",
+      "stendhalId": "pp_summon",
+      "maxSeen": 100,
+      "importedFromPlayers": 76,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "summon insects",
+      "stendhalId": "pp_summon_insects",
+      "maxSeen": 100,
+      "importedFromPlayers": 33,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "sunbeam",
+      "stendhalId": "pp_sunbeam",
+      "maxSeen": 100,
+      "importedFromPlayers": 54,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "sunray",
+      "stendhalId": "pp_sunray",
+      "maxSeen": 100,
+      "importedFromPlayers": 33,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "surge",
+      "stendhalId": "pp_surge",
+      "maxSeen": 100,
+      "importedFromPlayers": 189,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "sweep attack",
+      "stendhalId": "pp_sweep_attack",
+      "maxSeen": 100,
+      "importedFromPlayers": 57,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "sword",
+      "stendhalId": "pp_sword",
+      "maxSeen": 100,
+      "importedFromPlayers": 278,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "sympathy",
+      "stendhalId": "pp_sympathy",
+      "maxSeen": 100,
+      "importedFromPlayers": 74,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "tail",
+      "stendhalId": "pp_tail",
+      "maxSeen": 100,
+      "importedFromPlayers": 17,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "tame",
+      "stendhalId": "pp_tame",
+      "maxSeen": 100,
+      "importedFromPlayers": 53,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "taunt",
+      "stendhalId": "pp_taunt",
+      "maxSeen": 100,
+      "importedFromPlayers": 184,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "teleport",
+      "stendhalId": "pp_teleport",
+      "maxSeen": 100,
+      "importedFromPlayers": 215,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "thieves cant",
+      "stendhalId": "pp_thieves_cant",
+      "maxSeen": 100,
+      "importedFromPlayers": 22,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "third attack",
+      "stendhalId": "pp_third_attack",
+      "maxSeen": 100,
+      "importedFromPlayers": 245,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "thors hammer",
+      "stendhalId": "pp_thors_hammer",
+      "maxSeen": 100,
+      "importedFromPlayers": 46,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "thunderclap",
+      "stendhalId": "pp_thunderclap",
+      "maxSeen": 100,
+      "importedFromPlayers": 54,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "tonguecut",
+      "stendhalId": "pp_tonguecut",
+      "maxSeen": 100,
+      "importedFromPlayers": 117,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "torment",
+      "stendhalId": "pp_torment",
+      "maxSeen": 100,
+      "importedFromPlayers": 51,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "track",
+      "stendhalId": "pp_track",
+      "maxSeen": 100,
+      "importedFromPlayers": 100,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "traject",
+      "stendhalId": "pp_traject",
+      "maxSeen": 100,
+      "importedFromPlayers": 186,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "trammel",
+      "stendhalId": "pp_trammel",
+      "maxSeen": 100,
+      "importedFromPlayers": 140,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "trance",
+      "stendhalId": "pp_trance",
+      "maxSeen": 100,
+      "importedFromPlayers": 154,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "treeform",
+      "stendhalId": "pp_treeform",
+      "maxSeen": 100,
+      "importedFromPlayers": 33,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "trip",
+      "stendhalId": "pp_trip",
+      "maxSeen": 100,
+      "importedFromPlayers": 283,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "trophy",
+      "stendhalId": "pp_trophy",
+      "maxSeen": 100,
+      "importedFromPlayers": 41,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "truefire",
+      "stendhalId": "pp_truefire",
+      "maxSeen": 100,
+      "importedFromPlayers": 32,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "tumble",
+      "stendhalId": "pp_tumble",
+      "maxSeen": 100,
+      "importedFromPlayers": 100,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "undead disruption",
+      "stendhalId": "pp_undead_disruption",
+      "maxSeen": 100,
+      "importedFromPlayers": 48,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "undetectable align",
+      "stendhalId": "pp_undetectable_align",
+      "maxSeen": 100,
+      "importedFromPlayers": 54,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "unholy armor",
+      "stendhalId": "pp_unholy_armor",
+      "maxSeen": 100,
+      "importedFromPlayers": 42,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "unholyrite",
+      "stendhalId": "pp_unholyrite",
+      "maxSeen": 100,
+      "importedFromPlayers": 72,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "unseal door",
+      "stendhalId": "pp_unseal_door",
+      "maxSeen": 100,
+      "importedFromPlayers": 101,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "unseen servant",
+      "stendhalId": "pp_unseen_servant",
+      "maxSeen": 100,
+      "importedFromPlayers": 54,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "vampiric touch",
+      "stendhalId": "pp_vampiric_touch",
+      "maxSeen": 100,
+      "importedFromPlayers": 48,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "ventriloquate",
+      "stendhalId": "pp_ventriloquate",
+      "maxSeen": 100,
+      "importedFromPlayers": 36,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "vermin plague",
+      "stendhalId": "pp_vermin_plague",
+      "maxSeen": 100,
+      "importedFromPlayers": 33,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "vortex",
+      "stendhalId": "pp_vortex",
+      "maxSeen": 100,
+      "importedFromPlayers": 50,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "wands",
+      "stendhalId": "pp_wands",
+      "maxSeen": 100,
+      "importedFromPlayers": 199,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "warding",
+      "stendhalId": "pp_warding",
+      "maxSeen": 100,
+      "importedFromPlayers": 26,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "waterlungs",
+      "stendhalId": "pp_waterlungs",
+      "maxSeen": 100,
+      "importedFromPlayers": 67,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "weaken",
+      "stendhalId": "pp_weaken",
+      "maxSeen": 100,
+      "importedFromPlayers": 149,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "weapon repair",
+      "stendhalId": "pp_weapon_repair",
+      "maxSeen": 100,
+      "importedFromPlayers": 46,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "wear chain",
+      "stendhalId": "pp_wear_chain",
+      "maxSeen": 100,
+      "importedFromPlayers": 272,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "wear leather",
+      "stendhalId": "pp_wear_leather",
+      "maxSeen": 100,
+      "importedFromPlayers": 360,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "wear plate",
+      "stendhalId": "pp_wear_plate",
+      "maxSeen": 100,
+      "importedFromPlayers": 147,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "wedge",
+      "stendhalId": "pp_wedge",
+      "maxSeen": 100,
+      "importedFromPlayers": 17,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "whip",
+      "stendhalId": "pp_whip",
+      "maxSeen": 100,
+      "importedFromPlayers": 399,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "whirlwind",
+      "stendhalId": "pp_whirlwind",
+      "maxSeen": 100,
+      "importedFromPlayers": 140,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "wilderness lore",
+      "stendhalId": "pp_wilderness_lore",
+      "maxSeen": 100,
+      "importedFromPlayers": 33,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "wind wall",
+      "stendhalId": "pp_wind_wall",
+      "maxSeen": 100,
+      "importedFromPlayers": 54,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "windspirit",
+      "stendhalId": "pp_windspirit",
+      "maxSeen": 100,
+      "importedFromPlayers": 33,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "windtalk",
+      "stendhalId": "pp_windtalk",
+      "maxSeen": 100,
+      "importedFromPlayers": 33,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "word of death",
+      "stendhalId": "pp_word_of_death",
+      "maxSeen": 100,
+      "importedFromPlayers": 48,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "word of recall",
+      "stendhalId": "pp_word_of_recall",
+      "maxSeen": 100,
+      "importedFromPlayers": 210,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "wraithform",
+      "stendhalId": "pp_wraithform",
+      "maxSeen": 100,
+      "importedFromPlayers": 48,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "wrath",
+      "stendhalId": "pp_wrath",
+      "maxSeen": 100,
+      "importedFromPlayers": 54,
+      "status": "todo-map-mechanics"
+    },
+    {
+      "legacyName": "wrath of nature",
+      "stendhalId": "pp_wrath_of_nature",
+      "maxSeen": 100,
+      "importedFromPlayers": 33,
+      "status": "todo-map-mechanics"
+    }
+  ]
+}

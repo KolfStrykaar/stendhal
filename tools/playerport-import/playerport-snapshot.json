@@ -1,0 +1,3357 @@
+{
+  "generatedAt": "2026-02-21T06:54:26.685Z",
+  "source": "/home/jacob/playerport",
+  "counts": {
+    "players": 482,
+    "clans": 11,
+    "gods": 18,
+    "areas": 82,
+    "uniqueSkillsSeenInPlayers": 461
+  },
+  "samplePlayers": [
+    {
+      "name": "Aaden",
+      "skills": 58
+    },
+    {
+      "name": "Adamastor",
+      "skills": 63
+    },
+    {
+      "name": "Adantius",
+      "skills": 62
+    },
+    {
+      "name": "Adrastos",
+      "skills": 115
+    },
+    {
+      "name": "Aegaard",
+      "skills": 64
+    },
+    {
+      "name": "Aelyasia",
+      "skills": 63
+    },
+    {
+      "name": "Aerogos",
+      "skills": 95
+    },
+    {
+      "name": "Aeson",
+      "skills": 50
+    },
+    {
+      "name": "Agoneizar",
+      "skills": 107
+    },
+    {
+      "name": "Agravain",
+      "skills": 64
+    },
+    {
+      "name": "Agro",
+      "skills": 63
+    },
+    {
+      "name": "Akiko",
+      "skills": 65
+    },
+    {
+      "name": "Alastor",
+      "skills": 78
+    },
+    {
+      "name": "Alayloni",
+      "skills": 92
+    },
+    {
+      "name": "Aldrin",
+      "skills": 56
+    },
+    {
+      "name": "Aleksei",
+      "skills": 72
+    },
+    {
+      "name": "Alesia",
+      "skills": 95
+    },
+    {
+      "name": "Alex",
+      "skills": 70
+    },
+    {
+      "name": "Alia",
+      "skills": 95
+    },
+    {
+      "name": "Alisenria",
+      "skills": 101
+    },
+    {
+      "name": "Aliyca",
+      "skills": 65
+    },
+    {
+      "name": "Alken",
+      "skills": 98
+    },
+    {
+      "name": "Allyria",
+      "skills": 105
+    },
+    {
+      "name": "Alyssa",
+      "skills": 92
+    },
+    {
+      "name": "Alyxndria",
+      "skills": 53
+    },
+    {
+      "name": "Amalthea",
+      "skills": 55
+    },
+    {
+      "name": "Amara",
+      "skills": 64
+    },
+    {
+      "name": "Amelia",
+      "skills": 65
+    },
+    {
+      "name": "Amilia",
+      "skills": 105
+    },
+    {
+      "name": "Amlyn",
+      "skills": 83
+    }
+  ],
+  "skills": [
+    {
+      "name": "acid blast",
+      "maxSeen": 100,
+      "count": 173
+    },
+    {
+      "name": "acid breath",
+      "maxSeen": 100,
+      "count": 48
+    },
+    {
+      "name": "acrobatics",
+      "maxSeen": 100,
+      "count": 39
+    },
+    {
+      "name": "aid",
+      "maxSeen": 100,
+      "count": 175
+    },
+    {
+      "name": "alarm",
+      "maxSeen": 100,
+      "count": 65
+    },
+    {
+      "name": "alter reality",
+      "maxSeen": 100,
+      "count": 36
+    },
+    {
+      "name": "ambush",
+      "maxSeen": 100,
+      "count": 37
+    },
+    {
+      "name": "animate corpse",
+      "maxSeen": 100,
+      "count": 57
+    },
+    {
+      "name": "apprehend",
+      "maxSeen": 100,
+      "count": 17
+    },
+    {
+      "name": "armor",
+      "maxSeen": 100,
+      "count": 199
+    },
+    {
+      "name": "arrow deflection",
+      "maxSeen": 100,
+      "count": 221
+    },
+    {
+      "name": "assassinate",
+      "maxSeen": 100,
+      "count": 46
+    },
+    {
+      "name": "attunement",
+      "maxSeen": 100,
+      "count": 51
+    },
+    {
+      "name": "aura cleanse",
+      "maxSeen": 100,
+      "count": 54
+    },
+    {
+      "name": "axe",
+      "maxSeen": 100,
+      "count": 189
+    },
+    {
+      "name": "backstab",
+      "maxSeen": 100,
+      "count": 89
+    },
+    {
+      "name": "backup",
+      "maxSeen": 100,
+      "count": 52
+    },
+    {
+      "name": "bad luck",
+      "maxSeen": 100,
+      "count": 28
+    },
+    {
+      "name": "badberry",
+      "maxSeen": 100,
+      "count": 33
+    },
+    {
+      "name": "banish",
+      "maxSeen": 100,
+      "count": 26
+    },
+    {
+      "name": "bark skin",
+      "maxSeen": 100,
+      "count": 33
+    },
+    {
+      "name": "bash",
+      "maxSeen": 100,
+      "count": 195
+    },
+    {
+      "name": "battle tactics",
+      "maxSeen": 100,
+      "count": 452
+    },
+    {
+      "name": "battlecry",
+      "maxSeen": 100,
+      "count": 48
+    },
+    {
+      "name": "battlestaff",
+      "maxSeen": 100,
+      "count": 41
+    },
+    {
+      "name": "battletide",
+      "maxSeen": 100,
+      "count": 41
+    },
+    {
+      "name": "bearcall",
+      "maxSeen": 100,
+      "count": 37
+    },
+    {
+      "name": "beastspite",
+      "maxSeen": 100,
+      "count": 33
+    },
+    {
+      "name": "berserk",
+      "maxSeen": 100,
+      "count": 160
+    },
+    {
+      "name": "bind wounds",
+      "maxSeen": 100,
+      "count": 140
+    },
+    {
+      "name": "binding",
+      "maxSeen": 100,
+      "count": 51
+    },
+    {
+      "name": "black cairn",
+      "maxSeen": 100,
+      "count": 54
+    },
+    {
+      "name": "blackjack",
+      "maxSeen": 100,
+      "count": 49
+    },
+    {
+      "name": "blade barrier",
+      "maxSeen": 100,
+      "count": 41
+    },
+    {
+      "name": "bless",
+      "maxSeen": 100,
+      "count": 54
+    },
+    {
+      "name": "blessed warmth",
+      "maxSeen": 100,
+      "count": 54
+    },
+    {
+      "name": "blessed watchfulness",
+      "maxSeen": 100,
+      "count": 54
+    },
+    {
+      "name": "blindness",
+      "maxSeen": 100,
+      "count": 175
+    },
+    {
+      "name": "boil blood",
+      "maxSeen": 100,
+      "count": 48
+    },
+    {
+      "name": "boobytrap",
+      "maxSeen": 100,
+      "count": 49
+    },
+    {
+      "name": "bow",
+      "maxSeen": 100,
+      "count": 154
+    },
+    {
+      "name": "brainjar",
+      "maxSeen": 100,
+      "count": 39
+    },
+    {
+      "name": "bravado",
+      "maxSeen": 100,
+      "count": 39
+    },
+    {
+      "name": "break enchantment",
+      "maxSeen": 100,
+      "count": 51
+    },
+    {
+      "name": "break weapon",
+      "maxSeen": 100,
+      "count": 140
+    },
+    {
+      "name": "breakneck",
+      "maxSeen": 100,
+      "count": 88
+    },
+    {
+      "name": "breath of nature",
+      "maxSeen": 100,
+      "count": 33
+    },
+    {
+      "name": "breath of the dead",
+      "maxSeen": 100,
+      "count": 48
+    },
+    {
+      "name": "brew",
+      "maxSeen": 100,
+      "count": 215
+    },
+    {
+      "name": "burning hands",
+      "maxSeen": 100,
+      "count": 162
+    },
+    {
+      "name": "butcher",
+      "maxSeen": 100,
+      "count": 59
+    },
+    {
+      "name": "call lightning",
+      "maxSeen": 100,
+      "count": 54
+    },
+    {
+      "name": "call of the wild",
+      "maxSeen": 100,
+      "count": 53
+    },
+    {
+      "name": "calm",
+      "maxSeen": 100,
+      "count": 76
+    },
+    {
+      "name": "caltrops",
+      "maxSeen": 100,
+      "count": 140
+    },
+    {
+      "name": "camouflage",
+      "maxSeen": 100,
+      "count": 37
+    },
+    {
+      "name": "campfire",
+      "maxSeen": 100,
+      "count": 37
+    },
+    {
+      "name": "cancellation",
+      "maxSeen": 100,
+      "count": 88
+    },
+    {
+      "name": "cantrip",
+      "maxSeen": 100,
+      "count": 173
+    },
+    {
+      "name": "cause critical",
+      "maxSeen": 100,
+      "count": 54
+    },
+    {
+      "name": "cause discord",
+      "maxSeen": 100,
+      "count": 36
+    },
+    {
+      "name": "cause light",
+      "maxSeen": 100,
+      "count": 54
+    },
+    {
+      "name": "cause serious",
+      "maxSeen": 100,
+      "count": 88
+    },
+    {
+      "name": "cavorting bones",
+      "maxSeen": 100,
+      "count": 48
+    },
+    {
+      "name": "chain lightning",
+      "maxSeen": 100,
+      "count": 17
+    },
+    {
+      "name": "chain repair",
+      "maxSeen": 100,
+      "count": 46
+    },
+    {
+      "name": "change sex",
+      "maxSeen": 100,
+      "count": 49
+    },
+    {
+      "name": "chant of battle",
+      "maxSeen": 100,
+      "count": 39
+    },
+    {
+      "name": "chaos flux",
+      "maxSeen": 100,
+      "count": 51
+    },
+    {
+      "name": "charge",
+      "maxSeen": 100,
+      "count": 30
+    },
+    {
+      "name": "charm person",
+      "maxSeen": 100,
+      "count": 51
+    },
+    {
+      "name": "chill touch",
+      "maxSeen": 100,
+      "count": 72
+    },
+    {
+      "name": "chords of dissonance",
+      "maxSeen": 100,
+      "count": 39
+    },
+    {
+      "name": "circlestab",
+      "maxSeen": 100,
+      "count": 89
+    },
+    {
+      "name": "clear thoughts",
+      "maxSeen": 100,
+      "count": 78
+    },
+    {
+      "name": "cleave",
+      "maxSeen": 100,
+      "count": 140
+    },
+    {
+      "name": "cloak of evil",
+      "maxSeen": 100,
+      "count": 36
+    },
+    {
+      "name": "cloak of starlight",
+      "maxSeen": 100,
+      "count": 49
+    },
+    {
+      "name": "closing weave",
+      "maxSeen": 100,
+      "count": 54
+    },
+    {
+      "name": "coldfire",
+      "maxSeen": 100,
+      "count": 48
+    },
+    {
+      "name": "coldlight",
+      "maxSeen": 100,
+      "count": 48
+    },
+    {
+      "name": "colour spray",
+      "maxSeen": 100,
+      "count": 36
+    },
+    {
+      "name": "common",
+      "maxSeen": 100,
+      "count": 482
+    },
+    {
+      "name": "company honor",
+      "maxSeen": 100,
+      "count": 69
+    },
+    {
+      "name": "company might",
+      "maxSeen": 100,
+      "count": 69
+    },
+    {
+      "name": "company valor",
+      "maxSeen": 100,
+      "count": 69
+    },
+    {
+      "name": "conjure food",
+      "maxSeen": 100,
+      "count": 54
+    },
+    {
+      "name": "continual light",
+      "maxSeen": 100,
+      "count": 36
+    },
+    {
+      "name": "control weather",
+      "maxSeen": 100,
+      "count": 54
+    },
+    {
+      "name": "convoke swarm",
+      "maxSeen": 100,
+      "count": 54
+    },
+    {
+      "name": "counter",
+      "maxSeen": 100,
+      "count": 243
+    },
+    {
+      "name": "create anvil",
+      "maxSeen": 100,
+      "count": 46
+    },
+    {
+      "name": "create barrel",
+      "maxSeen": 100,
+      "count": 46
+    },
+    {
+      "name": "create flame",
+      "maxSeen": 100,
+      "count": 46
+    },
+    {
+      "name": "create food",
+      "maxSeen": 100,
+      "count": 91
+    },
+    {
+      "name": "create furnace",
+      "maxSeen": 100,
+      "count": 46
+    },
+    {
+      "name": "create grinder",
+      "maxSeen": 100,
+      "count": 46
+    },
+    {
+      "name": "create rose",
+      "maxSeen": 100,
+      "count": 52
+    },
+    {
+      "name": "create spring",
+      "maxSeen": 100,
+      "count": 91
+    },
+    {
+      "name": "create water",
+      "maxSeen": 100,
+      "count": 54
+    },
+    {
+      "name": "critical strike",
+      "maxSeen": 100,
+      "count": 169
+    },
+    {
+      "name": "crush",
+      "maxSeen": 100,
+      "count": 17
+    },
+    {
+      "name": "cultural artistry",
+      "maxSeen": 100,
+      "count": 46
+    },
+    {
+      "name": "cure blindness",
+      "maxSeen": 100,
+      "count": 54
+    },
+    {
+      "name": "cure critical",
+      "maxSeen": 100,
+      "count": 54
+    },
+    {
+      "name": "cure deafness",
+      "maxSeen": 100,
+      "count": 54
+    },
+    {
+      "name": "cure disease",
+      "maxSeen": 100,
+      "count": 54
+    },
+    {
+      "name": "cure light",
+      "maxSeen": 100,
+      "count": 54
+    },
+    {
+      "name": "cure poison",
+      "maxSeen": 100,
+      "count": 54
+    },
+    {
+      "name": "cure serious",
+      "maxSeen": 100,
+      "count": 54
+    },
+    {
+      "name": "curse",
+      "maxSeen": 100,
+      "count": 85
+    },
+    {
+      "name": "cutthroat",
+      "maxSeen": 100,
+      "count": 46
+    },
+    {
+      "name": "dagger",
+      "maxSeen": 100,
+      "count": 363
+    },
+    {
+      "name": "dancing strike",
+      "maxSeen": 100,
+      "count": 39
+    },
+    {
+      "name": "dargonesti tongue",
+      "maxSeen": 100,
+      "count": 174
+    },
+    {
+      "name": "dark taint",
+      "maxSeen": 100,
+      "count": 72
+    },
+    {
+      "name": "darkness",
+      "maxSeen": 100,
+      "count": 36
+    },
+    {
+      "name": "deadeye",
+      "maxSeen": 100,
+      "count": 48
+    },
+    {
+      "name": "deafness",
+      "maxSeen": 100,
+      "count": 78
+    },
+    {
+      "name": "deathblade",
+      "maxSeen": 100,
+      "count": 46
+    },
+    {
+      "name": "deathgrip",
+      "maxSeen": 100,
+      "count": 173
+    },
+    {
+      "name": "delusions of grandeur",
+      "maxSeen": 100,
+      "count": 36
+    },
+    {
+      "name": "demand",
+      "maxSeen": 100,
+      "count": 115
+    },
+    {
+      "name": "demonfire",
+      "maxSeen": 100,
+      "count": 85
+    },
+    {
+      "name": "detect evil",
+      "maxSeen": 100,
+      "count": 54
+    },
+    {
+      "name": "detect good",
+      "maxSeen": 100,
+      "count": 199
+    },
+    {
+      "name": "detect hidden",
+      "maxSeen": 100,
+      "count": 109
+    },
+    {
+      "name": "detect invis",
+      "maxSeen": 100,
+      "count": 168
+    },
+    {
+      "name": "detect magic",
+      "maxSeen": 100,
+      "count": 162
+    },
+    {
+      "name": "detect poison",
+      "maxSeen": 100,
+      "count": 260
+    },
+    {
+      "name": "detect presence",
+      "maxSeen": 100,
+      "count": 154
+    },
+    {
+      "name": "dimensional door",
+      "maxSeen": 100,
+      "count": 54
+    },
+    {
+      "name": "dimernesti tongue",
+      "maxSeen": 100,
+      "count": 170
+    },
+    {
+      "name": "dirt kicking",
+      "maxSeen": 100,
+      "count": 237
+    },
+    {
+      "name": "disarm",
+      "maxSeen": 100,
+      "count": 283
+    },
+    {
+      "name": "disarm traps",
+      "maxSeen": 100,
+      "count": 80
+    },
+    {
+      "name": "disguise",
+      "maxSeen": 100,
+      "count": 49
+    },
+    {
+      "name": "disintegrate",
+      "maxSeen": 100,
+      "count": 48
+    },
+    {
+      "name": "dismantle",
+      "maxSeen": 100,
+      "count": 46
+    },
+    {
+      "name": "dispel evil",
+      "maxSeen": 100,
+      "count": 54
+    },
+    {
+      "name": "dispel good",
+      "maxSeen": 100,
+      "count": 54
+    },
+    {
+      "name": "dispel magic",
+      "maxSeen": 100,
+      "count": 221
+    },
+    {
+      "name": "displacement",
+      "maxSeen": 100,
+      "count": 36
+    },
+    {
+      "name": "divine favor",
+      "maxSeen": 100,
+      "count": 17
+    },
+    {
+      "name": "dodge",
+      "maxSeen": 100,
+      "count": 452
+    },
+    {
+      "name": "doppelganger",
+      "maxSeen": 100,
+      "count": 36
+    },
+    {
+      "name": "draconian tongue",
+      "maxSeen": 100,
+      "count": 198
+    },
+    {
+      "name": "dragon skin",
+      "maxSeen": 100,
+      "count": 36
+    },
+    {
+      "name": "drain blood",
+      "maxSeen": 100,
+      "count": 72
+    },
+    {
+      "name": "drain rune",
+      "maxSeen": 100,
+      "count": 48
+    },
+    {
+      "name": "drow tongue",
+      "maxSeen": 100,
+      "count": 183
+    },
+    {
+      "name": "druidstaff",
+      "maxSeen": 100,
+      "count": 33
+    },
+    {
+      "name": "dual wield",
+      "maxSeen": 100,
+      "count": 243
+    },
+    {
+      "name": "dwarven tongue",
+      "maxSeen": 100,
+      "count": 181
+    },
+    {
+      "name": "eagle eye",
+      "maxSeen": 100,
+      "count": 45
+    },
+    {
+      "name": "earpunch",
+      "maxSeen": 100,
+      "count": 88
+    },
+    {
+      "name": "earthmeld",
+      "maxSeen": 100,
+      "count": 33
+    },
+    {
+      "name": "earthquake",
+      "maxSeen": 100,
+      "count": 88
+    },
+    {
+      "name": "eavesdrop",
+      "maxSeen": 100,
+      "count": 89
+    },
+    {
+      "name": "elven tongue",
+      "maxSeen": 100,
+      "count": 313
+    },
+    {
+      "name": "empowerment",
+      "maxSeen": 100,
+      "count": 62
+    },
+    {
+      "name": "enchant armor",
+      "maxSeen": 100,
+      "count": 51
+    },
+    {
+      "name": "enchant weapon",
+      "maxSeen": 100,
+      "count": 75
+    },
+    {
+      "name": "endure",
+      "maxSeen": 100,
+      "count": 189
+    },
+    {
+      "name": "endure disease",
+      "maxSeen": 100,
+      "count": 119
+    },
+    {
+      "name": "energy drain",
+      "maxSeen": 100,
+      "count": 85
+    },
+    {
+      "name": "enervation",
+      "maxSeen": 100,
+      "count": 48
+    },
+    {
+      "name": "enhanced damage",
+      "maxSeen": 100,
+      "count": 452
+    },
+    {
+      "name": "enlarge",
+      "maxSeen": 100,
+      "count": 62
+    },
+    {
+      "name": "enlightenment",
+      "maxSeen": 100,
+      "count": 54
+    },
+    {
+      "name": "entangle",
+      "maxSeen": 100,
+      "count": 33
+    },
+    {
+      "name": "entwine",
+      "maxSeen": 100,
+      "count": 39
+    },
+    {
+      "name": "envenom",
+      "maxSeen": 100,
+      "count": 257
+    },
+    {
+      "name": "ethereal warrior",
+      "maxSeen": 100,
+      "count": 36
+    },
+    {
+      "name": "evade",
+      "maxSeen": 100,
+      "count": 73
+    },
+    {
+      "name": "evade spell",
+      "maxSeen": 100,
+      "count": 49
+    },
+    {
+      "name": "eversharp",
+      "maxSeen": 100,
+      "count": 46
+    },
+    {
+      "name": "execute",
+      "maxSeen": 100,
+      "count": 39
+    },
+    {
+      "name": "eyerub",
+      "maxSeen": 100,
+      "count": 481
+    },
+    {
+      "name": "farsight",
+      "maxSeen": 100,
+      "count": 71
+    },
+    {
+      "name": "fast healing",
+      "maxSeen": 100,
+      "count": 481
+    },
+    {
+      "name": "fast working",
+      "maxSeen": 100,
+      "count": 46
+    },
+    {
+      "name": "fear",
+      "maxSeen": 100,
+      "count": 48
+    },
+    {
+      "name": "feeblemind",
+      "maxSeen": 100,
+      "count": 51
+    },
+    {
+      "name": "finger break",
+      "maxSeen": 100,
+      "count": 140
+    },
+    {
+      "name": "fire breath",
+      "maxSeen": 100,
+      "count": 73
+    },
+    {
+      "name": "fireball",
+      "maxSeen": 100,
+      "count": 60
+    },
+    {
+      "name": "fireproof",
+      "maxSeen": 100,
+      "count": 70
+    },
+    {
+      "name": "fireseed",
+      "maxSeen": 100,
+      "count": 33
+    },
+    {
+      "name": "firestorm",
+      "maxSeen": 100,
+      "count": 54
+    },
+    {
+      "name": "firetongue",
+      "maxSeen": 100,
+      "count": 28
+    },
+    {
+      "name": "flail",
+      "maxSeen": 100,
+      "count": 248
+    },
+    {
+      "name": "flame rune",
+      "maxSeen": 100,
+      "count": 51
+    },
+    {
+      "name": "flameblade",
+      "maxSeen": 100,
+      "count": 46
+    },
+    {
+      "name": "flamestrike",
+      "maxSeen": 100,
+      "count": 88
+    },
+    {
+      "name": "flaming shield",
+      "maxSeen": 100,
+      "count": 51
+    },
+    {
+      "name": "flank attack",
+      "maxSeen": 100,
+      "count": 118
+    },
+    {
+      "name": "flash",
+      "maxSeen": 100,
+      "count": 47
+    },
+    {
+      "name": "flesh to stone",
+      "maxSeen": 100,
+      "count": 51
+    },
+    {
+      "name": "fletching",
+      "maxSeen": 100,
+      "count": 46
+    },
+    {
+      "name": "flyingswords",
+      "maxSeen": 100,
+      "count": 41
+    },
+    {
+      "name": "forest vision",
+      "maxSeen": 100,
+      "count": 37
+    },
+    {
+      "name": "forgedeath",
+      "maxSeen": 100,
+      "count": 48
+    },
+    {
+      "name": "forget",
+      "maxSeen": 100,
+      "count": 48
+    },
+    {
+      "name": "fourth attack",
+      "maxSeen": 100,
+      "count": 160
+    },
+    {
+      "name": "frenzy",
+      "maxSeen": 100,
+      "count": 160
+    },
+    {
+      "name": "frost breath",
+      "maxSeen": 100,
+      "count": 73
+    },
+    {
+      "name": "frost rune",
+      "maxSeen": 100,
+      "count": 51
+    },
+    {
+      "name": "fumble",
+      "maxSeen": 100,
+      "count": 51
+    },
+    {
+      "name": "garble",
+      "maxSeen": 100,
+      "count": 51
+    },
+    {
+      "name": "gas breath",
+      "maxSeen": 100,
+      "count": 73
+    },
+    {
+      "name": "gaseous form",
+      "maxSeen": 100,
+      "count": 32
+    },
+    {
+      "name": "gate",
+      "maxSeen": 100,
+      "count": 118
+    },
+    {
+      "name": "general purpose",
+      "maxSeen": 100,
+      "count": 17
+    },
+    {
+      "name": "giant strength",
+      "maxSeen": 100,
+      "count": 86
+    },
+    {
+      "name": "gift",
+      "maxSeen": 100,
+      "count": 49
+    },
+    {
+      "name": "glamour",
+      "maxSeen": 100,
+      "count": 70
+    },
+    {
+      "name": "glide",
+      "maxSeen": 100,
+      "count": 68
+    },
+    {
+      "name": "glitterdust",
+      "maxSeen": 100,
+      "count": 54
+    },
+    {
+      "name": "god fire",
+      "maxSeen": 100,
+      "count": 54
+    },
+    {
+      "name": "goodberry",
+      "maxSeen": 100,
+      "count": 33
+    },
+    {
+      "name": "grasping roots",
+      "maxSeen": 100,
+      "count": 37
+    },
+    {
+      "name": "gravity flux",
+      "maxSeen": 100,
+      "count": 51
+    },
+    {
+      "name": "great wasting",
+      "maxSeen": 100,
+      "count": 48
+    },
+    {
+      "name": "guard",
+      "maxSeen": 100,
+      "count": 160
+    },
+    {
+      "name": "gust of wind",
+      "maxSeen": 100,
+      "count": 54
+    },
+    {
+      "name": "haggle",
+      "maxSeen": 100,
+      "count": 250
+    },
+    {
+      "name": "hand to hand",
+      "maxSeen": 100,
+      "count": 349
+    },
+    {
+      "name": "harm",
+      "maxSeen": 100,
+      "count": 85
+    },
+    {
+      "name": "haste",
+      "maxSeen": 100,
+      "count": 91
+    },
+    {
+      "name": "headbutt",
+      "maxSeen": 100,
+      "count": 88
+    },
+    {
+      "name": "heal",
+      "maxSeen": 100,
+      "count": 54
+    },
+    {
+      "name": "heat metal",
+      "maxSeen": 100,
+      "count": 51
+    },
+    {
+      "name": "herbal discern",
+      "maxSeen": 100,
+      "count": 53
+    },
+    {
+      "name": "heroic demise",
+      "maxSeen": 100,
+      "count": 142
+    },
+    {
+      "name": "hide",
+      "maxSeen": 100,
+      "count": 137
+    },
+    {
+      "name": "high explosive",
+      "maxSeen": 100,
+      "count": 17
+    },
+    {
+      "name": "holy word",
+      "maxSeen": 100,
+      "count": 54
+    },
+    {
+      "name": "horrid wilting",
+      "maxSeen": 100,
+      "count": 48
+    },
+    {
+      "name": "hunt",
+      "maxSeen": 100,
+      "count": 17
+    },
+    {
+      "name": "hypnotic pattern",
+      "maxSeen": 100,
+      "count": 36
+    },
+    {
+      "name": "ice shield",
+      "maxSeen": 100,
+      "count": 17
+    },
+    {
+      "name": "iceblast",
+      "maxSeen": 100,
+      "count": 78
+    },
+    {
+      "name": "identify",
+      "maxSeen": 100,
+      "count": 68
+    },
+    {
+      "name": "illusion",
+      "maxSeen": 100,
+      "count": 36
+    },
+    {
+      "name": "immolation",
+      "maxSeen": 100,
+      "count": 33
+    },
+    {
+      "name": "impale",
+      "maxSeen": 100,
+      "count": 66
+    },
+    {
+      "name": "incendiary cloud",
+      "maxSeen": 100,
+      "count": 65
+    },
+    {
+      "name": "infravision",
+      "maxSeen": 100,
+      "count": 234
+    },
+    {
+      "name": "instruct",
+      "maxSeen": 100,
+      "count": 480
+    },
+    {
+      "name": "intensify death",
+      "maxSeen": 100,
+      "count": 57
+    },
+    {
+      "name": "invigorate",
+      "maxSeen": 100,
+      "count": 54
+    },
+    {
+      "name": "invisibility",
+      "maxSeen": 100,
+      "count": 173
+    },
+    {
+      "name": "invul",
+      "maxSeen": 100,
+      "count": 17
+    },
+    {
+      "name": "jab",
+      "maxSeen": 100,
+      "count": 154
+    },
+    {
+      "name": "joust",
+      "maxSeen": 100,
+      "count": 142
+    },
+    {
+      "name": "kagonesti tongue",
+      "maxSeen": 100,
+      "count": 201
+    },
+    {
+      "name": "kender tongue",
+      "maxSeen": 100,
+      "count": 182
+    },
+    {
+      "name": "key origin",
+      "maxSeen": 100,
+      "count": 46
+    },
+    {
+      "name": "kick",
+      "maxSeen": 100,
+      "count": 283
+    },
+    {
+      "name": "knock",
+      "maxSeen": 100,
+      "count": 162
+    },
+    {
+      "name": "know alignment",
+      "maxSeen": 100,
+      "count": 199
+    },
+    {
+      "name": "leather repair",
+      "maxSeen": 100,
+      "count": 46
+    },
+    {
+      "name": "levitate",
+      "maxSeen": 100,
+      "count": 86
+    },
+    {
+      "name": "life transfer",
+      "maxSeen": 100,
+      "count": 191
+    },
+    {
+      "name": "lightning breath",
+      "maxSeen": 100,
+      "count": 73
+    },
+    {
+      "name": "locate object",
+      "maxSeen": 100,
+      "count": 51
+    },
+    {
+      "name": "lock",
+      "maxSeen": 100,
+      "count": 172
+    },
+    {
+      "name": "looking glass",
+      "maxSeen": 100,
+      "count": 36
+    },
+    {
+      "name": "lore",
+      "maxSeen": 100,
+      "count": 217
+    },
+    {
+      "name": "luck",
+      "maxSeen": 100,
+      "count": 28
+    },
+    {
+      "name": "lull",
+      "maxSeen": 100,
+      "count": 39
+    },
+    {
+      "name": "lunge",
+      "maxSeen": 100,
+      "count": 118
+    },
+    {
+      "name": "mace",
+      "maxSeen": 100,
+      "count": 272
+    },
+    {
+      "name": "magic missile",
+      "maxSeen": 100,
+      "count": 173
+    },
+    {
+      "name": "mark of origin",
+      "maxSeen": 100,
+      "count": 137
+    },
+    {
+      "name": "mass healing",
+      "maxSeen": 100,
+      "count": 54
+    },
+    {
+      "name": "mass invis",
+      "maxSeen": 100,
+      "count": 36
+    },
+    {
+      "name": "masterwork",
+      "maxSeen": 100,
+      "count": 47
+    },
+    {
+      "name": "meditation",
+      "maxSeen": 100,
+      "count": 262
+    },
+    {
+      "name": "mend",
+      "maxSeen": 100,
+      "count": 46
+    },
+    {
+      "name": "mind shatter",
+      "maxSeen": 100,
+      "count": 62
+    },
+    {
+      "name": "minotaur tongue",
+      "maxSeen": 100,
+      "count": 189
+    },
+    {
+      "name": "mirror",
+      "maxSeen": 100,
+      "count": 36
+    },
+    {
+      "name": "mooncloak",
+      "maxSeen": 100,
+      "count": 54
+    },
+    {
+      "name": "mount",
+      "maxSeen": 100,
+      "count": 481
+    },
+    {
+      "name": "mounted combat",
+      "maxSeen": 100,
+      "count": 184
+    },
+    {
+      "name": "mountjack",
+      "maxSeen": 100,
+      "count": 60
+    },
+    {
+      "name": "natures embrace",
+      "maxSeen": 100,
+      "count": 33
+    },
+    {
+      "name": "natures warmth",
+      "maxSeen": 100,
+      "count": 33
+    },
+    {
+      "name": "nerve pinch",
+      "maxSeen": 100,
+      "count": 140
+    },
+    {
+      "name": "nexus",
+      "maxSeen": 100,
+      "count": 54
+    },
+    {
+      "name": "nightmare",
+      "maxSeen": 100,
+      "count": 48
+    },
+    {
+      "name": "ogre tongue",
+      "maxSeen": 100,
+      "count": 181
+    },
+    {
+      "name": "orb of containment",
+      "maxSeen": 100,
+      "count": 235
+    },
+    {
+      "name": "pacify",
+      "maxSeen": 100,
+      "count": 39
+    },
+    {
+      "name": "paralysis",
+      "maxSeen": 100,
+      "count": 48
+    },
+    {
+      "name": "pardon",
+      "maxSeen": 100,
+      "count": 30
+    },
+    {
+      "name": "parry",
+      "maxSeen": 100,
+      "count": 391
+    },
+    {
+      "name": "pass door",
+      "maxSeen": 100,
+      "count": 51
+    },
+    {
+      "name": "pass without trace",
+      "maxSeen": 100,
+      "count": 33
+    },
+    {
+      "name": "peek",
+      "maxSeen": 100,
+      "count": 78
+    },
+    {
+      "name": "phantom armor",
+      "maxSeen": 100,
+      "count": 36
+    },
+    {
+      "name": "pick lock",
+      "maxSeen": 100,
+      "count": 106
+    },
+    {
+      "name": "pickpocket",
+      "maxSeen": 100,
+      "count": 49
+    },
+    {
+      "name": "pillify",
+      "maxSeen": 100,
+      "count": 70
+    },
+    {
+      "name": "pine needles",
+      "maxSeen": 100,
+      "count": 33
+    },
+    {
+      "name": "pivot block",
+      "maxSeen": 100,
+      "count": 59
+    },
+    {
+      "name": "plague",
+      "maxSeen": 100,
+      "count": 85
+    },
+    {
+      "name": "plant growth",
+      "maxSeen": 100,
+      "count": 33
+    },
+    {
+      "name": "plate repair",
+      "maxSeen": 100,
+      "count": 46
+    },
+    {
+      "name": "play music",
+      "maxSeen": 100,
+      "count": 39
+    },
+    {
+      "name": "point-blank shot",
+      "maxSeen": 100,
+      "count": 37
+    },
+    {
+      "name": "poison",
+      "maxSeen": 100,
+      "count": 48
+    },
+    {
+      "name": "polearm",
+      "maxSeen": 100,
+      "count": 235
+    },
+    {
+      "name": "polish",
+      "maxSeen": 100,
+      "count": 69
+    },
+    {
+      "name": "preach",
+      "maxSeen": 100,
+      "count": 54
+    },
+    {
+      "name": "preservation",
+      "maxSeen": 100,
+      "count": 48
+    },
+    {
+      "name": "preserve dead",
+      "maxSeen": 100,
+      "count": 48
+    },
+    {
+      "name": "protection evil",
+      "maxSeen": 100,
+      "count": 196
+    },
+    {
+      "name": "protection good",
+      "maxSeen": 100,
+      "count": 48
+    },
+    {
+      "name": "pry",
+      "maxSeen": 100,
+      "count": 17
+    },
+    {
+      "name": "purify",
+      "maxSeen": 100,
+      "count": 70
+    },
+    {
+      "name": "purifying fire",
+      "maxSeen": 100,
+      "count": 46
+    },
+    {
+      "name": "qualinesti tongue",
+      "maxSeen": 100,
+      "count": 242
+    },
+    {
+      "name": "quench",
+      "maxSeen": 100,
+      "count": 54
+    },
+    {
+      "name": "quicksand",
+      "maxSeen": 100,
+      "count": 33
+    },
+    {
+      "name": "quiet movement",
+      "maxSeen": 100,
+      "count": 58
+    },
+    {
+      "name": "rabbit summon",
+      "maxSeen": 100,
+      "count": 54
+    },
+    {
+      "name": "rainbow pattern",
+      "maxSeen": 100,
+      "count": 36
+    },
+    {
+      "name": "rally",
+      "maxSeen": 100,
+      "count": 39
+    },
+    {
+      "name": "ravage bite",
+      "maxSeen": 100,
+      "count": 39
+    },
+    {
+      "name": "ray of fatigue",
+      "maxSeen": 100,
+      "count": 48
+    },
+    {
+      "name": "ray of truth",
+      "maxSeen": 100,
+      "count": 54
+    },
+    {
+      "name": "recall",
+      "maxSeen": 100,
+      "count": 482
+    },
+    {
+      "name": "recharge",
+      "maxSeen": 100,
+      "count": 88
+    },
+    {
+      "name": "redirect",
+      "maxSeen": 100,
+      "count": 39
+    },
+    {
+      "name": "refresh",
+      "maxSeen": 100,
+      "count": 144
+    },
+    {
+      "name": "regeneration",
+      "maxSeen": 100,
+      "count": 54
+    },
+    {
+      "name": "relegate",
+      "maxSeen": 100,
+      "count": 54
+    },
+    {
+      "name": "remove curse",
+      "maxSeen": 100,
+      "count": 54
+    },
+    {
+      "name": "remove paralysis",
+      "maxSeen": 100,
+      "count": 85
+    },
+    {
+      "name": "renew bones",
+      "maxSeen": 100,
+      "count": 48
+    },
+    {
+      "name": "repair shield",
+      "maxSeen": 100,
+      "count": 46
+    },
+    {
+      "name": "repulsion",
+      "maxSeen": 100,
+      "count": 54
+    },
+    {
+      "name": "rescue",
+      "maxSeen": 100,
+      "count": 118
+    },
+    {
+      "name": "reserved",
+      "maxSeen": 100,
+      "count": 17
+    },
+    {
+      "name": "resist cold",
+      "maxSeen": 100,
+      "count": 48
+    },
+    {
+      "name": "riposte",
+      "maxSeen": 100,
+      "count": 59
+    },
+    {
+      "name": "runeblade",
+      "maxSeen": 100,
+      "count": 46
+    },
+    {
+      "name": "rupture organ",
+      "maxSeen": 100,
+      "count": 39
+    },
+    {
+      "name": "salvation",
+      "maxSeen": 100,
+      "count": 26
+    },
+    {
+      "name": "sanctuary",
+      "maxSeen": 100,
+      "count": 54
+    },
+    {
+      "name": "sate",
+      "maxSeen": 100,
+      "count": 54
+    },
+    {
+      "name": "scout",
+      "maxSeen": 100,
+      "count": 125
+    },
+    {
+      "name": "scribe",
+      "maxSeen": 100,
+      "count": 215
+    },
+    {
+      "name": "scrolls",
+      "maxSeen": 100,
+      "count": 250
+    },
+    {
+      "name": "scrye",
+      "maxSeen": 100,
+      "count": 36
+    },
+    {
+      "name": "seal door",
+      "maxSeen": 100,
+      "count": 101
+    },
+    {
+      "name": "search water",
+      "maxSeen": 100,
+      "count": 37
+    },
+    {
+      "name": "second attack",
+      "maxSeen": 100,
+      "count": 452
+    },
+    {
+      "name": "second backstab",
+      "maxSeen": 100,
+      "count": 78
+    },
+    {
+      "name": "sequester",
+      "maxSeen": 100,
+      "count": 36
+    },
+    {
+      "name": "serenade",
+      "maxSeen": 100,
+      "count": 39
+    },
+    {
+      "name": "set traps",
+      "maxSeen": 100,
+      "count": 37
+    },
+    {
+      "name": "shackles",
+      "maxSeen": 100,
+      "count": 17
+    },
+    {
+      "name": "shadow walk",
+      "maxSeen": 100,
+      "count": 48
+    },
+    {
+      "name": "shallow breath",
+      "maxSeen": 100,
+      "count": 51
+    },
+    {
+      "name": "sharpen",
+      "maxSeen": 100,
+      "count": 111
+    },
+    {
+      "name": "shatter shield",
+      "maxSeen": 100,
+      "count": 179
+    },
+    {
+      "name": "shield",
+      "maxSeen": 100,
+      "count": 47
+    },
+    {
+      "name": "shield block",
+      "maxSeen": 100,
+      "count": 283
+    },
+    {
+      "name": "shield rush",
+      "maxSeen": 100,
+      "count": 39
+    },
+    {
+      "name": "shifting shadows",
+      "maxSeen": 100,
+      "count": 36
+    },
+    {
+      "name": "shocking grasp",
+      "maxSeen": 100,
+      "count": 60
+    },
+    {
+      "name": "shocking rune",
+      "maxSeen": 100,
+      "count": 51
+    },
+    {
+      "name": "shrink",
+      "maxSeen": 100,
+      "count": 75
+    },
+    {
+      "name": "sidestep",
+      "maxSeen": 100,
+      "count": 39
+    },
+    {
+      "name": "silence",
+      "maxSeen": 100,
+      "count": 73
+    },
+    {
+      "name": "silvanesti tongue",
+      "maxSeen": 100,
+      "count": 266
+    },
+    {
+      "name": "singing",
+      "maxSeen": 100,
+      "count": 39
+    },
+    {
+      "name": "sleep",
+      "maxSeen": 100,
+      "count": 51
+    },
+    {
+      "name": "sleepless curse",
+      "maxSeen": 100,
+      "count": 51
+    },
+    {
+      "name": "slow",
+      "maxSeen": 100,
+      "count": 51
+    },
+    {
+      "name": "smith",
+      "maxSeen": 100,
+      "count": 47
+    },
+    {
+      "name": "smother",
+      "maxSeen": 100,
+      "count": 162
+    },
+    {
+      "name": "sneak",
+      "maxSeen": 100,
+      "count": 151
+    },
+    {
+      "name": "solamnic tongue",
+      "maxSeen": 100,
+      "count": 30
+    },
+    {
+      "name": "sparkshot",
+      "maxSeen": 100,
+      "count": 33
+    },
+    {
+      "name": "spear",
+      "maxSeen": 100,
+      "count": 240
+    },
+    {
+      "name": "spiritual hammer",
+      "maxSeen": 100,
+      "count": 54
+    },
+    {
+      "name": "spook",
+      "maxSeen": 100,
+      "count": 36
+    },
+    {
+      "name": "squire call",
+      "maxSeen": 100,
+      "count": 17
+    },
+    {
+      "name": "staff",
+      "maxSeen": 100,
+      "count": 452
+    },
+    {
+      "name": "stainless",
+      "maxSeen": 100,
+      "count": 46
+    },
+    {
+      "name": "stalk",
+      "maxSeen": 100,
+      "count": 46
+    },
+    {
+      "name": "staves",
+      "maxSeen": 100,
+      "count": 199
+    },
+    {
+      "name": "steal",
+      "maxSeen": 100,
+      "count": 60
+    },
+    {
+      "name": "sticks to snakes",
+      "maxSeen": 100,
+      "count": 33
+    },
+    {
+      "name": "stonespirit",
+      "maxSeen": 100,
+      "count": 33
+    },
+    {
+      "name": "storm of vengeance",
+      "maxSeen": 100,
+      "count": 70
+    },
+    {
+      "name": "strangle",
+      "maxSeen": 100,
+      "count": 46
+    },
+    {
+      "name": "strip",
+      "maxSeen": 100,
+      "count": 49
+    },
+    {
+      "name": "subdue",
+      "maxSeen": 100,
+      "count": 17
+    },
+    {
+      "name": "summon",
+      "maxSeen": 100,
+      "count": 76
+    },
+    {
+      "name": "summon insects",
+      "maxSeen": 100,
+      "count": 33
+    },
+    {
+      "name": "sunbeam",
+      "maxSeen": 100,
+      "count": 54
+    },
+    {
+      "name": "sunray",
+      "maxSeen": 100,
+      "count": 33
+    },
+    {
+      "name": "surge",
+      "maxSeen": 100,
+      "count": 189
+    },
+    {
+      "name": "sweep attack",
+      "maxSeen": 100,
+      "count": 57
+    },
+    {
+      "name": "sword",
+      "maxSeen": 100,
+      "count": 278
+    },
+    {
+      "name": "sympathy",
+      "maxSeen": 100,
+      "count": 74
+    },
+    {
+      "name": "tail",
+      "maxSeen": 100,
+      "count": 17
+    },
+    {
+      "name": "tame",
+      "maxSeen": 100,
+      "count": 53
+    },
+    {
+      "name": "taunt",
+      "maxSeen": 100,
+      "count": 184
+    },
+    {
+      "name": "teleport",
+      "maxSeen": 100,
+      "count": 215
+    },
+    {
+      "name": "thieves cant",
+      "maxSeen": 100,
+      "count": 22
+    },
+    {
+      "name": "third attack",
+      "maxSeen": 100,
+      "count": 245
+    },
+    {
+      "name": "thors hammer",
+      "maxSeen": 100,
+      "count": 46
+    },
+    {
+      "name": "thunderclap",
+      "maxSeen": 100,
+      "count": 54
+    },
+    {
+      "name": "tonguecut",
+      "maxSeen": 100,
+      "count": 117
+    },
+    {
+      "name": "torment",
+      "maxSeen": 100,
+      "count": 51
+    },
+    {
+      "name": "track",
+      "maxSeen": 100,
+      "count": 100
+    },
+    {
+      "name": "traject",
+      "maxSeen": 100,
+      "count": 186
+    },
+    {
+      "name": "trammel",
+      "maxSeen": 100,
+      "count": 140
+    },
+    {
+      "name": "trance",
+      "maxSeen": 100,
+      "count": 154
+    },
+    {
+      "name": "treeform",
+      "maxSeen": 100,
+      "count": 33
+    },
+    {
+      "name": "trip",
+      "maxSeen": 100,
+      "count": 283
+    },
+    {
+      "name": "trophy",
+      "maxSeen": 100,
+      "count": 41
+    },
+    {
+      "name": "truefire",
+      "maxSeen": 100,
+      "count": 32
+    },
+    {
+      "name": "tumble",
+      "maxSeen": 100,
+      "count": 100
+    },
+    {
+      "name": "undead disruption",
+      "maxSeen": 100,
+      "count": 48
+    },
+    {
+      "name": "undetectable align",
+      "maxSeen": 100,
+      "count": 54
+    },
+    {
+      "name": "unholy armor",
+      "maxSeen": 100,
+      "count": 42
+    },
+    {
+      "name": "unholyrite",
+      "maxSeen": 100,
+      "count": 72
+    },
+    {
+      "name": "unseal door",
+      "maxSeen": 100,
+      "count": 101
+    },
+    {
+      "name": "unseen servant",
+      "maxSeen": 100,
+      "count": 54
+    },
+    {
+      "name": "vampiric touch",
+      "maxSeen": 100,
+      "count": 48
+    },
+    {
+      "name": "ventriloquate",
+      "maxSeen": 100,
+      "count": 36
+    },
+    {
+      "name": "vermin plague",
+      "maxSeen": 100,
+      "count": 33
+    },
+    {
+      "name": "vortex",
+      "maxSeen": 100,
+      "count": 50
+    },
+    {
+      "name": "wands",
+      "maxSeen": 100,
+      "count": 199
+    },
+    {
+      "name": "warding",
+      "maxSeen": 100,
+      "count": 26
+    },
+    {
+      "name": "waterlungs",
+      "maxSeen": 100,
+      "count": 67
+    },
+    {
+      "name": "weaken",
+      "maxSeen": 100,
+      "count": 149
+    },
+    {
+      "name": "weapon repair",
+      "maxSeen": 100,
+      "count": 46
+    },
+    {
+      "name": "wear chain",
+      "maxSeen": 100,
+      "count": 272
+    },
+    {
+      "name": "wear leather",
+      "maxSeen": 100,
+      "count": 360
+    },
+    {
+      "name": "wear plate",
+      "maxSeen": 100,
+      "count": 147
+    },
+    {
+      "name": "wedge",
+      "maxSeen": 100,
+      "count": 17
+    },
+    {
+      "name": "whip",
+      "maxSeen": 100,
+      "count": 399
+    },
+    {
+      "name": "whirlwind",
+      "maxSeen": 100,
+      "count": 140
+    },
+    {
+      "name": "wilderness lore",
+      "maxSeen": 100,
+      "count": 33
+    },
+    {
+      "name": "wind wall",
+      "maxSeen": 100,
+      "count": 54
+    },
+    {
+      "name": "windspirit",
+      "maxSeen": 100,
+      "count": 33
+    },
+    {
+      "name": "windtalk",
+      "maxSeen": 100,
+      "count": 33
+    },
+    {
+      "name": "word of death",
+      "maxSeen": 100,
+      "count": 48
+    },
+    {
+      "name": "word of recall",
+      "maxSeen": 100,
+      "count": 210
+    },
+    {
+      "name": "wraithform",
+      "maxSeen": 100,
+      "count": 48
+    },
+    {
+      "name": "wrath",
+      "maxSeen": 100,
+      "count": 54
+    },
+    {
+      "name": "wrath of nature",
+      "maxSeen": 100,
+      "count": 33
+    }
+  ],
+  "clans": {
+    "clan.aestheticorder": [
+      "Zivilyn",
+      "Jasper",
+      "Melody",
+      "Zav",
+      "Gilean",
+      "Rosella ({MLEADER{x)",
+      "Seraph ({MLEADER{x)",
+      "Thorac"
+    ],
+    "clan.artisans": [
+      "Thorin",
+      "Draecan",
+      "Delacom ({MLEADER{x)",
+      "Selinda",
+      "Ubaldo",
+      "Dunith",
+      "Molik",
+      "Vortensis",
+      "Ferrochel",
+      "Arion",
+      "Bling",
+      "Analice",
+      "Elzix",
+      "Vazara",
+      "Norbit",
+      "Ferrin",
+      "Zander",
+      "Reorx",
+      "Kiryn",
+      "Tarli"
+    ],
+    "clan.blackorder": [
+      "Pesmerga",
+      "Turrain",
+      "Mhalrick",
+      "Morgion",
+      "Shinzo",
+      "Alicia",
+      "Zeboim",
+      "Therin",
+      "Alex",
+      "Fraener",
+      "Syrieni",
+      "Aelyasia",
+      "Heron",
+      "Karamae ({MLEADER{x)",
+      "Dargonas",
+      "Marthias ({MLEADER{x)",
+      "Theriss",
+      "Xinaesa",
+      "Evelyn"
+    ],
+    "clan.conclave": [
+      "Celadon",
+      "Asauder",
+      "Moriyanna",
+      "Casumi",
+      "Aerogos",
+      "Nuitari",
+      "Shinn",
+      "Alesia",
+      "Kenyae",
+      "Zarrel",
+      "Lunitari",
+      "Narcissa",
+      "Delshawen",
+      "Alia",
+      "Kiyomi",
+      "Skyla",
+      "Tenchu",
+      "Wolfmoon",
+      "Liophell",
+      "Exanthus",
+      "Slavimir",
+      "Dietrich",
+      "Shimai ({MLEADER{x)",
+      "Tontz",
+      "Phiaera",
+      "Fyrah",
+      "Darkahn",
+      "Korthus",
+      "Ciara",
+      "Sirix",
+      "Cormag",
+      "Zeath",
+      "Natascha ({MLEADER{x)",
+      "Rayo",
+      "Silianti",
+      "Lanathar",
+      "Lorzor",
+      "Solinari"
+    ],
+    "clan.forester": [
+      "Slade",
+      "Branchala",
+      "Chislev",
+      "Jaerick",
+      "Marlok",
+      "Amon",
+      "Amalthea",
+      "Sharpfang",
+      "Silvaria ({MLEADER{x)",
+      "Anavrin",
+      "Raykimm",
+      "Belok",
+      "Xendralix ({MLEADER{x)",
+      "Sikandar",
+      "Myles",
+      "Zelnath"
+    ],
+    "clan.holyorder": [
+      "Majere",
+      "Eyleen",
+      "Bayum",
+      "Mishakal",
+      "Tyrail ({MLEADER{x)",
+      "Auran",
+      "Tayven",
+      "Amilia",
+      "Zodan ({MLEADER{x)",
+      "Pilarth",
+      "Iskassa",
+      "Fenix",
+      "Ogduan"
+    ],
+    "clan.kot": [
+      "Drudgen",
+      "Rihivan",
+      "Jory",
+      "Rorc",
+      "Dusk",
+      "Zeak",
+      "Razel",
+      "Sarthil",
+      "Filash",
+      "Hitori",
+      "Goremaw",
+      "Roivas",
+      "Mogu",
+      "Velatia",
+      "Kaldim",
+      "Kolf ({MLEADER{x)",
+      "Huginn",
+      "Sydoni",
+      "Jalancy",
+      "Kanis",
+      "Svalski",
+      "Dessan",
+      "Danom",
+      "Gurdok",
+      "Kaellan",
+      "Kulox",
+      "Neri",
+      "Yuber",
+      "Zuberi",
+      "Athina",
+      "Jerrid",
+      "Diivon",
+      "Uundiel",
+      "Eulicia",
+      "Allyria ({MLEADER{x)"
+    ],
+    "clan.mercenary": [
+      "Sargonnas",
+      "Vilae ({MLEADER{x)",
+      "Dhrogor",
+      "Silas",
+      "Kougyoku ({MLEADER{x)",
+      "Deedrick",
+      "Isolda",
+      "Sansano"
+    ],
+    "clan.solamnic": [
+      "Habbakuk",
+      "Kyrill",
+      "Mohto",
+      "Sindar",
+      "Terris",
+      "Gulgor",
+      "Lucian",
+      "Kalaela ({MLEADER{x)",
+      "Gwenniver",
+      "Felix",
+      "Tharm",
+      "Aleksei",
+      "Garrin",
+      "Demetrius",
+      "Sophie",
+      "Arlanthis",
+      "Sinjin",
+      "Paladine",
+      "Barius"
+    ],
+    "clan.thieves": [
+      "Jarek",
+      "Dekyos ({MLEADER{x)",
+      "Kazman",
+      "Daenithan",
+      "Hiddukel",
+      "Feronia",
+      "Assura",
+      "Hildigrim",
+      "Xelith",
+      "Eon",
+      "Sute",
+      "Bram",
+      "Llithe",
+      "Kirala",
+      "Tencha",
+      "Demetrius",
+      "Thilt",
+      "Esmeralda",
+      "Delacroix",
+      "Cyrus ({MLEADER{x)",
+      "Hojo",
+      "Olana"
+    ],
+    "clan.undead": [
+      "Euanracium",
+      "Halig",
+      "Roffellos",
+      "Chemosh",
+      "Kyntari",
+      "Mikhal ({MLEADER{x)",
+      "Xavier",
+      "Aaden",
+      "Prodigy",
+      "Sarthis",
+      "Grevan",
+      "Thraksis",
+      "Protous",
+      "Adrastos",
+      "Alken ({MLEADER{x)",
+      "Killian"
+    ]
+  },
+  "gods": {
+    "Chemosh": {
+      "summary": "Lev 106 Trust 106  Chemosh - The {YLord{x of {DBones{x"
+    },
+    "Chislev": {
+      "summary": "Lev 106 Trust 109  Chislev - The {GMother{x"
+    },
+    "Darkahn": {
+      "summary": "Lev 101 Trust 110  Darkahn - the {DSerpent{x"
+    },
+    "Gilean": {
+      "summary": "Lev 106 Trust 106  Gilean - The Void of Souls"
+    },
+    "Habbakuk": {
+      "summary": "Lev 106 Trust 106  Habbakuk - The {bFisher{x {WKing{x"
+    },
+    "Hiddukel": {
+      "summary": "Lev 110 Trust 110  Hiddukel - God of Betrayal and False Deal-Making"
+    },
+    "Hojo": {
+      "summary": "Lev  1 Trust 110  Hojo the Pilferer"
+    },
+    "Kolf": {
+      "summary": ""
+    },
+    "Lunitari": {
+      "summary": "Lev 106 Trust 106  Lunitari - The {RRedEye{x"
+    },
+    "Majere": {
+      "summary": "Lev 106 Trust 106  Majere - The {YEnlightend{X One"
+    },
+    "Mishakal": {
+      "summary": "Lev 106 Trust 106  Mishakal - The {bHealing{x Hand"
+    },
+    "Morgion": {
+      "summary": "Lev 106 Trust 106  Morgion - The {yPlague{x Maker"
+    },
+    "Paladine": {
+      "summary": "Lev 106 Trust 106  Paladine - The official lurker of Starcraft"
+    },
+    "Reorx": {
+      "summary": "Lev 106 Trust 106  Reorx - The {RForge{x"
+    },
+    "Sargonnas": {
+      "summary": "Lev 106 Trust 105  Sargonnas - The {RRed Condor{x of {DWrath{x"
+    },
+    "Solinari": {
+      "summary": "Lev 106 Trust 109  Solinari - The {CGod{x of {WWhite Magic{x"
+    },
+    "Zeboim": {
+      "summary": "Lev 106 Trust 110  Zeboim - the Dreadful {cWind{X and {bRain{X"
+    },
+    "Zivilyn": {
+      "summary": "Lev 106 Trust 106  Zivilyn - The {yTree{x of {gLife{x"
+    }
+  },
+  "areas": [
+    {
+      "file": "abanfor.are",
+      "name": "Abanasinian Forest",
+      "vnums": {
+        "min": 4250,
+        "max": 4400
+      }
+    },
+    {
+      "file": "area0.are",
+      "name": "Tournament Arena",
+      "vnums": {
+        "min": 15000,
+        "max": 15010
+      }
+    },
+    {
+      "file": "balifor.are",
+      "name": "Balifor",
+      "vnums": {
+        "min": 10201,
+        "max": 10500
+      }
+    },
+    {
+      "file": "borrow.are",
+      "name": "Borrower refuge",
+      "vnums": {
+        "min": 4200,
+        "max": 4249
+      }
+    },
+    {
+      "file": "caergoth.are",
+      "name": "Caergoth",
+      "vnums": {
+        "min": 14700,
+        "max": 14799
+      }
+    },
+    {
+      "file": "chaos.are",
+      "name": "Chaos",
+      "vnums": {
+        "min": 13400,
+        "max": 13599
+      }
+    },
+    {
+      "file": "clerist.are",
+      "name": "High Clerist Tower",
+      "vnums": {
+        "min": 13700,
+        "max": 13900
+      }
+    },
+    {
+      "file": "crovtes.are",
+      "name": "Crovax Test Area",
+      "vnums": {
+        "min": 18500,
+        "max": 18509
+      }
+    },
+    {
+      "file": "crystal.are",
+      "name": "Crystalmir Lake",
+      "vnums": {
+        "min": 13300,
+        "max": 13399
+      }
+    },
+    {
+      "file": "dargaard.are",
+      "name": "Dargaard Mountains",
+      "vnums": {
+        "min": 4801,
+        "max": 4999
+      }
+    },
+    {
+      "file": "darkenwo.are",
+      "name": "Darken Wood",
+      "vnums": {
+        "min": 2951,
+        "max": 2999
+      }
+    },
+    {
+      "file": "darktemp.are",
+      "name": "Dark Temple",
+      "vnums": {
+        "min": 151,
+        "max": 199
+      }
+    },
+    {
+      "file": "flotsam.are",
+      "name": "Flotsam",
+      "vnums": {
+        "min": 14400,
+        "max": 14699
+      }
+    },
+    {
+      "file": "forge.are",
+      "name": "The Forge",
+      "vnums": {
+        "min": 400,
+        "max": 499
+      }
+    },
+    {
+      "file": "forgocav.are",
+      "name": "Forgotten Caverns",
+      "vnums": {
+        "min": 19000,
+        "max": 19149
+      }
+    },
+    {
+      "file": "garnet.are",
+      "name": "Garnet Mountains",
+      "vnums": {
+        "min": 1800,
+        "max": 1999
+      }
+    },
+    {
+      "file": "garnetmo.are",
+      "name": "The Garnet Mountains",
+      "vnums": {
+        "min": 1800,
+        "max": 1999
+      }
+    },
+    {
+      "file": "garret.are",
+      "name": "Garret",
+      "vnums": {
+        "min": 5400,
+        "max": 5499
+      }
+    },
+    {
+      "file": "grave.are",
+      "name": "Graveyard",
+      "vnums": {
+        "min": 3600,
+        "max": 3699
+      }
+    },
+    {
+      "file": "grimdel.are",
+      "name": "Grimdel",
+      "vnums": {
+        "min": 8700,
+        "max": 8799
+      }
+    },
+    {
+      "file": "hallknow.are",
+      "name": "Hall of Knowledge",
+      "vnums": {
+        "min": 2900,
+        "max": 2950
+      }
+    },
+    {
+      "file": "haven.are",
+      "name": "Haven",
+      "vnums": {
+        "min": 10501,
+        "max": 10599
+      }
+    },
+    {
+      "file": "hct2.are",
+      "name": "High Clerist Tower2",
+      "vnums": {
+        "min": 17901,
+        "max": 18051
+      }
+    },
+    {
+      "file": "helpfile.are",
+      "name": "Help File Area",
+      "vnums": {
+        "min": 17901,
+        "max": 17902
+      }
+    },
+    {
+      "file": "holyorde.are",
+      "name": "Temple of Holy Order",
+      "vnums": {
+        "min": 851,
+        "max": 899
+      }
+    },
+    {
+      "file": "immort.are",
+      "name": "immortal area",
+      "vnums": {
+        "min": 1200,
+        "max": 1299
+      }
+    },
+    {
+      "file": "istar.are",
+      "name": "Istar",
+      "vnums": {
+        "min": 5800,
+        "max": 5999
+      }
+    },
+    {
+      "file": "kalaman.are",
+      "name": "Kalaman",
+      "vnums": {
+        "min": 3800,
+        "max": 3899
+      }
+    },
+    {
+      "file": "kaolyn.are",
+      "name": "Kaolyn",
+      "vnums": {
+        "min": 13600,
+        "max": 13699
+      }
+    },
+    {
+      "file": "kender1.are",
+      "name": "Kendermore",
+      "vnums": {
+        "min": 14900,
+        "max": 14999
+      }
+    },
+    {
+      "file": "khalkist.are",
+      "name": "Khalkist Mountains",
+      "vnums": {
+        "min": 14201,
+        "max": 14299
+      }
+    },
+    {
+      "file": "knigotak.are",
+      "name": "KOT Stronghold",
+      "vnums": {
+        "min": 11600,
+        "max": 11699
+      }
+    },
+    {
+      "file": "lemish.are",
+      "name": "Lemish",
+      "vnums": {
+        "min": 700,
+        "max": 850
+      }
+    },
+    {
+      "file": "lemish2.are",
+      "name": "lemish2",
+      "vnums": {
+        "min": 700,
+        "max": 850
+      }
+    },
+    {
+      "file": "limbo.are",
+      "name": "Limbo",
+      "vnums": {
+        "min": 1,
+        "max": 25
+      }
+    },
+    {
+      "file": "mariner.are",
+      "name": "Mariner Ship",
+      "vnums": {
+        "min": 26,
+        "max": 150
+      }
+    },
+    {
+      "file": "marsh.are",
+      "name": "Marshlands",
+      "vnums": {
+        "min": 8300,
+        "max": 8399
+      }
+    },
+    {
+      "file": "merclan.are",
+      "name": "Mercenary Hall",
+      "vnums": {
+        "min": 13200,
+        "max": 13250
+      }
+    },
+    {
+      "file": "nature.are",
+      "name": "Temple of Nature",
+      "vnums": {
+        "min": 500,
+        "max": 599
+      }
+    },
+    {
+      "file": "neraka.are",
+      "name": "Neraka",
+      "vnums": {
+        "min": 11000,
+        "max": 11200
+      }
+    },
+    {
+      "file": "neraka2.are",
+      "name": "Neraka2",
+      "vnums": {
+        "min": 11901,
+        "max": 12300
+      }
+    },
+    {
+      "file": "nevermi2.are",
+      "name": "Mt Nevermind upper levels",
+      "vnums": {
+        "min": 1600,
+        "max": 1799
+      }
+    },
+    {
+      "file": "nevermin.are",
+      "name": "Mt. Nevermind",
+      "vnums": {
+        "min": 10800,
+        "max": 10999
+      }
+    },
+    {
+      "file": "newport.are",
+      "name": "Newport",
+      "vnums": {
+        "min": 9800,
+        "max": 9899
+      }
+    },
+    {
+      "file": "palanthu.are",
+      "name": "Palanthas",
+      "vnums": {
+        "min": 3000,
+        "max": 3384
+      }
+    },
+    {
+      "file": "palroads.are",
+      "name": "Palanthian Roads",
+      "vnums": {
+        "min": 900,
+        "max": 1199
+      }
+    },
+    {
+      "file": "plaindus.are",
+      "name": "The Plains of Dust",
+      "vnums": {
+        "min": 11700,
+        "max": 11900
+      }
+    },
+    {
+      "file": "portcall.are",
+      "name": "port o call",
+      "vnums": {
+        "min": 17701,
+        "max": 17900
+      }
+    },
+    {
+      "file": "proto.are",
+      "name": null,
+      "vnums": null
+    },
+    {
+      "file": "qualfore.are",
+      "name": "Qualinesti Forest",
+      "vnums": {
+        "min": 14300,
+        "max": 14399
+      }
+    },
+    {
+      "file": "qualino.are",
+      "name": "Qualinost",
+      "vnums": {
+        "min": 8800,
+        "max": 9099
+      }
+    },
+    {
+      "file": "queshu.are",
+      "name": "Que-Shu",
+      "vnums": {
+        "min": 17401,
+        "max": 17500
+      }
+    },
+    {
+      "file": "quifael.are",
+      "name": "Quifael's",
+      "vnums": {
+        "min": 6900,
+        "max": 6999
+      }
+    },
+    {
+      "file": "school.are",
+      "name": "mud school",
+      "vnums": {
+        "min": 3700,
+        "max": 3799
+      }
+    },
+    {
+      "file": "searoads.are",
+      "name": "Undersea Roads",
+      "vnums": {
+        "min": 3900,
+        "max": 4249
+      }
+    },
+    {
+      "file": "shoikan.are",
+      "name": "shoikan grove",
+      "vnums": {
+        "min": 9400,
+        "max": 9499
+      }
+    },
+    {
+      "file": "shokian.are",
+      "name": "shokian grove",
+      "vnums": {
+        "min": 9400,
+        "max": 9499
+      }
+    },
+    {
+      "file": "silvanes.are",
+      "name": "Silvanesti",
+      "vnums": {
+        "min": 10101,
+        "max": 10200
+      }
+    },
+    {
+      "file": "silvanos.are",
+      "name": "Silvanost",
+      "vnums": {
+        "min": 17501,
+        "max": 17700
+      }
+    },
+    {
+      "file": "solace.are",
+      "name": "Solace",
+      "vnums": {
+        "min": 2400,
+        "max": 2700
+      }
+    },
+    {
+      "file": "solant.are",
+      "name": "Solanthus",
+      "vnums": {
+        "min": 14000,
+        "max": 14150
+      }
+    },
+    {
+      "file": "solanthu.are",
+      "name": "Solanthus",
+      "vnums": {
+        "min": 5600,
+        "max": 5799
+      }
+    },
+    {
+      "file": "southroa.are",
+      "name": "Southern Roads",
+      "vnums": {
+        "min": 4600,
+        "max": 4800
+      }
+    },
+    {
+      "file": "strmkeep.are",
+      "name": "Storm's Keep",
+      "vnums": {
+        "min": 17901,
+        "max": 18075
+      }
+    },
+    {
+      "file": "tarsis.are",
+      "name": "Tarsis",
+      "vnums": {
+        "min": 15300,
+        "max": 15600
+      }
+    },
+    {
+      "file": "thorbar2.are",
+      "name": "Thorbardin2",
+      "vnums": {
+        "min": 16000,
+        "max": 16449
+      }
+    },
+    {
+      "file": "thorbard.are",
+      "name": "Thorbardin",
+      "vnums": {
+        "min": 10600,
+        "max": 10799
+      }
+    },
+    {
+      "file": "throtl.are",
+      "name": "Throtl",
+      "vnums": {
+        "min": 1500,
+        "max": 1599
+      }
+    },
+    {
+      "file": "tohc.are",
+      "name": "Tower of the High Clerist",
+      "vnums": {
+        "min": 200,
+        "max": 299
+      }
+    },
+    {
+      "file": "tourney.are",
+      "name": "Tournament Arena",
+      "vnums": {
+        "min": 15000,
+        "max": 15010
+      }
+    },
+    {
+      "file": "undead.are",
+      "name": "Undead Caves",
+      "vnums": {
+        "min": 14000,
+        "max": 14050
+      }
+    },
+    {
+      "file": "urione.are",
+      "name": "Urione",
+      "vnums": {
+        "min": 9500,
+        "max": 9799
+      }
+    },
+    {
+      "file": "urione2.are",
+      "name": "Urione2",
+      "vnums": {
+        "min": 16450,
+        "max": 17349
+      }
+    },
+    {
+      "file": "vingaard.are",
+      "name": "Vingaard Keep",
+      "vnums": {
+        "min": 15601,
+        "max": 15800
+      }
+    },
+    {
+      "file": "void.are",
+      "name": "The Void",
+      "vnums": {
+        "min": 1,
+        "max": 25
+      }
+    },
+    {
+      "file": "wayreth.are",
+      "name": "Tower of Wayreth",
+      "vnums": {
+        "min": 15164,
+        "max": 15299
+      }
+    },
+    {
+      "file": "xaktsaro.are",
+      "name": "Xak-Tsaroth",
+      "vnums": {
+        "min": 11201,
+        "max": 11399
+      }
+    },
+    {
+      "file": "zebdeep.are",
+      "name": "Zeboim's Deep",
+      "vnums": {
+        "min": 2800,
+        "max": 2899
+      }
+    }
+  ]
+}
