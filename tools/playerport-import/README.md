@@ -88,3 +88,23 @@ node tools/playerport-import/generate-playerport-zones-seed.mjs
 
 Outputs:
 - `data/conf/zones/playerport_seed.json`
+
+## 10) Export mobiles from Playerport area files
+
+```bash
+node tools/playerport-import/extract-mobiles-from-areas.mjs /home/jacob/playerport/area
+```
+
+Outputs:
+- `tools/playerport-import/playerport-mobiles-export.json`
+
+## 11) Generate Stendhal creature XML seed from Playerport mobiles
+
+```bash
+node tools/playerport-import/generate-stendhal-creatures-from-playerport-mobiles.mjs
+```
+
+Outputs:
+- `data/conf/creatures/playerport_mobiles.xml`
+
+> Note: this is currently a seed file and not automatically wired into `creatures.xml` yet.
