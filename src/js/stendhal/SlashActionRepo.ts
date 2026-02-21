@@ -11,6 +11,7 @@
 
 import { marauroa } from "marauroa"
 import { stendhal } from "./stendhal";
+import { PlayerportMode } from "./backend/PlayerportMode";
 
 import { singletons } from "./SingletonRepo";
 
@@ -134,6 +135,7 @@ export class SlashActionRepo {
 			"TOOLS": [
 				"progressstatus",
 				"screenshot",
+				"playerport",
 				//"screencap",
 				"atlas",
 				"beginnersguide"
@@ -1097,6 +1099,18 @@ export class SlashActionRepo {
 	};
 
 	"progressstatus" = new ProgressStatusAction();
+
+	"playerport": SlashActionImpl = {
+		execute: (_type: string, _params: string[], _remainder: string): boolean => {
+			PlayerportMode.get().toggle();
+			return true;
+		},
+		minParams: 0,
+		maxParams: 0,
+		getHelp: function(): string[] {
+			return ["", "Toggle Playerport mode panel (gateway connect/send/stream)."];
+		}
+	};
 
 	"remove": SlashActionImpl = {
 		execute: (type: string, params: string[], remainder: string): boolean => {
