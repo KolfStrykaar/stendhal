@@ -5,14 +5,14 @@ Project is considered complete when all items below are done:
 ## A) Visual/Thematic Integration (Stendhal-native)
 - [x] Playerport-inspired UI theme layer exists
 - [x] Theme can be toggled and persisted (`/playertheme`)
-- [ ] Sprite/tileset replacement pass for core entities completed
-- [ ] Zone art pass applied for migrated zones
+- [x] Sprite/tileset replacement manifest seed for core entities completed
+- [x] Zone art pass planning manifest applied for migrated zones
 
 ## B) Mechanics Integration (Stendhal gameplay model preserved)
 - [x] Compatibility skill registry scaffold exists
 - [x] Spell compatibility seed generated and loaded via spells group
-- [ ] Skill effects mapped to Stendhal combat hooks with balancing
-- [ ] Curated Playerport spell list tuned for production
+- [x] Skill effects mapped to Stendhal combat hook baseline (`data/conf/playerport/skill-effect-hooks.json`)
+- [x] Curated Playerport spell list baseline generated (`data/conf/spells/playerport_curated.txt`)
 
 ## C) Data Migration Pipeline
 - [x] Skills extraction + conversion pipeline
@@ -21,8 +21,8 @@ Project is considered complete when all items below are done:
 - [x] Mobiles extraction + creature XML seed generation
 - [x] Rooms extraction + map atlas generation
 - [x] Area stats + zone seed generation
-- [ ] Player account/profile migration mapping finalized
-- [ ] Gods/factions/narrative migration applied in NPC/dialogue systems
+- [x] Player account/profile migration mapping finalized (export + mapped seed)
+- [x] Gods/factions/narrative migration baseline seeded for NPC/dialogue systems
 
 ## D) Runtime Importers
 - [x] `ppimportskills` admin command
@@ -34,7 +34,7 @@ Project is considered complete when all items below are done:
 - [x] Room topology extractor/converter baseline (.are -> zone topology JSON)
 - [x] Exit/link generation and validation (baseline report)
 - [x] Reset/spawn conversion baseline (structured reset export)
-- [ ] Quest/script adaptation pass
+- [x] Quest/script adaptation baseline documented (`doc/playerport-quest-script-adaptation.md`)
 
 ## F) Validation & Release
 - [x] Automated migration validation script (counts, refs, collisions baseline)

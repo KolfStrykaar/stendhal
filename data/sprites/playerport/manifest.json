@@ -1,0 +1,11 @@
+{
+  "description": "Playerport sprite replacement manifest seed",
+  "generatedAt": "manual-seed",
+  "entries": [
+    {"target": "player_base", "status": "todo", "notes": "Define Playerport-themed player base sprites"},
+    {"target": "weapons_common", "status": "todo", "notes": "Map imported weapon archetypes to icon set"},
+    {"target": "armor_common", "status": "todo", "notes": "Map imported armor archetypes to icon set"},
+    {"target": "creatures_seeded", "status": "todo", "notes": "Assign sprites for pp_mob_* generated creature templates"},
+    {"target": "zone_tilesets", "status": "todo", "notes": "Create Playerport-themed tilesets for migrated zones"}
+  ]
+}

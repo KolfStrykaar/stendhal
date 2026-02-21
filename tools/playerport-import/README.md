@@ -192,3 +192,32 @@ node tools/playerport-import/generate-offline-import-batches.mjs
 
 Outputs:
 - `tools/playerport-import/offline-import-batches.ndjson`
+
+## 21) Export and map player profiles
+
+```bash
+node tools/playerport-import/extract-player-profiles.mjs /home/jacob/playerport/player
+node tools/playerport-import/map-player-profiles-to-stendhal.mjs
+```
+
+Outputs:
+- `tools/playerport-import/player-profiles-export.json`
+- `tools/playerport-import/player-profiles-stendhal.json`
+
+## 22) Seed gods -> factions/narrative mapping
+
+```bash
+node tools/playerport-import/extract-gods-to-factions.mjs /home/jacob/playerport/gods
+```
+
+Outputs:
+- `tools/playerport-import/gods-factions-seed.json`
+
+## 23) Generate curated Playerport spell allowlist
+
+```bash
+node tools/playerport-import/generate-curated-playerport-spell-list.mjs
+```
+
+Outputs:
+- `data/conf/spells/playerport_curated.txt`

@@ -1,0 +1,12 @@
+{
+  "generatedAt": "manual-seed",
+  "description": "Baseline mapping of Playerport skill IDs to Stendhal combat hook intents",
+  "hooks": [
+    {"skillId": "pp_backstab", "hook": "attack.pre", "effect": "bonus_damage_if_stealthed"},
+    {"skillId": "pp_bash", "hook": "attack.hit", "effect": "chance_stun_short"},
+    {"skillId": "pp_dodge", "hook": "defense.pre", "effect": "chance_avoid"},
+    {"skillId": "pp_parry", "hook": "defense.pre", "effect": "chance_reduce_melee"},
+    {"skillId": "pp_critical_strike", "hook": "attack.hit", "effect": "chance_critical_multiplier"},
+    {"skillId": "pp_dual_wield", "hook": "attack.post", "effect": "chance_offhand_strike"}
+  ]
+}
