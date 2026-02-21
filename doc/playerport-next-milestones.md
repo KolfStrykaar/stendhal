@@ -15,10 +15,11 @@
    - Applies converted skill IDs + values
    - Reports import summary + misses
 
-2. **Clan bridge**
-   - Load `clans-stendhal.json`
-   - Map to Stendhal group/guild structures
-   - Keep legacy clan names as metadata tag
+2. **Clan bridge** ✅ (online import stage)
+   - Command: `ppimportclans`
+   - Loads `clans-stendhal.json`
+   - Sets player `guild` to converted clan guild id (online players)
+   - Stores legacy clan name in `!features.playerport_legacy_clan`
 
 3. **Item template conversion**
    - Convert exported ROM objects to Stendhal item XML skeletons
