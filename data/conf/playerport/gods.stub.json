@@ -1,0 +1,96 @@
+{
+  "description": "Playerport gods/admin seed",
+  "generatedAt": "2026-02-21T06:54:26.733Z",
+  "gods": [
+    {
+      "name": "Chemosh",
+      "summary": "Lev 106 Trust 106  Chemosh - The {YLord{x of {DBones{x",
+      "status": "todo-map-admin-roles"
+    },
+    {
+      "name": "Chislev",
+      "summary": "Lev 106 Trust 109  Chislev - The {GMother{x",
+      "status": "todo-map-admin-roles"
+    },
+    {
+      "name": "Darkahn",
+      "summary": "Lev 101 Trust 110  Darkahn - the {DSerpent{x",
+      "status": "todo-map-admin-roles"
+    },
+    {
+      "name": "Gilean",
+      "summary": "Lev 106 Trust 106  Gilean - The Void of Souls",
+      "status": "todo-map-admin-roles"
+    },
+    {
+      "name": "Habbakuk",
+      "summary": "Lev 106 Trust 106  Habbakuk - The {bFisher{x {WKing{x",
+      "status": "todo-map-admin-roles"
+    },
+    {
+      "name": "Hiddukel",
+      "summary": "Lev 110 Trust 110  Hiddukel - God of Betrayal and False Deal-Making",
+      "status": "todo-map-admin-roles"
+    },
+    {
+      "name": "Hojo",
+      "summary": "Lev  1 Trust 110  Hojo the Pilferer",
+      "status": "todo-map-admin-roles"
+    },
+    {
+      "name": "Kolf",
+      "summary": "",
+      "status": "todo-map-admin-roles"
+    },
+    {
+      "name": "Lunitari",
+      "summary": "Lev 106 Trust 106  Lunitari - The {RRedEye{x",
+      "status": "todo-map-admin-roles"
+    },
+    {
+      "name": "Majere",
+      "summary": "Lev 106 Trust 106  Majere - The {YEnlightend{X One",
+      "status": "todo-map-admin-roles"
+    },
+    {
+      "name": "Mishakal",
+      "summary": "Lev 106 Trust 106  Mishakal - The {bHealing{x Hand",
+      "status": "todo-map-admin-roles"
+    },
+    {
+      "name": "Morgion",
+      "summary": "Lev 106 Trust 106  Morgion - The {yPlague{x Maker",
+      "status": "todo-map-admin-roles"
+    },
+    {
+      "name": "Paladine",
+      "summary": "Lev 106 Trust 106  Paladine - The official lurker of Starcraft",
+      "status": "todo-map-admin-roles"
+    },
+    {
+      "name": "Reorx",
+      "summary": "Lev 106 Trust 106  Reorx - The {RForge{x",
+      "status": "todo-map-admin-roles"
+    },
+    {
+      "name": "Sargonnas",
+      "summary": "Lev 106 Trust 105  Sargonnas - The {RRed Condor{x of {DWrath{x",
+      "status": "todo-map-admin-roles"
+    },
+    {
+      "name": "Solinari",
+      "summary": "Lev 106 Trust 109  Solinari - The {CGod{x of {WWhite Magic{x",
+      "status": "todo-map-admin-roles"
+    },
+    {
+      "name": "Zeboim",
+      "summary": "Lev 106 Trust 110  Zeboim - the Dreadful {cWind{X and {bRain{X",
+      "status": "todo-map-admin-roles"
+    },
+    {
+      "name": "Zivilyn",
+      "summary": "Lev 106 Trust 106  Zivilyn - The {yTree{x of {gLife{x",
+      "status": "todo-map-admin-roles"
+    }
+  ]
+}
