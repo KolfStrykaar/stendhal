@@ -108,3 +108,21 @@ Outputs:
 - `data/conf/creatures/playerport_mobiles.xml`
 
 > Note: this is currently a seed file and not automatically wired into `creatures.xml` yet.
+
+## 12) Export rooms from Playerport areas
+
+```bash
+node tools/playerport-import/extract-rooms-from-areas.mjs /home/jacob/playerport/area
+```
+
+Outputs:
+- `tools/playerport-import/playerport-rooms-export.json`
+
+## 13) Generate Playerport room atlas for zone migration planning
+
+```bash
+node tools/playerport-import/generate-playerport-map-atlas.mjs
+```
+
+Outputs:
+- `data/conf/zones/playerport_room_atlas.json`
