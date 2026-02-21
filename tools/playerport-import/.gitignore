@@ -3,7 +3,11 @@ player-skills-stendhal.json
 clans-stendhal.json
 dry-run-report.json
 validation-report.json
+topology-validation.json
+offline-import-batches.ndjson
 playerport-areas-export.json
 playerport-objects-export.json
 playerport-mobiles-export.json
 playerport-rooms-export.json
+playerport-room-topology.json
+playerport-resets-export.json

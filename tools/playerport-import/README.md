@@ -156,3 +156,39 @@ Outputs:
 - `tools/playerport-import/validation-report.json`
 
 Checks file presence plus node counts for generated spells/items/creatures payloads.
+
+## 17) Extract room topology (with directional exits)
+
+```bash
+node tools/playerport-import/extract-room-topology.mjs /home/jacob/playerport/area
+```
+
+Outputs:
+- `tools/playerport-import/playerport-room-topology.json`
+
+## 18) Validate topology links
+
+```bash
+node tools/playerport-import/validate-topology-links.mjs
+```
+
+Outputs:
+- `tools/playerport-import/topology-validation.json`
+
+## 19) Extract reset/spawn instructions
+
+```bash
+node tools/playerport-import/extract-resets.mjs /home/jacob/playerport/area
+```
+
+Outputs:
+- `tools/playerport-import/playerport-resets-export.json`
+
+## 20) Generate offline import batch stream
+
+```bash
+node tools/playerport-import/generate-offline-import-batches.mjs
+```
+
+Outputs:
+- `tools/playerport-import/offline-import-batches.ndjson`

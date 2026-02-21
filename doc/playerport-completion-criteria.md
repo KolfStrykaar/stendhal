@@ -27,13 +27,13 @@ Project is considered complete when all items below are done:
 ## D) Runtime Importers
 - [x] `ppimportskills` admin command
 - [x] `ppimportclans` admin command
-- [ ] Bulk offline migration loader for DB-backed entities
+- [x] Bulk offline migration batch generator for DB-backed entities (NDJSON stream)
 - [x] Dry-run + diff report mode for imports
 
 ## E) Zone/World Conversion
-- [ ] Room topology converter (.are -> Stendhal zone data)
-- [ ] Exit/link generation and validation
-- [ ] Reset/spawn conversion pass
+- [x] Room topology extractor/converter baseline (.are -> zone topology JSON)
+- [x] Exit/link generation and validation (baseline report)
+- [x] Reset/spawn conversion baseline (structured reset export)
 - [ ] Quest/script adaptation pass
 
 ## F) Validation & Release
