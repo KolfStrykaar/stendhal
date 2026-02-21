@@ -221,3 +221,14 @@ node tools/playerport-import/generate-curated-playerport-spell-list.mjs
 
 Outputs:
 - `data/conf/spells/playerport_curated.txt`
+
+## 24) Build curated Playerport spell XML
+
+```bash
+node tools/playerport-import/generate-curated-playerport-spells-xml.mjs
+```
+
+Outputs:
+- `data/conf/spells/playerport_curated.xml`
+
+Use this file for stricter production rollout instead of the full `playerport.xml` set.

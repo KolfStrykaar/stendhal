@@ -20,7 +20,8 @@ node tools/playerport-import/dry-run-import-report.mjs
 ```
 
 ## 3) Deploy generated seed files
-- `data/conf/spells/playerport.xml`
+- `data/conf/spells/playerport.xml` (full compatibility)
+- `data/conf/spells/playerport_curated.xml` (recommended production subset)
 - `data/conf/items/playerport_objects.xml`
 - `data/conf/creatures/playerport_mobiles.xml`
 - `data/conf/zones/playerport_seed.json`

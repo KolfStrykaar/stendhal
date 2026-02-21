@@ -7,6 +7,7 @@
 	<group uri="spells/fire.xml"/>
 	<group uri="spells/dark.xml"/>
 	<group uri="spells/ice.xml"/>
-	<group uri="spells/playerport.xml"/>
+	<group uri="spells/playerport_curated.xml"/>
+	<!-- <group uri="spells/playerport.xml"/> -->
 
 </groups>
