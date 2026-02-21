@@ -41,3 +41,12 @@ Outputs:
 - `data/conf/spells/playerport.xml`
 
 `data/conf/spells.xml` now includes this group file.
+
+## 5) Export object templates from area files
+
+```bash
+node tools/playerport-import/extract-objects-from-areas.mjs /home/jacob/playerport/area
+```
+
+Outputs:
+- `tools/playerport-import/playerport-objects-export.json`
